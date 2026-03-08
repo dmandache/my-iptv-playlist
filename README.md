@@ -60,5 +60,3 @@ Their project maintains one of the largest open collections of **legal IPTV stre
 This repository **does not host any video streams**.
 
 It only contains links to publicly available IPTV streams already accessible on the internet.
-
-If you believe a link violates copyright, please open an issue.
