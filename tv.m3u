@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides.xml"
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 #EXTINF:-1 tvg-id="TVR1.ro@SD" tvg-logo="https://i.imgur.com/CcUX1gB.png" group-title="RO",TVR 1
 https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/chunklist_b5160000.m3u8
 #EXTINF:-1 tvg-id="TVR2.ro@SD" tvg-logo="https://i.imgur.com/mKouHIZ.png" group-title="RO",TVR 2
