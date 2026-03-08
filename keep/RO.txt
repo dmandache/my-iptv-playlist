@@ -10,15 +10,18 @@ TVR Info
 TVR International
 TVR Sport
 Antena 1
+Comedy Play
 Antena Monden
 Antena Stars
 AntenaSport
 Digi 24
+Digi Sport
 Euronews Romania
 Observator News
 PRO TV
 Pro TV News
 Profit News
+Prima TV
 Realitatea Sportiva
 Romania TV
 Info TV Romania
@@ -34,12 +37,5 @@ Mooz Hits
 Mooz Ro!
 Impact TV Dance
 Impact TV Manele
-Comedy Play
-Disney Channel
-Exploris
 Happy Channel
-Tele7ABC
-Tele7music
-TV SUD
-Aleph Business
 Aleph News

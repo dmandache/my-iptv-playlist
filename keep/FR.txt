@@ -5,18 +5,17 @@
 # Major national channels
 TF1
 France 2
+France 3
+France 4
 France 5
 M6
 Arte
 TMC
 TFX
 TF1 Series Films
-France 4
-TV5Monde France Belgique Suisse Monaco
 TV5Monde France Belgium Switzerland Monaco
 TV5Monde Info
 TV5Monde Style
-TiVi5 Monde
 
 # News / politics
 Franceinfo
@@ -67,6 +66,7 @@ L'Equipe
 
 # Radio
 France Inter
+Radio Nova
 Radio Frontieres
 Radio Karaoke
 
