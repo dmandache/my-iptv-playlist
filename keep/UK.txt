@@ -1,0 +1,46 @@
+# Keep list for UK
+# One channel name per line. Lines starting with # are ignored.
+# Remove channels you do not want to keep.
+Adventure Earth
+Afrobeats
+Autentic History
+Autentic Travel
+BBC Alba
+BBC Four
+BBC Four UK
+BBC Four/CBeebies
+BBC Lifestyle Asia
+BBC One London
+BBC Parliament
+BBC Scotland
+BBC Three
+BBC Three/CBBC
+BBC Two
+BBC Two Northern Ireland
+BBC Two Wales
+BBC UHD 1
+CNBC UK
+DiscoverFilm
+NBC News NOW
+Nicktoons
+Now 70s
+Now 80s
+Now Rock
+Pop
+Qwest TV Jazz & Beyond
+Rakuten Top Movies UK
+Rakuten TV Action Movies UK
+Rakuten TV Comedy Movies UK
+Rakuten TV Drama Movies UK
+Rakuten TV Family Movies UK
+That's 70s
+That's TV
+The Graham Norton Show
+Top Gear
+Totalmusic
+Totalmusic 2000s
+Totalmusic 80s
+Totalmusic Concerts
+Totalmusic Dance
+TRACE Latina
+Vantage Music UK

@@ -1,0 +1,61 @@
+# Keep list for FR
+# One channel name per line. Lines starting with # are ignored.
+# Remove channels you do not want to keep.
+20 Minutes TV
+Animaux
+Antenne Réunion
+Arte
+BFM 2
+BFM TV
+Canal+ en clair
+Cannes Lérins TV
+Cine Western
+Clubbing TV France
+CNews
+DBM TV
+Disney Jr.
+Euronews French
+FashionTV Paris L'Original
+FashionTV Secrets
+France 2
+France 24 French
+France 4
+France 5
+France Inter
+Franceinfo
+Francophonie24
+LCI
+L'Equipe
+Le Figaro IDF
+M6
+Mezzo
+Mouv' TV
+MTV
+Nickelodeon
+Nickelodeon Junior
+Novo Comedy
+NOVO19
+P2M TV
+Planete+
+Public Senat 24/24
+Puissance TV
+Qwest TV Jazz & Beyond
+Radio Frontieres
+Radio Karaoke
+RMC Decouverte
+RMC Life
+RMC Story
+RT France
+RTL2
+RTL9
+TF1
+TF1 Series Films
+TFX
+TiVi5 Monde
+TMC
+Trek
+TV5Monde France Belgique Suisse Monaco
+TV5Monde France Belgium Switzerland Monaco
+TV5Monde Info
+TV5Monde Style
+Wildside TV

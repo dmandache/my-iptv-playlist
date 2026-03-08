@@ -1,0 +1,41 @@
+# Keep list for US
+# One channel name per line. Lines starting with # are ignored.
+# Remove channels you do not want to keep.
+ABC
+ABC News Live 1
+A&E East
+BBC America
+Bloomberg Television
+CBS News 24/7
+CNBC
+Court TV
+Disney Channel East
+E! East
+E! Keeping Up
+Entertainment Tonight
+FX East
+Fox Business Network
+Fox News Channel
+FOX Weather
+Freeform
+Game Show Network East
+ION
+LiveNOW from FOX
+NBC News NOW
+PBS National East
+Reuters TV
+Scripps News
+USA Network East
+Vice TV
+SNL Vault
+The Johnny Carson Show
+The Carol Burnett Show
+Comedy Dynamics
+Dry Bar Comedy
+Pluto TV MTV Classic
+Revolt
+Vevo Pop
+Vevo 80s
+Vevo 90s
+Vevo Hip Hop
+CMC-USA (California Music Channel)
