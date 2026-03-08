@@ -9,9 +9,7 @@ A curated IPTV playlist of publicly available TV channels focused on **news, ent
 
 Designed to work with IPTV players such as: **TiviMate**, **VLC**, **Kodi**, **Jellyfin** or **OTT Navigator**.
 
----
-
-# Playlist URL
+## Playlist URL
 
 Use the **raw GitHub link** in your IPTV player:
 
@@ -21,9 +19,7 @@ https://raw.githubusercontent.com/dmandache/my-iptv-playlist/master/playlist.m3u
 
 Most IPTV apps will **automatically update the playlist** when changes are pushed to the repository.
 
----
-
-# Add to TiviMate
+## Add to TiviMate
 
 1. Open **TiviMate**
 2. Go to **Settings → Playlists**
@@ -37,9 +33,7 @@ https://raw.githubusercontent.com/dmandache/my-iptv-playlist/master/playlist.m3u
 
 6. Refresh playlist
 
----
-
-# Optional: Add EPG (TV Guide)
+## Optional: Add EPG (TV Guide)
 
 You can add an Electronic Program Guide for program schedules.
 
@@ -51,9 +45,7 @@ https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz
 
 Add this URL in your IPTV player under **EPG settings**.
 
----
-
-# Acknowledgements
+## Acknowledgements
 
 This playlist builds upon publicly available IPTV resources.
 Special thanks to the iptv-org project.
@@ -63,9 +55,7 @@ Their project maintains one of the largest open collections of **legal IPTV stre
 * [https://iptv-org.github.io/](https://iptv-org.github.io/)
 * [https://github.com/iptv-org/iptv](https://github.com/iptv-org/iptv)
 
----
-
-# Legal Notice
+## Legal Notice
 
 This repository **does not host any video streams**.
 
