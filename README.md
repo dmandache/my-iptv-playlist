@@ -28,7 +28,7 @@ Most IPTV apps will **automatically update the playlist** when changes are pushe
 5. Paste:
 
 ```
-https://raw.githubusercontent.com/dmandache/my-iptv-playlist/master/playlist.m3u
+https://raw.githubusercontent.com/dmandache/my-iptv-playlist/master/tv.m3u
 ```
 
 6. Refresh playlist
