@@ -14,7 +14,7 @@ Designed to work with IPTV players such as: **TiviMate**, **VLC**, **Kodi**, **J
 Use the **raw GitHub link** in your IPTV player:
 
 ```
-https://raw.githubusercontent.com/dmandache/my-iptv-playlist/master/playlist.m3u
+https://raw.githubusercontent.com/dmandache/my-iptv-playlist/master/tv.m3u
 ```
 
 Most IPTV apps will **automatically update the playlist** when changes are pushed to the repository.
