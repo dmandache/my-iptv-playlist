@@ -11,7 +11,7 @@ SOURCES = {
     "UK": "https://iptv-org.github.io/iptv/countries/uk.m3u",
     "US": "https://iptv-org.github.io/iptv/countries/us.m3u",
 }
-KEEP_DEFAULT_DIR = "keep"
+ALL_DEFAULT_DIR = "all"
 
 
 def download_text(url: str) -> str:
@@ -132,7 +132,7 @@ def parse_args():
     parser.add_argument(
         "--export-keep-template",
         nargs="?",
-        const=KEEP_DEFAULT_DIR,
+        const=ALL_DEFAULT_DIR,
         metavar="DIR",
         help="Export one keep template file per country into DIR (default: keep).",
     )
