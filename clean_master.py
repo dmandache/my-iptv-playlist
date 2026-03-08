@@ -11,7 +11,7 @@ SOURCES = {
     "UK": "https://iptv-org.github.io/iptv/countries/uk.m3u",
     "US": "https://iptv-org.github.io/iptv/countries/us.m3u",
 }
-EPG_URL = "https://iptv-org.github.io/epg/guides.xml"
+EPG_URL = "https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz" #"https://iptv-org.github.io/epg/guides.xml"
 OUTFILE = "tv.m3u"
 KEEP_DEFAULT_DIR = "keep"
 
