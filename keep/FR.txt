@@ -1,61 +1,74 @@
 # Keep list for FR
 # One channel name per line. Lines starting with # are ignored.
 # Remove channels you do not want to keep.
-20 Minutes TV
-Animaux
-Antenne Réunion
-Arte
-BFM 2
-BFM TV
-Canal+ en clair
-Cannes Lérins TV
-Cine Western
-Clubbing TV France
-CNews
-DBM TV
-Disney Jr.
-Euronews French
-FashionTV Paris L'Original
-FashionTV Secrets
-France 2
-France 24 French
-France 4
-France 5
-France Inter
-Franceinfo
-Francophonie24
-LCI
-L'Equipe
-Le Figaro IDF
-M6
-Mezzo
-Mouv' TV
-MTV
-Nickelodeon
-Nickelodeon Junior
-Novo Comedy
-NOVO19
-P2M TV
-Planete+
-Public Senat 24/24
-Puissance TV
-Qwest TV Jazz & Beyond
-Radio Frontieres
-Radio Karaoke
-RMC Decouverte
-RMC Life
-RMC Story
-RT France
-RTL2
-RTL9
+
+# Major national channels
 TF1
-TF1 Series Films
-TFX
-TiVi5 Monde
+France 2
+France 5
+M6
+Arte
 TMC
-Trek
+TFX
+TF1 Series Films
+France 4
 TV5Monde France Belgique Suisse Monaco
 TV5Monde France Belgium Switzerland Monaco
 TV5Monde Info
 TV5Monde Style
+TiVi5 Monde
+
+# News / politics
+Franceinfo
+France 24 French
+BFM TV
+LCI
+CNews
+Euronews French
+Public Senat 24/24
+Le Figaro IDF
+20 Minutes TV
+Francophonie24
+RT France
+
+# Entertainment / general TV
+Canal+ en clair
+RMC Story
+RMC Life
+RMC Decouverte
+RTL9
+Novo Comedy
+NOVO19
+Puissance TV
 Wildside TV
+
+# Documentary / culture
+Planete+
+Trek
+Animaux
+
+# Music / culture
+MTV
+RTL2
+Mezzo
+Qwest TV Jazz & Beyond
+Mouv' TV
+Clubbing TV France
+FashionTV Paris L'Original
+FashionTV Secrets
+
+# Kids
+Nickelodeon
+Nickelodeon Junior
+Disney Jr.
+
+# Sports
+L'Equipe
+
+# Radio
+France Inter
+Radio Frontieres
+Radio Karaoke
+
+# Regional / overseas
+Antenne Réunion

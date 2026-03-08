@@ -1,39 +1,6 @@
 # Keep list for RO
 # One channel name per line. Lines starting with # are ignored.
 # Remove channels you do not want to keep.
-Aleph Business
-Aleph News
-Antena 1
-Antena Monden
-Antena Stars
-AntenaSport
-Atomic Academy TV
-Atomic TV
-Comedy Play
-Digi 24
-Disney Channel
-Euronews Romania
-Exploris
-Happy Channel
-Impact TV Dance
-Impact TV Manele
-Info TV Romania
-Kanal D
-Kiss TV
-Magic TV
-Mooz Dance
-Mooz Hits
-Mooz Ro!
-Observator News
-PRO TV
-Pro TV News
-Profit News
-Realitatea Sportiva
-Rock TV
-Romania TV
-Tele7ABC
-Tele7music
-TV SUD
 TVR 1
 TVR 2
 TVR 3
@@ -42,4 +9,37 @@ TVR Cultural
 TVR Info
 TVR International
 TVR Sport
+Antena 1
+Antena Monden
+Antena Stars
+AntenaSport
+Digi 24
+Euronews Romania
+Observator News
+PRO TV
+Pro TV News
+Profit News
+Realitatea Sportiva
+Romania TV
+Info TV Romania
+Kanal D
+Kiss TV
+Atomic TV
+Atomic Academy TV
+Magic TV
+Rock TV
 ZU TV
+Mooz Dance
+Mooz Hits
+Mooz Ro!
+Impact TV Dance
+Impact TV Manele
+Comedy Play
+Disney Channel
+Exploris
+Happy Channel
+Tele7ABC
+Tele7music
+TV SUD
+Aleph Business
+Aleph News

@@ -189,17 +189,19 @@ def matches_any(text: str, patterns):
     return any(re.search(p, text, flags=re.IGNORECASE) for p in patterns)
 
 
-def quality_rank(name: str):
-    n = name.upper()
-    if "UHD" in n or "2160P" in n:
+def quality_rank(name: str, extinf: str = ""):
+    # Use both display name and EXTINF metadata: many feeds expose quality in tvg-id (@HD/@SD).
+    text = f"{name} {extinf}".upper()
+
+    if re.search(r"\b(UHD|2160P)\b", text):
+        return 5
+    if re.search(r"\b(FHD|1080P)\b", text):
         return 4
-    if "FHD" in n or "1080P" in n:
+    if re.search(r"\b(HD|720P)\b", text):
         return 3
-    if re.search(r"\bHD\b", n) or "720P" in n:
-        return 2
-    if re.search(r"\bSD\b", n) or "576P" in n or "480P" in n:
-        return 0
-    return 1
+    if re.search(r"\b(SD|576P|540P|480P|360P|240P)\b", text):
+        return 1
+    return 2
 
 
 def clean_name(name: str) -> str:
@@ -326,7 +328,7 @@ def choose_entries(country_code: str, entries):
         key = normalize_key(country_code, cname)
         item = (
             priority_score(country_code, cname),
-            quality_rank(name),
+            quality_rank(name, extinf),
             extinf,
             cname,
             url,
@@ -356,7 +358,7 @@ def choose_entries_from_keep(country_code: str, entries, requested):
     for extinf, name, url in entries:
         cname = clean_name(name)
         key = normalize_keep_key(cname)
-        item = (quality_rank(name), extinf, cname, url)
+        item = (quality_rank(name, extinf), extinf, cname, url)
         if key not in best or item[0] > best[key][0]:
             best[key] = item
 
