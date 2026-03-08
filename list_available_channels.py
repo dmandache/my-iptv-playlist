@@ -8,6 +8,7 @@ from urllib.request import Request, urlopen
 SOURCES = {
     "RO": "https://iptv-org.github.io/iptv/countries/ro.m3u",
     "FR": "https://iptv-org.github.io/iptv/countries/fr.m3u",
+    "ES": "https://iptv-org.github.io/iptv/countries/es.m3u",
     "UK": "https://iptv-org.github.io/iptv/countries/uk.m3u",
     "US": "https://iptv-org.github.io/iptv/countries/us.m3u",
 }
