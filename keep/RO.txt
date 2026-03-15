@@ -10,6 +10,7 @@ TVR Info
 TVR International
 TVR Sport
 Antena 1
+Observator News
 Comedy Play
 Antena Monden
 Antena Stars
@@ -17,7 +18,6 @@ AntenaSport
 Digi 24
 Digi Sport
 Euronews Romania
-Observator News
 PRO TV
 Pro TV News
 Profit News
@@ -38,4 +38,3 @@ Mooz Ro!
 Impact TV Dance
 Impact TV Manele
 Happy Channel
-Aleph News
