@@ -1,0 +1,254 @@
+# Keep list for ES
+# One channel name per line. Lines starting with # are ignored.
+# Remove channels you do not want to keep.
+101tv Axarquia
+101tv Cádiz
+101tv Malaga
+101tv Sevilla
+12TV Alicante
+24 Horas
+24 Horas Internacional
+28 kanala
+3Cat Càmeres del temps
+3Cat El búnquer
+3Cat Exclusiu 1
+3Cat Exclusiu 2
+3Cat Exclusiu 3
+3Cat Plats bruts
+3CatInfo
+7 TeleValencia
+8 La Marina TV
+9 la Loma TV
+A Punt
+Activa TV
+Actualidad 360
+Alacantí TV
+Alcarria TV
+Angel TV Spanish
+Anime Vision
+Anime Vision Classics
+Anime Zone TV
+Antena 3 Internacional
+Arabí TV
+Aragon TV
+Atrescine
+Atreseries Internacional
+Bailén TV
+Barca TV
+BBC Drama
+BCN Gospel TV
+BDNCOM
+Biosfera TV
+Bon Dia TV
+Burriana TV
+Cadena Elite
+Canal 1 Mar Menor-Torre Pacheco
+Canal 10 Empordà
+Canal 2000 La Solana
+Canal 24 Horas Canarias
+Canal 24 Horas Catalunya
+Canal 25 TV
+Canal 3 Biar
+Canal 33 Madrid
+Canal 4 Catalunya
+Canal 4 Mallorca
+Canal 4 Mancha Centro
+Canal 45
+Canal 56
+Canal Coín
+Canal Diocesano
+Canal Doñana
+Canal Extremadura
+Canal Luz Televisión
+Canal Málaga RTV
+Canal Parlamento
+Canal Reus TV
+Canal San Roque
+Canal Sierra de Cádiz
+Canal Sur Andalucia
+Canal Sur Andalucía 2
+Canal Sur Noticias
+Canal Taronja Comarques Centrals
+Canal Taronja Osona i Moianés
+Canal Terrassa
+Canal Terres de L'Ebre
+CanalCosta
+Cancionero TV
+Cetelmón TV
+Ciudades Del Ocio TV
+Clan
+CMM TV
+Condavisión
+Congreso de los Diputados 1
+Congreso de los Diputados 2
+Congreso de los Diputados 3
+Congreso de los Diputados 4
+Congreso de los Diputados 5
+Corts Valencianes
+Costa Noroeste TV
+Cristiana TV
+Cugat TV
+Córdoba TV
+Diez TV Las Villas
+Diez TV Úbeda
+Distrito TV
+Durangaldeko Telebista
+El 33
+El 33 Originals
+El 9 TV
+El Toro TV
+Elche 7 TV
+Empordà TV
+Esport3
+Este Canal TV
+Estepona Televisión
+EsTuTele
+ETB Basque
+ETB Events 1
+ETV Terramar
+EWTN Espana
+EWTN Spain & Latin America
+Fibwi
+FIFA+ Spain
+Fitel TV
+France 24 Español
+Fuerteventura TV
+Galicia TV Europa
+Goiena Eus
+Gol Classics
+Guada TV
+Hamaika Telebista
+Historia
+HOLA! Play
+Huelva TV
+IberoAmerica TV
+Imás TV
+Interalmeria TV
+Intercomarcal TV
+KTO
+La 1
+La 1 Canarias
+La 1 Catalunya
+La 2
+La 2 Canarias
+La 2 Catalunya
+La Urban TV
+Lancelot TV
+LaOtra
+LiraTV
+Lleida Televisió
+Logos TV
+Logos TV Estudio
+Logos TV Kids
+Logos TV Salud
+Love The Planet ES
+M95 Televisión Marbella
+Maestrat TV
+Mar TV
+Mataró Televisió
+Mijas 3.40TV
+Molahits TV
+Music TV Granada
+MyTime movie network Spain
+Mírame TV
+NatureTime
+Negocios TV
+NORTEvisión
+Olot TV
+Olympic Channel
+Onda 15 TV
+Onda Algeciras TV
+Onda Cádiz 24h
+Onda Madrid
+Onda Valencia
+Parlamento de Andalucía
+Parlamento de Navarra
+Penedès Televisió
+Pequeradio
+Piera TV
+Pirineus TV
+Platzi TV
+POP World TV
+Popular TV Melilla
+Popular TV Murcia
+PTV Córdoba
+PTV Granada
+PTV Linares
+PTV Málaga
+PTV Sevilla
+Punt 3 Vall Uixó
+Radio Carnaval TV
+Rakuten TV Action Movies Spain
+Rakuten TV Comedy Movies Spain
+Rakuten TV Drama Movies Spain
+Rakuten TV Family Movies Spain
+Rakuten TV Top Movies Spain
+Rakuten Viki
+Real Madrid TV US Version
+Ribera TV
+Rioja Televisión
+ROTV Valencia
+RT en Español
+RTV El Vendrell
+RTV Manilva
+RTV Marbella
+RTV Vida
+RTVC Cardedeu
+Ràdio Bocairent TV
+Sevilla FC TV
+Sol Música
+Solidaria TV
+SpektraTV
+STZ Telebista
+SX3
+Tarotéame
+TBN España
+Tele 7
+Tele Elx
+Tele Safor
+TeleBilbao
+Teledeporte
+Teleganés
+Telemadrid
+Telemadrid Internacional
+Telemotril
+Teleonuba
+TeleRibera
+TeleVigo
+Televisión Aranda
+Televisión Consciente
+The Pet Collective
+Trece TV
+TV Almassora
+TV Artequatre
+TV Berguedà
+TV BRICS Spanish
+TV Costa Brava
+TV Girona
+TV L'Hospitalet
+TV Ripollès
+TV Sabadell-Vallès
+TV San Vicente
+TV3
+TV3CAT
+TV3CAT Originals
+TVCentro Andalucía
+TVE Star
+TVG2
+TVM Córdoba
+TVO Jesus
+TVOMIX
+TVReus
+Une Vinalopó
+Univers TV
+Urola Telebista
+Vallès Visió
+Ventdelnord TV
+Vivamóvil
+VOTV
+XPTV US
+XPTV1
+XPTV2
+Zylo Cine Friki
+Zylo Cine Western
+Zylo Todo Novelas

@@ -1,0 +1,94 @@
+# Keep list for RO
+# One channel name per line. Lines starting with # are ignored.
+# Remove channels you do not want to keep.
+A7TV
+Agro TV
+Aleph Business
+Aleph News
+Alfa Omega TV
+Angelus TV
+Antena 1
+Antena Monden
+Antena Stars
+AntenaSport
+Ardeal TV
+Arges TV
+Atomic Academy TV
+Atomic TV
+Banat TV
+Bollywood
+Bollywood Classic
+Bucovina TV (576i)
+CaTine
+Comedy Play
+Credo TV
+Digi 24
+Disney Channel
+Dotto TV
+Euronews Romania
+Exclusiv TV
+Exploris
+Happy Channel
+HD365 TV
+Hello Taste
+Hunedoara 1
+IasiTV Life
+Impact TV Dance
+Impact TV Manele
+Info TV Romania
+Informatia TV
+Intermedia TV
+JOB TV
+Kanal D
+Kanal D2
+Kiss TV
+Light Channel
+LiraTV
+Magic TV
+MediCOOL TV
+Metropola TV
+Mireasa
+MISA TV
+Moldova TV
+Mooz Dance
+Mooz Hits
+Mooz Ro!
+Motorvision.tv (French)
+Muscel TV
+Nasul TV
+Nova TV Brasov
+Observator News
+PRO TV
+Pro TV News
+PROFI 24 TV
+Profit News
+Rapsodia TV
+Realitatea Sportiva
+Rock TV
+Romania TV
+ROTV Valencia
+SperantaTV
+Super TV (1080i)
+Tele7ABC
+Tele7music
+TeleM Botosani
+TeleMoldova +
+Telestar1
+Traditional TV
+TV Buzau
+TV SUD
+TVPlus Suceava
+TVR 1
+TVR 2
+TVR 3
+TVR Cluj
+TVR Craiova
+TVR Cultural
+TVR Iasi
+TVR Info
+TVR International
+TVR Sport
+TVR Targu-Mures
+TVR Timisoara
+TVSat
+ZU TV
