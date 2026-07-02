@@ -135,7 +135,7 @@ def parse_args():
         nargs="?",
         const=ALL_DEFAULT_DIR,
         metavar="DIR",
-        help="Export one keep template file per country into DIR (default: keep).",
+        help=f"Export one keep template file per country into DIR (default: {ALL_DEFAULT_DIR}).",
     )
     return parser.parse_args()
 
