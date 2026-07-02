@@ -1,0 +1,51 @@
+name: Regenerate playlist
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Every day at 3:17 AM, using the repository's local timezone.
+    - cron: "17 3 * * *"
+      timezone: "Europe/Paris"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: regenerate-playlist
+  cancel-in-progress: true
+
+jobs:
+  regenerate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v5
+        with:
+          ref: ${{ github.ref_name }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Regenerate playlist
+        run: python generate_playlist.py
+
+      - name: Regenerate EPG
+        run: python generate_epg.py
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add tv.m3u epg.xml
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git commit -m "chore: regenerate playlist"
+          git push origin HEAD:${GITHUB_REF_NAME}

@@ -16,9 +16,14 @@ Antena Monden
 Antena Stars
 AntenaSport
 Digi 24
-Digi Sport
+Digi Sport 1
+Digi Sport 2
+Digi Sport 3
+Digi Sport 4
 Euronews Romania
 PRO TV
+Pro Arena
+Pro Cinema
 Pro TV News
 Profit News
 Prima TV
@@ -38,3 +43,6 @@ Mooz Ro!
 Impact TV Dance
 Impact TV Manele
 Happy Channel
+CineMaraton
+Diva
+History
