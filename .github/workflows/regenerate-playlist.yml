@@ -30,7 +30,7 @@ jobs:
           python-version: "3.12"
 
       - name: Regenerate playlist
-        run: python generate_playlist.py
+        run: python generate_playlist.py --keep-dir
 
       - name: Regenerate EPG
         run: python generate_epg.py
