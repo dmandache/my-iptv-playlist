@@ -289,13 +289,13 @@
     <url>http://www.cinemagia.ro</url>
     <display-name lang="ro">Digi 24</display-name>
   </channel>
-  <channel id="DigiSport1.ro@HD">
+  <channel id="DigiSport1.ro@SD">
     <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/digi-sport-1.jpg" />
     <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/digi-sport-1.jpg" />
     <url>http://www.cinemagia.ro</url>
     <display-name lang="ro">Digi Sport 1</display-name>
   </channel>
-  <channel id="DigiSport2.ro@HD">
+  <channel id="DigiSport2.ro@SD">
     <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/digi-sport-2.jpg" />
     <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/digi-sport-2.jpg" />
     <url>http://www.cinemagia.ro</url>
@@ -90460,1099 +90460,1099 @@ Gazde: Bogdan Mirică și Tibi Troia.</desc>
   <programme channel="EuronewsRomania.ro@SD" start="20260725234500 +0300" stop="20260726000000 +0300">
     <title lang="ro">Trăiești bine</title>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260722070000 +0300" stop="20260722072000 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260722070000 +0300" stop="20260722072000 +0300">
     <title lang="ro">Stirile Digi Sport</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260722072000 +0300" stop="20260722074000 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260722072000 +0300" stop="20260722074000 +0300">
     <title lang="ro">Stirile Digi Sport</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260722074000 +0300" stop="20260722080000 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260722074000 +0300" stop="20260722080000 +0300">
     <title lang="ro">Stirile Digi Sport</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260722080000 +0300" stop="20260722082000 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260722080000 +0300" stop="20260722082000 +0300">
     <title lang="ro">Stirile Digi Sport</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260722082000 +0300" stop="20260722084000 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260722082000 +0300" stop="20260722084000 +0300">
     <title lang="ro">Stirile Digi Sport</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260722084000 +0300" stop="20260722090000 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260722084000 +0300" stop="20260722090000 +0300">
     <title lang="ro">Stirile Digi Sport</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260722090000 +0300" stop="20260722092000 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260722090000 +0300" stop="20260722092000 +0300">
     <title lang="ro">Stirile Digi Sport</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260722092000 +0300" stop="20260722094000 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260722092000 +0300" stop="20260722094000 +0300">
     <title lang="ro">Stirile Digi Sport</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260722094000 +0300" stop="20260722100000 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260722094000 +0300" stop="20260722100000 +0300">
     <title lang="ro">Stirile Digi Sport</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260722100000 +0300" stop="20260722101500 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260722100000 +0300" stop="20260722101500 +0300">
     <title lang="ro">Stirile Digi Sport</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260722101500 +0300" stop="20260722110000 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260722101500 +0300" stop="20260722110000 +0300">
     <title lang="ro">Liga Digi Sport</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260722110000 +0300" stop="20260722111500 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260722110000 +0300" stop="20260722111500 +0300">
     <title lang="ro">Stirile Digi Sport</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260722111500 +0300" stop="20260722120000 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260722111500 +0300" stop="20260722120000 +0300">
     <title lang="ro">Fotbal Club</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260722120000 +0300" stop="20260722121500 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260722120000 +0300" stop="20260722121500 +0300">
     <title lang="ro">Stirile Digi Sport</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260722121500 +0300" stop="20260722130000 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260722121500 +0300" stop="20260722130000 +0300">
     <title lang="ro">Fotbal Club</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260722130000 +0300" stop="20260722131500 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260722130000 +0300" stop="20260722131500 +0300">
     <title lang="ro">Stirile Digi Sport</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260722131500 +0300" stop="20260722140000 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260722131500 +0300" stop="20260722140000 +0300">
     <title lang="ro">Digi Sport Special</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260722140000 +0300" stop="20260722141500 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260722140000 +0300" stop="20260722141500 +0300">
     <title lang="ro">Stirile Digi Sport</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260722141500 +0300" stop="20260722150000 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260722141500 +0300" stop="20260722150000 +0300">
     <title lang="ro">Digi Sport Special</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260722150000 +0300" stop="20260722151500 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260722150000 +0300" stop="20260722151500 +0300">
     <title lang="ro">LIVE Stirile Digi Sport</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260722151500 +0300" stop="20260722161500 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260722151500 +0300" stop="20260722161500 +0300">
     <title lang="ro">Fotbal European</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260722161500 +0300" stop="20260722163000 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260722161500 +0300" stop="20260722163000 +0300">
     <title lang="ro">Fotbal European</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260722163000 +0300" stop="20260722170000 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260722163000 +0300" stop="20260722170000 +0300">
     <title lang="ro">LIVE Stirile Digi Sport</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260722170000 +0300" stop="20260722183000 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260722170000 +0300" stop="20260722183000 +0300">
     <title lang="ro">LIVE Liga Digi Sport</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260722183000 +0300" stop="20260722190000 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260722183000 +0300" stop="20260722190000 +0300">
     <title lang="ro">LIVE Stirile Digi Sport</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260722190000 +0300" stop="20260722203000 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260722190000 +0300" stop="20260722203000 +0300">
     <title lang="ro">LIVE Digi Sport Special</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260722203000 +0300" stop="20260722223000 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260722203000 +0300" stop="20260722223000 +0300">
     <title lang="ro">LIVE Levski Sofia - Universitatea Craiova</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260722223000 +0300" stop="20260722230000 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260722223000 +0300" stop="20260722230000 +0300">
     <title lang="ro">LIVE Fotbal Club</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260722230000 +0300" stop="20260722233000 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260722230000 +0300" stop="20260722233000 +0300">
     <title lang="ro">LIVE Stirile Digi Sport</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260722233000 +0300" stop="20260723010000 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260722233000 +0300" stop="20260723010000 +0300">
     <title lang="ro">Fotbal Club</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260723010000 +0300" stop="20260723011500 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260723010000 +0300" stop="20260723011500 +0300">
     <title lang="ro">Stirile Digi Sport</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260723011500 +0300" stop="20260723024500 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260723011500 +0300" stop="20260723024500 +0300">
     <title lang="ro">Digi Sport Special</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260723024500 +0300" stop="20260723040000 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260723024500 +0300" stop="20260723040000 +0300">
     <title lang="ro">Liga Digi Sport</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260723040000 +0300" stop="20260723053000 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260723040000 +0300" stop="20260723053000 +0300">
     <title lang="ro">Fotbal Club</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260723053000 +0300" stop="20260723070000 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260723053000 +0300" stop="20260723070000 +0300">
     <title lang="ro">Digi Sport Special</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260723070000 +0300" stop="20260723072000 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260723070000 +0300" stop="20260723072000 +0300">
     <title lang="ro">Stirile Digi Sport</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260723072000 +0300" stop="20260723074000 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260723072000 +0300" stop="20260723074000 +0300">
     <title lang="ro">Stirile Digi Sport</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260723074000 +0300" stop="20260723080000 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260723074000 +0300" stop="20260723080000 +0300">
     <title lang="ro">Stirile Digi Sport</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260723080000 +0300" stop="20260723082000 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260723080000 +0300" stop="20260723082000 +0300">
     <title lang="ro">Stirile Digi Sport</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260723082000 +0300" stop="20260723084000 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260723082000 +0300" stop="20260723084000 +0300">
     <title lang="ro">Stirile Digi Sport</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260723084000 +0300" stop="20260723090000 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260723084000 +0300" stop="20260723090000 +0300">
     <title lang="ro">Stirile Digi Sport</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260723090000 +0300" stop="20260723092000 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260723090000 +0300" stop="20260723092000 +0300">
     <title lang="ro">Stirile Digi Sport</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260723092000 +0300" stop="20260723094000 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260723092000 +0300" stop="20260723094000 +0300">
     <title lang="ro">Stirile Digi Sport</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260723094000 +0300" stop="20260723100000 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260723094000 +0300" stop="20260723100000 +0300">
     <title lang="ro">Stirile Digi Sport</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260723100000 +0300" stop="20260723101500 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260723100000 +0300" stop="20260723101500 +0300">
     <title lang="ro">Stirile Digi Sport</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260723101500 +0300" stop="20260723110000 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260723101500 +0300" stop="20260723110000 +0300">
     <title lang="ro">Fotbal Club</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260723110000 +0300" stop="20260723111500 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260723110000 +0300" stop="20260723111500 +0300">
     <title lang="ro">Stirile Digi Sport</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260723111500 +0300" stop="20260723120000 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260723111500 +0300" stop="20260723120000 +0300">
     <title lang="ro">Fotbal Club</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260723120000 +0300" stop="20260723121500 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260723120000 +0300" stop="20260723121500 +0300">
     <title lang="ro">Stirile Digi Sport</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260723121500 +0300" stop="20260723130000 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260723121500 +0300" stop="20260723130000 +0300">
     <title lang="ro">Liga Digi Sport</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260723130000 +0300" stop="20260723131500 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260723130000 +0300" stop="20260723131500 +0300">
     <title lang="ro">Stirile Digi Sport</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260723131500 +0300" stop="20260723140000 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260723131500 +0300" stop="20260723140000 +0300">
     <title lang="ro">Digi Sport Special</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260723140000 +0300" stop="20260723141500 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260723140000 +0300" stop="20260723141500 +0300">
     <title lang="ro">Stirile Digi Sport</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260723141500 +0300" stop="20260723153000 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260723141500 +0300" stop="20260723153000 +0300">
     <title lang="ro">Fotbal Club</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260723153000 +0300" stop="20260723160000 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260723153000 +0300" stop="20260723160000 +0300">
     <title lang="ro">LIVE Stirile Digi Sport</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260723160000 +0300" stop="20260723173000 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260723160000 +0300" stop="20260723173000 +0300">
     <title lang="ro">LIVE Liga Digi Sport</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260723173000 +0300" stop="20260723180000 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260723173000 +0300" stop="20260723180000 +0300">
     <title lang="ro">LIVE Stirile Digi Sport</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260723180000 +0300" stop="20260723184500 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260723180000 +0300" stop="20260723184500 +0300">
     <title lang="ro">LIVE Alashkert - CFR Cluj Tur 2 preliminar</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260723184500 +0300" stop="20260723190000 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260723184500 +0300" stop="20260723190000 +0300">
     <title lang="ro">LIVE Stirile Digi Sport</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260723190000 +0300" stop="20260723200000 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260723190000 +0300" stop="20260723200000 +0300">
     <title lang="ro">LIVE Alashkert - CFR Cluj Tur 2 preliminar</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260723200000 +0300" stop="20260723204500 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260723200000 +0300" stop="20260723204500 +0300">
     <title lang="ro">LIVE UECL: U Cluj - Brann</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260723204500 +0300" stop="20260723220000 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260723204500 +0300" stop="20260723220000 +0300">
     <title lang="ro">LIVE Digi Sport Special</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260723220000 +0300" stop="20260723230000 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260723220000 +0300" stop="20260723230000 +0300">
     <title lang="ro">LIVE Digi Sport Special</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260723230000 +0300" stop="20260724003000 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260723230000 +0300" stop="20260724003000 +0300">
     <title lang="ro">LIVE Fotbal Club</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260724003000 +0300" stop="20260724004500 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260724003000 +0300" stop="20260724004500 +0300">
     <title lang="ro">LIVE Stirile Digi Sport</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260724004500 +0300" stop="20260724020000 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260724004500 +0300" stop="20260724020000 +0300">
     <title lang="ro">Digi Sport Special</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260724020000 +0300" stop="20260724033000 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260724020000 +0300" stop="20260724033000 +0300">
     <title lang="ro">Fotbal Club</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260724033000 +0300" stop="20260724051500 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260724033000 +0300" stop="20260724051500 +0300">
     <title lang="ro">U Cluj - Brann</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260724051500 +0300" stop="20260724061500 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260724051500 +0300" stop="20260724061500 +0300">
     <title lang="ro">Digi Sport Special</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260724061500 +0300" stop="20260724072000 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260724061500 +0300" stop="20260724072000 +0300">
     <title lang="ro">Fotbal Club</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260724072000 +0300" stop="20260724074000 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260724072000 +0300" stop="20260724074000 +0300">
     <title lang="ro">Stirile Digi Sport</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260724074000 +0300" stop="20260724080000 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260724074000 +0300" stop="20260724080000 +0300">
     <title lang="ro">Stirile Digi Sport</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260724080000 +0300" stop="20260724082000 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260724080000 +0300" stop="20260724082000 +0300">
     <title lang="ro">Stirile Digi Sport</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260724082000 +0300" stop="20260724084000 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260724082000 +0300" stop="20260724084000 +0300">
     <title lang="ro">Stirile Digi Sport</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260724084000 +0300" stop="20260724090000 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260724084000 +0300" stop="20260724090000 +0300">
     <title lang="ro">Stirile Digi Sport</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260724090000 +0300" stop="20260724092000 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260724090000 +0300" stop="20260724092000 +0300">
     <title lang="ro">Stirile Digi Sport</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260724092000 +0300" stop="20260724094000 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260724092000 +0300" stop="20260724094000 +0300">
     <title lang="ro">Stirile Digi Sport</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260724094000 +0300" stop="20260724100000 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260724094000 +0300" stop="20260724100000 +0300">
     <title lang="ro">Stirile Digi Sport</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260724100000 +0300" stop="20260724101500 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260724100000 +0300" stop="20260724101500 +0300">
     <title lang="ro">Stirile Digi Sport</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260724101500 +0300" stop="20260724110000 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260724101500 +0300" stop="20260724110000 +0300">
     <title lang="ro">Digi Sport Special</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260724110000 +0300" stop="20260724111500 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260724110000 +0300" stop="20260724111500 +0300">
     <title lang="ro">Stirile Digi Sport</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260724111500 +0300" stop="20260724120000 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260724111500 +0300" stop="20260724120000 +0300">
     <title lang="ro">Fotbal Club</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260724120000 +0300" stop="20260724121500 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260724120000 +0300" stop="20260724121500 +0300">
     <title lang="ro">Stirile Digi Sport</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260724121500 +0300" stop="20260724130000 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260724121500 +0300" stop="20260724130000 +0300">
     <title lang="ro">Fotbal Club</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260724130000 +0300" stop="20260724131500 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260724130000 +0300" stop="20260724131500 +0300">
     <title lang="ro">Stirile Digi Sport</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260724131500 +0300" stop="20260724140000 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260724131500 +0300" stop="20260724140000 +0300">
     <title lang="ro">Digi Sport Special</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260724140000 +0300" stop="20260724141500 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260724140000 +0300" stop="20260724141500 +0300">
     <title lang="ro">Stirile Digi Sport</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260724141500 +0300" stop="20260724150000 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260724141500 +0300" stop="20260724150000 +0300">
     <title lang="ro">Fotbal Club</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260724150000 +0300" stop="20260724151500 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260724150000 +0300" stop="20260724151500 +0300">
     <title lang="ro">Stirile Digi Sport</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260724151500 +0300" stop="20260724160000 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260724151500 +0300" stop="20260724160000 +0300">
     <title lang="ro">Fotbal Club</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260724160000 +0300" stop="20260724163000 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260724160000 +0300" stop="20260724163000 +0300">
     <title lang="ro">LIVE Stirile Digi Sport</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260724163000 +0300" stop="20260724180000 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260724163000 +0300" stop="20260724180000 +0300">
     <title lang="ro">LIVE Liga Digi Sport</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260724180000 +0300" stop="20260724183000 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260724180000 +0300" stop="20260724183000 +0300">
     <title lang="ro">LIVE Stirile Digi Sport</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260724183000 +0300" stop="20260724191500 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260724183000 +0300" stop="20260724191500 +0300">
     <title lang="ro">LIVE Superliga: UTA Arad-Otelul Galati Etapa 2</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260724191500 +0300" stop="20260724193000 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260724191500 +0300" stop="20260724193000 +0300">
     <title lang="ro">LIVE Stirile Digi Sport</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260724193000 +0300" stop="20260724203000 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260724193000 +0300" stop="20260724203000 +0300">
     <title lang="ro">LIVE Superliga: UTA Arad-Otelul Galati Etapa 2</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260724203000 +0300" stop="20260724213000 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260724203000 +0300" stop="20260724213000 +0300">
     <title lang="ro">LIVE Fotbal Club</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260724213000 +0300" stop="20260724221500 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260724213000 +0300" stop="20260724221500 +0300">
     <title lang="ro">LIVE Superliga: FC Arges-Petrolul Etapa 2</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260724221500 +0300" stop="20260724223000 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260724221500 +0300" stop="20260724223000 +0300">
     <title lang="ro">LIVE Fotbal Club</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260724223000 +0300" stop="20260724233000 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260724223000 +0300" stop="20260724233000 +0300">
     <title lang="ro">LIVE Superliga: FC Arges-Petrolul Etapa 2</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260724233000 +0300" stop="20260725003000 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260724233000 +0300" stop="20260725003000 +0300">
     <title lang="ro">LIVE Fotbal Club</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260725003000 +0300" stop="20260725013000 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260725003000 +0300" stop="20260725013000 +0300">
     <title lang="ro">Premiera Interviurile Digi Sport Invitat: Claudiu Niculescu</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260725013000 +0300" stop="20260725014500 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260725013000 +0300" stop="20260725014500 +0300">
     <title lang="ro">Stirile Digi Sport</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260725014500 +0300" stop="20260725023000 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260725014500 +0300" stop="20260725023000 +0300">
     <title lang="ro">Fotbal Club</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260725023000 +0300" stop="20260725024500 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260725023000 +0300" stop="20260725024500 +0300">
     <title lang="ro">Stirile Digi Sport</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260725024500 +0300" stop="20260725043000 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260725024500 +0300" stop="20260725043000 +0300">
     <title lang="ro">Superliga: UTA Arad-Otelul Galati Etapa 2</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260725043000 +0300" stop="20260725061500 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260725043000 +0300" stop="20260725061500 +0300">
     <title lang="ro">Superliga: FC Arges-Petrolul Etapa 2</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260725061500 +0300" stop="20260725070000 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260725061500 +0300" stop="20260725070000 +0300">
     <title lang="ro">Fotbal Club</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260725070000 +0300" stop="20260725072000 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260725070000 +0300" stop="20260725072000 +0300">
     <title lang="ro">Stirile Digi Sport</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260725072000 +0300" stop="20260725074000 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260725072000 +0300" stop="20260725074000 +0300">
     <title lang="ro">Stirile Digi Sport</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260725074000 +0300" stop="20260725080000 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260725074000 +0300" stop="20260725080000 +0300">
     <title lang="ro">Stirile Digi Sport</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260725080000 +0300" stop="20260725082000 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260725080000 +0300" stop="20260725082000 +0300">
     <title lang="ro">Stirile Digi Sport</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260725082000 +0300" stop="20260725084000 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260725082000 +0300" stop="20260725084000 +0300">
     <title lang="ro">Stirile Digi Sport</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260725084000 +0300" stop="20260725090000 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260725084000 +0300" stop="20260725090000 +0300">
     <title lang="ro">Stirile Digi Sport</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260725090000 +0300" stop="20260725092000 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260725090000 +0300" stop="20260725092000 +0300">
     <title lang="ro">Stirile Digi Sport</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260725092000 +0300" stop="20260725094000 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260725092000 +0300" stop="20260725094000 +0300">
     <title lang="ro">Stirile Digi Sport</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260725094000 +0300" stop="20260725100000 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260725094000 +0300" stop="20260725100000 +0300">
     <title lang="ro">Stirile Digi Sport</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260725100000 +0300" stop="20260725113000 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260725100000 +0300" stop="20260725113000 +0300">
     <title lang="ro">LIVE Digi Sport Matinal</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260725113000 +0300" stop="20260725120000 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260725113000 +0300" stop="20260725120000 +0300">
     <title lang="ro">LIVE Stirile Digi Sport</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260725120000 +0300" stop="20260725130000 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260725120000 +0300" stop="20260725130000 +0300">
     <title lang="ro">Fotbal Club</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260725130000 +0300" stop="20260725131500 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260725130000 +0300" stop="20260725131500 +0300">
     <title lang="ro">LIVE Stirile Digi Sport</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260725131500 +0300" stop="20260725140000 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260725131500 +0300" stop="20260725140000 +0300">
     <title lang="ro">Digi Sport Matinal</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260725140000 +0300" stop="20260725143000 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260725140000 +0300" stop="20260725143000 +0300">
     <title lang="ro">LIVE Stirile Digi Sport</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260725143000 +0300" stop="20260725153000 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260725143000 +0300" stop="20260725153000 +0300">
     <title lang="ro">Interviurile Digi Sport Invitat: Claudiu Niculescu</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260725153000 +0300" stop="20260725160000 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260725153000 +0300" stop="20260725160000 +0300">
     <title lang="ro">LIVE Stirile Digi Sport</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260725160000 +0300" stop="20260725170000 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260725160000 +0300" stop="20260725170000 +0300">
     <title lang="ro">Fotbal Club</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260725170000 +0300" stop="20260725173000 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260725170000 +0300" stop="20260725173000 +0300">
     <title lang="ro">LIVE Stirile Digi Sport</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260725173000 +0300" stop="20260725181500 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260725173000 +0300" stop="20260725181500 +0300">
     <title lang="ro">LIVE Superliga: Farul Constanta-Corvinul Hunedoara Etapa 2</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260725181500 +0300" stop="20260725183000 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260725181500 +0300" stop="20260725183000 +0300">
     <title lang="ro">LIVE Stirile Digi Sport</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260725183000 +0300" stop="20260725193000 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260725183000 +0300" stop="20260725193000 +0300">
     <title lang="ro">LIVE Superliga: Farul Constanta-Corvinul Hunedoara Etapa 2</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260725193000 +0300" stop="20260725203000 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260725193000 +0300" stop="20260725203000 +0300">
     <title lang="ro">LIVE Fotbal Club</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260725203000 +0300" stop="20260725211500 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260725203000 +0300" stop="20260725211500 +0300">
     <title lang="ro">LIVE Superliga: Dinamo-Universitatea Craiova Etapa 2</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260725211500 +0300" stop="20260725213000 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260725211500 +0300" stop="20260725213000 +0300">
     <title lang="ro">LIVE Fotbal Club</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260725213000 +0300" stop="20260725223000 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260725213000 +0300" stop="20260725223000 +0300">
     <title lang="ro">LIVE Superliga: Dinamo-Universitatea Craiova Etapa 2</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260725223000 +0300" stop="20260725234500 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260725223000 +0300" stop="20260725234500 +0300">
     <title lang="ro">LIVE Fotbal Club</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport1.ro@HD" start="20260725234500 +0300" stop="20260726000000 +0300">
+  <programme channel="DigiSport1.ro@SD" start="20260725234500 +0300" stop="20260726000000 +0300">
     <title lang="ro">Stirile Digi Sport</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport2.ro@HD" start="20260722070000 +0300" stop="20260722090000 +0300">
+  <programme channel="DigiSport2.ro@SD" start="20260722070000 +0300" stop="20260722090000 +0300">
     <title lang="ro">Tenis</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport2.ro@HD" start="20260722090000 +0300" stop="20260722110000 +0300">
+  <programme channel="DigiSport2.ro@SD" start="20260722090000 +0300" stop="20260722110000 +0300">
     <title lang="ro">Tenis</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport2.ro@HD" start="20260722110000 +0300" stop="20260722130000 +0300">
+  <programme channel="DigiSport2.ro@SD" start="20260722110000 +0300" stop="20260722130000 +0300">
     <title lang="ro">Live Tenis Ziua 3</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport2.ro@HD" start="20260722130000 +0300" stop="20260722150000 +0300">
+  <programme channel="DigiSport2.ro@SD" start="20260722130000 +0300" stop="20260722150000 +0300">
     <title lang="ro">Live Tenis Ziua 3</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport2.ro@HD" start="20260722150000 +0300" stop="20260722170000 +0300">
+  <programme channel="DigiSport2.ro@SD" start="20260722150000 +0300" stop="20260722170000 +0300">
     <title lang="ro">Live Tenis Ziua 3</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport2.ro@HD" start="20260722170000 +0300" stop="20260722190000 +0300">
+  <programme channel="DigiSport2.ro@SD" start="20260722170000 +0300" stop="20260722190000 +0300">
     <title lang="ro">Live Tenis Ziua 3</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport2.ro@HD" start="20260722190000 +0300" stop="20260722210000 +0300">
+  <programme channel="DigiSport2.ro@SD" start="20260722190000 +0300" stop="20260722210000 +0300">
     <title lang="ro">Live Tenis Ziua 3</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport2.ro@HD" start="20260722210000 +0300" stop="20260722230000 +0300">
+  <programme channel="DigiSport2.ro@SD" start="20260722210000 +0300" stop="20260722230000 +0300">
     <title lang="ro">Live Tenis Ziua 3</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport2.ro@HD" start="20260722230000 +0300" stop="20260723010000 +0300">
+  <programme channel="DigiSport2.ro@SD" start="20260722230000 +0300" stop="20260723010000 +0300">
     <title lang="ro">Tenis</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport2.ro@HD" start="20260723010000 +0300" stop="20260723030000 +0300">
+  <programme channel="DigiSport2.ro@SD" start="20260723010000 +0300" stop="20260723030000 +0300">
     <title lang="ro">Tenis</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport2.ro@HD" start="20260723030000 +0300" stop="20260723050000 +0300">
+  <programme channel="DigiSport2.ro@SD" start="20260723030000 +0300" stop="20260723050000 +0300">
     <title lang="ro">Tenis</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport2.ro@HD" start="20260723050000 +0300" stop="20260723070000 +0300">
+  <programme channel="DigiSport2.ro@SD" start="20260723050000 +0300" stop="20260723070000 +0300">
     <title lang="ro">Tenis</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport2.ro@HD" start="20260723070000 +0300" stop="20260723090000 +0300">
+  <programme channel="DigiSport2.ro@SD" start="20260723070000 +0300" stop="20260723090000 +0300">
     <title lang="ro">Tenis</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport2.ro@HD" start="20260723090000 +0300" stop="20260723120000 +0300">
+  <programme channel="DigiSport2.ro@SD" start="20260723090000 +0300" stop="20260723120000 +0300">
     <title lang="ro">Tenis</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport2.ro@HD" start="20260723120000 +0300" stop="20260723140000 +0300">
+  <programme channel="DigiSport2.ro@SD" start="20260723120000 +0300" stop="20260723140000 +0300">
     <title lang="ro">Live Tenis Ziua 4</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport2.ro@HD" start="20260723140000 +0300" stop="20260723160000 +0300">
+  <programme channel="DigiSport2.ro@SD" start="20260723140000 +0300" stop="20260723160000 +0300">
     <title lang="ro">Live Tenis Ziua 4</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport2.ro@HD" start="20260723160000 +0300" stop="20260723180000 +0300">
+  <programme channel="DigiSport2.ro@SD" start="20260723160000 +0300" stop="20260723180000 +0300">
     <title lang="ro">Live Tenis Ziua 4</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport2.ro@HD" start="20260723180000 +0300" stop="20260723193000 +0300">
+  <programme channel="DigiSport2.ro@SD" start="20260723180000 +0300" stop="20260723193000 +0300">
     <title lang="ro">Live Tenis Ziua 4</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport2.ro@HD" start="20260723193000 +0300" stop="20260723210000 +0300">
+  <programme channel="DigiSport2.ro@SD" start="20260723193000 +0300" stop="20260723210000 +0300">
     <title lang="ro">Live Tenis Ziua 4</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport2.ro@HD" start="20260723210000 +0300" stop="20260723230000 +0300">
+  <programme channel="DigiSport2.ro@SD" start="20260723210000 +0300" stop="20260723230000 +0300">
     <title lang="ro">Live Tenis Ziua 4</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport2.ro@HD" start="20260723230000 +0300" stop="20260724010000 +0300">
+  <programme channel="DigiSport2.ro@SD" start="20260723230000 +0300" stop="20260724010000 +0300">
     <title lang="ro">Tenis</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport2.ro@HD" start="20260724010000 +0300" stop="20260724030000 +0300">
+  <programme channel="DigiSport2.ro@SD" start="20260724010000 +0300" stop="20260724030000 +0300">
     <title lang="ro">Tenis</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport2.ro@HD" start="20260724030000 +0300" stop="20260724050000 +0300">
+  <programme channel="DigiSport2.ro@SD" start="20260724030000 +0300" stop="20260724050000 +0300">
     <title lang="ro">Tenis</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport2.ro@HD" start="20260724050000 +0300" stop="20260724080000 +0300">
+  <programme channel="DigiSport2.ro@SD" start="20260724050000 +0300" stop="20260724080000 +0300">
     <title lang="ro">Tenis</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport2.ro@HD" start="20260724080000 +0300" stop="20260724100000 +0300">
+  <programme channel="DigiSport2.ro@SD" start="20260724080000 +0300" stop="20260724100000 +0300">
     <title lang="ro">Tenis</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport2.ro@HD" start="20260724100000 +0300" stop="20260724120000 +0300">
+  <programme channel="DigiSport2.ro@SD" start="20260724100000 +0300" stop="20260724120000 +0300">
     <title lang="ro">Tenis</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport2.ro@HD" start="20260724120000 +0300" stop="20260724140000 +0300">
+  <programme channel="DigiSport2.ro@SD" start="20260724120000 +0300" stop="20260724140000 +0300">
     <title lang="ro">Live Tenis</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport2.ro@HD" start="20260724140000 +0300" stop="20260724160000 +0300">
+  <programme channel="DigiSport2.ro@SD" start="20260724140000 +0300" stop="20260724160000 +0300">
     <title lang="ro">Live Tenis</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport2.ro@HD" start="20260724160000 +0300" stop="20260724180000 +0300">
+  <programme channel="DigiSport2.ro@SD" start="20260724160000 +0300" stop="20260724180000 +0300">
     <title lang="ro">Live Tenis</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport2.ro@HD" start="20260724180000 +0300" stop="20260724203000 +0300">
+  <programme channel="DigiSport2.ro@SD" start="20260724180000 +0300" stop="20260724203000 +0300">
     <title lang="ro">Live Tenis</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport2.ro@HD" start="20260724203000 +0300" stop="20260724230000 +0300">
+  <programme channel="DigiSport2.ro@SD" start="20260724203000 +0300" stop="20260724230000 +0300">
     <title lang="ro">Live Tenis</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport2.ro@HD" start="20260724230000 +0300" stop="20260725020000 +0300">
+  <programme channel="DigiSport2.ro@SD" start="20260724230000 +0300" stop="20260725020000 +0300">
     <title lang="ro">Tenis</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport2.ro@HD" start="20260725020000 +0300" stop="20260725040000 +0300">
+  <programme channel="DigiSport2.ro@SD" start="20260725020000 +0300" stop="20260725040000 +0300">
     <title lang="ro">Tenis</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport2.ro@HD" start="20260725040000 +0300" stop="20260725060000 +0300">
+  <programme channel="DigiSport2.ro@SD" start="20260725040000 +0300" stop="20260725060000 +0300">
     <title lang="ro">Tenis</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport2.ro@HD" start="20260725060000 +0300" stop="20260725070000 +0300">
+  <programme channel="DigiSport2.ro@SD" start="20260725060000 +0300" stop="20260725070000 +0300">
     <title lang="ro">Tenis</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport2.ro@HD" start="20260725070000 +0300" stop="20260725080000 +0300">
+  <programme channel="DigiSport2.ro@SD" start="20260725070000 +0300" stop="20260725080000 +0300">
     <title lang="ro">Tenis</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport2.ro@HD" start="20260725080000 +0300" stop="20260725100000 +0300">
+  <programme channel="DigiSport2.ro@SD" start="20260725080000 +0300" stop="20260725100000 +0300">
     <title lang="ro">Tenis</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport2.ro@HD" start="20260725100000 +0300" stop="20260725120000 +0300">
+  <programme channel="DigiSport2.ro@SD" start="20260725100000 +0300" stop="20260725120000 +0300">
     <title lang="ro">Tenis</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport2.ro@HD" start="20260725120000 +0300" stop="20260725141500 +0300">
+  <programme channel="DigiSport2.ro@SD" start="20260725120000 +0300" stop="20260725141500 +0300">
     <title lang="ro">Tenis</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport2.ro@HD" start="20260725141500 +0300" stop="20260725143000 +0300">
+  <programme channel="DigiSport2.ro@SD" start="20260725141500 +0300" stop="20260725143000 +0300">
     <title lang="ro">Stirile Digi Sport</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport2.ro@HD" start="20260725143000 +0300" stop="20260725163000 +0300">
+  <programme channel="DigiSport2.ro@SD" start="20260725143000 +0300" stop="20260725163000 +0300">
     <title lang="ro">Live Tenis: WTA Praga Semifinale</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport2.ro@HD" start="20260725163000 +0300" stop="20260725183000 +0300">
+  <programme channel="DigiSport2.ro@SD" start="20260725163000 +0300" stop="20260725183000 +0300">
     <title lang="ro">Live Tenis: WTA Praga Semifinale</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport2.ro@HD" start="20260725183000 +0300" stop="20260725190000 +0300">
+  <programme channel="DigiSport2.ro@SD" start="20260725183000 +0300" stop="20260725190000 +0300">
     <title lang="ro">Stirile Digi Sport</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport2.ro@HD" start="20260725190000 +0300" stop="20260725193000 +0300">
+  <programme channel="DigiSport2.ro@SD" start="20260725190000 +0300" stop="20260725193000 +0300">
     <title lang="ro">Premiera ATP Tour This Week</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport2.ro@HD" start="20260725193000 +0300" stop="20260725213000 +0300">
+  <programme channel="DigiSport2.ro@SD" start="20260725193000 +0300" stop="20260725213000 +0300">
     <title lang="ro">Live Tenis: ATP Estoril Semifinale</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport2.ro@HD" start="20260725213000 +0300" stop="20260725233000 +0300">
+  <programme channel="DigiSport2.ro@SD" start="20260725213000 +0300" stop="20260725233000 +0300">
     <title lang="ro">Live Tenis: ATP Estoril Semifinale</title>
     <rating system="RO">
       <value>AP</value>
     </rating>
   </programme>
-  <programme channel="DigiSport2.ro@HD" start="20260725233000 +0300" stop="20260726020000 +0300">
+  <programme channel="DigiSport2.ro@SD" start="20260725233000 +0300" stop="20260726020000 +0300">
     <title lang="ro">Tenis</title>
     <rating system="RO">
       <value>AP</value>
