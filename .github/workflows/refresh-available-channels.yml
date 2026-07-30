@@ -30,7 +30,7 @@ jobs:
           python-version: "3.12"
 
       - name: Regenerate available channel lists
-        run: python list_available_channels.py
+        run: python list_available_channels.py --export_keep_template all
 
       - name: Commit and push changes
         run: |
