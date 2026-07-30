@@ -1,0 +1,48 @@
+name: Refresh available channels
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Every Sunday at 04:17, Europe/Paris.
+    - cron: "17 4 * * 0"
+      timezone: "Europe/Paris"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-available-channels
+  cancel-in-progress: true
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v5
+        with:
+          ref: ${{ github.ref_name }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Regenerate available channel lists
+        run: python list_available_channels.py
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add all/
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git commit -m "chore: refresh available channels"
+          git push origin HEAD:${GITHUB_REF_NAME}
