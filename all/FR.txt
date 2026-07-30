@@ -4,19 +4,20 @@
 20 Minutes TV
 6ter
 AB1
+Action
 ADN TV+
 Africa 24
 Africa 24 English
 Africa 24 Sport
+Alerte à Malibu
 Alpe d’Huez TV
 Angers Tele
-Animaux
 Antenne Réunion
 AraBel
-Arte
+arte
+Automoto la chaine
 B Smart TV
-Berbere TV
-BFM 2
+Banijay Mr Bean Animé
 BFM Alsace
 BFM Business
 BFM DICI Alpes du Sud
@@ -30,27 +31,53 @@ BFM Normandie
 BFM Tech & Co
 BFM Toulon Var
 BFM TV
+BFM2
+Blue Bloods
+Bob l'éponge
 Brionnais TV
 C Star
 Caillou
 Canal 32
-Canal J
-Canal+ en clair
+Canal+ Cinemas
+Canal+ Sport 360
 Cannes Lérins TV
-Cine Western
+Cap Terre
+CATFISH TV
+Cheers
+Cine+ Classic
+Cine+ Emotion
+Cine+ Frisson
+Ciné 666 by Pluto TV
+Ciné Action by Pluto TV
+Ciné by Pluto TV
+Ciné Catastrophe by Pluto TV
+Ciné d'Asie by Pluto TV
+Ciné Horreur by Pluto TV
+Ciné Romance by Pluto TV
+Ciné Rétro by Pluto TV
+Ciné Sci-Fi by Pluto TV
+Ciné Thrillers by Pluto TV
+Ciné Western by Pluto TV
 Clubbing TV France
 CNews
+CNEWS PRIME
+Daria
 DBM TV
+Detective Conan France
 Disney Jr.
 DNTV
+Dossiers FBI
 EMCI TV
 Equidia
 Euronews French
+Evandis Gospel TV
 FashionTV Paris L'Original
 FashionTV Secrets
 FIFA+ French
+Foot+
 France 2
 France 24 French
+France 3
 France 4
 France 5
 France Inter
@@ -61,71 +88,140 @@ Generations TV
 Gong
 Gulli
 HANDICAP TV France
+Hélène et les garçons
+iCarly TV
 ici Elsass
 ILTV
-KOZOOM TV
+Inazuma Eleven
+Investigation by Pluto TV
+JAG
+Just Tattoo of Us
+Kozoom TV
 KTO
 L'Equipe
 LCI
-LCP
 Le Figaro IDF
 Le Media TV
+Le miracle de l'amour
+Les Années fac
+Les filles d'à côté
+Les Nouveaux Detectives
 Littoral FM
+Louis La Brocante
 Lyon Capitale TV
 M6
+M6 Music
+MacGyver
 Maison & Travaux TV
+MCM Pop
+MCM Top
 MDL
 Melody
 Men's UP TV
 Mezzo
+Mezzo Live
+Mission Impossible
 Monte Carlo Digital Television
-Motorvision.tv (French)
 Mouv' TV
 MTV
+MTV CLASSICS
 Museum TV
 My Gospel TV
 MyZen TV
-Nickelodeon
+Nature Time France
 Nickelodeon Junior
+Nollywood TV
 Novo Comedy
-NOVO19
+NRJ Hits
+One Piece
 P2M TV
-Planete+
+Paris Premiere
+Pluto TV 2010's Classics
+Pluto TV 90's Classics
+Pluto TV Animaux
+Pluto TV ANIME GO!
+Pluto TV Aventure
+Pluto TV Brigade Criminelle
+Pluto TV Comédie
+Pluto TV Comédies Cultes
+Pluto TV Cuisine
+Pluto TV Dating
+Pluto TV Footanim'
+Pluto TV French Collection
+Pluto TV Histoire
+Pluto TV Inside
+Pluto TV Junior
+Pluto TV Kids Classics
+Pluto TV Kids Club
+Pluto TV Paranormal
+Pluto TV Polar
+Pluto TV Reality
+Pluto TV Retro Toons
+Pluto TV Snooker 900
+Pluto TV Super Kids
+Pluto TV Séries Fantastiques
+Pluto TV Teen
+Pluto TV Toons
+Pluto TV Téléréalité France
 Public Senat 24/24
 Puissance TV
 Qwest TV Jazz & Beyond
 Radio Frontieres
 Radio Karaoke
-RMC Decouverte
+RFM TV
+Ridiculousness
 RMC Life
 RMC Story
 RT France
 RTL2
 RTL9
+SciFi
+Serie Club
+Series by Pluto TV
 Sony One Blacklist
 Sony One Favoris
 Sony One Hits Action
 Sony One Hits Comedie
 Sony One Series Comedie
 Sony One Series Thriller
+Star Trek: The Original Series
 Sud Radio
+Syfy
 T18
+Teen Mom
 Telenantes
-Telesud
+Teletoon+
+Teva
 TF1
-TF1 Series Films
 TFX
 TiVi5 Monde
 TMC
+Tortues Ninja TV
+Tout le monde déteste Chris
+Trace Africa
+Trace Ayiti
+Trace Brasil
 TRACE Brazuca
-TRACE Latina
+Trace Caribbean
+Trace Gospel Africa Franco
+Trace Jama
+Trace Kitoko
+Trace Latina
+Trace Mboa
+Trace Muzika
+Trace Mziki
+Trace Naija
 Trace Sport Stars (Australia)
+Trace Teranga
 Trace Urban (Australia)
-Trek
+Trace Urban France
+Trace Vanilla Islands
+True Crime by Pluto TV
+Turbo
+TV Breizh
 TV Monaco
 TV3V
 TV5Monde France Belgique Suisse Monaco
-TV5Monde France Belgium Switzerland Monaco
 TV5Monde Info
 TV5Monde Style
 TV7 Colmar
@@ -138,11 +234,15 @@ viàMoselleTV
 viàOccitanie
 viàTéléPaese
 Vosges Télévision
+Voyages & Saveurs
 W9
-Wildside TV
+Walker Texas Ranger
+Wild Side TV
+Y'a que la vérité qui compte
 Zee One Français
 zenith
 Zylo Ciné Nanar
+Zylo Ciné Western
 Zylo Emotion' L
 Zylo Fréquence Novelas
 Zylo Into Crime

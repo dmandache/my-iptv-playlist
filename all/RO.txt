@@ -7,40 +7,31 @@ Aleph Business
 Aleph News
 Alfa Omega TV
 Angelus TV
-Antena 1
 Antena Monden
-Antena Stars
-AntenaSport
-Ardeal TV
-Arges TV
 Atomic Academy TV
 Atomic TV
+AXN Black Romania
+AXN White
 Banat TV
-Bollywood
-Bollywood Classic
 Bucovina TV (576i)
-CaTine
-Comedy Play
+Columna TV
 Credo TV
 Digi 24
 Disney Channel
 Dotto TV
-Euronews Romania
-Exclusiv TV
+EMI TV
 Exploris
-Happy Channel
+FILMBOX+ Comedy Magyar & Romania
 HD365 TV
 Hello Taste
 Hunedoara 1
 IasiTV Life
 Impact TV Dance
 Impact TV Manele
-Info TV Romania
 Informatia TV
-Intermedia TV
 JOB TV
 Kanal D
-Kanal D2
+Kanal D2 (1080i)
 Kiss TV
 Light Channel
 LiraTV
@@ -50,22 +41,18 @@ Metropola TV
 Mireasa
 MISA TV
 Moldova TV
-Mooz Dance
-Mooz Hits
-Mooz Ro!
-Motorvision.tv (French)
 Muscel TV
 Nasul TV
 Nova TV Brasov
-Observator News
-PRO TV
 Pro TV News
 PROFI 24 TV
-Profit News
+Qub TV
+Radio Fx Net
 Rapsodia TV
+Realitatea Plus
 Realitatea Sportiva
+Realitatea Star (576i)
 Rock TV
-Romania TV
 ROTV Valencia
 SperantaTV
 Super TV (1080i)
@@ -74,6 +61,7 @@ Tele7music
 TeleM Botosani
 TeleMoldova +
 Telestar1
+The Fishing & Hunting Channel
 Traditional TV
 TV Buzau
 TV SUD
@@ -84,6 +72,7 @@ TVR 3
 TVR Cluj
 TVR Craiova
 TVR Cultural
+TVR Folclor
 TVR Iasi
 TVR Info
 TVR International
@@ -91,4 +80,3 @@ TVR Sport
 TVR Targu-Mures
 TVR Timisoara
 TVSat
-ZU TV

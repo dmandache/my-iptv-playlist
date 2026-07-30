@@ -1,6 +1,8 @@
 # Keep list for UK
 # One channel name per line. Lines starting with # are ignored.
 # Remove channels you do not want to keep.
+48 Hours GB
+5 Cops
 Aaj Tak
 Aathavan TV
 Adventure Earth
@@ -9,18 +11,24 @@ Ahlulbayt TV
 Akaal Channel
 AlbUK TV
 Alhiwar TV
+America's Next Top Model
 Anand TV
+Andromeda
+Anthony Bourdain: Parts Unknown
+ATN Bangla UK
+Auction Hunters
 Autentic History
 Autentic Travel
+Avatar
 BBC Alba
 BBC Four
-BBC Four UK
 BBC Four/CBeebies
 BBC Lifestyle Asia
+BBC News
 BBC News Pashto
+BBC News UK
 BBC One East
 BBC One East Midlands
-BBC One East Yorkshire
 BBC One London
 BBC One North East
 BBC One North West
@@ -33,7 +41,6 @@ BBC One Wales
 BBC One West
 BBC One West Midlands
 BBC One Yorks
-BBC One Yorkshire & Lincolnshire
 BBC Parliament
 BBC Persian
 BBC RB 1
@@ -68,46 +75,64 @@ BBC Two Northern Ireland
 BBC Two Wales
 BBC UHD 1
 BBC UHD 2
-BBC UHD 3
-BBC UHD 4
-BBC UHD 5
+BET Pluto TV
+Beyond Belief: Fact or Fiction
 Blaze
-BritAsiaTV
+Bondi Rescue
+Brit Asia TV
+Cagney & Lacey
 Canaf54 TV
+Catfish
 CBBC
 CBeebies
-Channel 4
-Channel 4 UK
 Channel 5
 Channel S
-CNBC UK
+Clubbing TV UK
+Clubland TV (576i)
+CNBC
+CSI: Crime Scene Investigation
+DAZN Combat
+Deadly Women
 Deen TV
+Der TV
 DiscoverFilm
 Dog The Bounty Hunter
 Dog Whisperer
 Duck Dynasty
 Dunya News (UK Feed)
+Dynasty
+E4
 Eman Channel
-English Club TV
+English Club TV (576i)
 ENT Channel
 ENT Family
+Eurochannel
+FailArmy
 Faith World TV
+FBI Files
 FIFA+
 FIFA+ Women
-Film4
+Funny AF
 Garshom TV
 GB News
 Gems TV
+Geordie Shore
+Get.Factual
 Ghost Dimension
 Ghost Hunters
+GOD TV
 GREAT! movies
 GREAT! romance
+Gunsmoke
 Hala London
 Hell's Kitchen
 Hellenic TV
+Highway to Heaven
 Hobby Maker
 Homes Under The Hammer
+Homicide Hunter
 Horse & Country TV
+How To Use Pluto TV
 IBC Bakthi
 IBC Tamil
 Inside Crime
@@ -116,21 +141,30 @@ Iqra TV
 Iran International
 Islam Channel
 Islam Channel Urdu
+ITV1
 ITV2
-ITV3
-ITV4
+JAG
+Judge Judy
 Kalsan TV
 Kanal Jadid
 Kanshi TV
+KN Music TV
 KTO
 Latest TV
 Loveworld UK
+MacGyver
 Magna Vision
+Married... with Children
+Matlock
 MBC
 Mcleod's Daughters
 Miracle TV
+Mission Impossible
 Moonbug Kids
-More4
+More TV Crime
+More TV Sci-fi
+Most Haunted
+MovieSphere UK
 Mr Bean Live Action
 Mr. Bean Animated
 MTA1 World
@@ -145,15 +179,58 @@ MUTV
 Mystery TV
 Mythbusters
 MyTime Movie Network
+NatureTime
 NBC News NOW
-Nicktoons
+Nickelodeon
 Nolly Africa
 Noor TV
+Nosey
 Now 70s
 Now 80s
-Now Rock
+NOW Rock
 NTD TV English UK
+NTV Europe
+On the Case
+Paranormal State
+Pluto TV 80's Action
+Pluto TV Action
+Pluto TV Alien Invasion
+Pluto TV American True Crime
+Pluto TV Animals
+Pluto TV Animation
+Pluto TV Britain at War
+Pluto TV Classic TV
+Pluto TV Comedy Movies
+Pluto TV Conspiracy
+Pluto TV Crime
+Pluto TV Crime Drama
+Pluto TV Cult Films
+Pluto TV Drama
+Pluto TV Family Movie Club
+Pluto TV Fantasy & Horror
+Pluto TV Food
+Pluto TV History
+Pluto TV Horror
+Pluto TV Investigation
+Pluto TV Kids
+Pluto TV Movies
+Pluto TV Paranormal
+Pluto TV PetrolHeads
+Pluto TV Reality
+Pluto TV Retro Toons
+Pluto TV Sci-Fi
+Pluto TV Sci-fi Series
+Pluto TV Science
+Pluto TV Sherlock
+Pluto TV Sitcoms
+Pluto TV Snooker 900
+Pluto TV Space
+Pluto TV Thrillers
+Pluto TV Tough Jobs
+Pluto TV Westerns
+Pokémon
 Pop
+Pop Up
 QVC UK
 QVC UK Beauty
 QVC UK Extra
@@ -164,13 +241,22 @@ Rakuten TV Action Movies UK
 Rakuten TV Comedy Movies UK
 Rakuten TV Drama Movies UK
 Rakuten TV Family Movies UK
-RugbyPass TV
+Red Bull TV UK
+Rugby Pass TV
 S4C
+Sabrina The Teenage Witch
 Safeer TV
 Sanskar UK
+Scorpion
+Sensing Murder
 Sheffield Live TV
+Sky Mix
 Sky News Weather
+Sky Sports Cricket
+Sky Sports Golf
 Sony Max
+South Park
+So… Real
 Spark TV
 Strongman
 Talking Pictures TV
@@ -178,32 +264,47 @@ talkSPORT
 TalkTV
 Tastemade
 TBN UK
+Teen Mom
 Teletubbies
 Terra Mater WILD English
 That's 70s
+That's 80s
 That's TV
+The Chat Show Channel
 The Graham Norton Show
+The Nanny
+The New Detectives
+The Pet Collective
+The Yellow Couch with Jeremy Lynch
 Tiny Pop
 Tiny Pop +1
 TJC
 Together TV
 Top Gear
+Totally Turtles
 Totalmusic
 Totalmusic 2000s
 Totalmusic 80s
 Totalmusic Concerts
 Totalmusic Dance
-TRACE Latina
+Trace UK
+Trailers
+True Crime UK
 TV One
 TV Warehouse
 U&Alibi
 U&W
 Undercover Boss
-Universal Somali TV
+Unsolved Mysteries
+Utsav Bharat
 V2BEAT
 Vantage Music UK
 VoxAfrica
+WaterBear
+Wild at Heart
 Wonder
+World Poker Tour
+XITE Hits UK
 YAAAS!
 Zee One
 Zee TV UK

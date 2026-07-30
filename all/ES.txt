@@ -7,7 +7,6 @@
 101tv Sevilla
 12TV Alicante
 24 Horas
-24 Horas Internacional
 28 kanala
 3Cat Càmeres del temps
 3Cat El búnquer
@@ -24,23 +23,26 @@ Activa TV
 Actualidad 360
 Alacantí TV
 Alcarria TV
+America's Next Top Model
+Ana y los 7
+Andromeda
 Angel TV Spanish
 Anime Vision
 Anime Vision Classics
 Anime Zone TV
 Antena 3 Internacional
+Aqui No Hay Quien Viva
 Arabí TV
-Aragon TV
-Atrescine
-Atreseries Internacional
+Archivos Forenses
+AXN White
 Bailén TV
 Barca TV
 BBC Drama
 BCN Gospel TV
 BDNCOM
 Biosfera TV
+Bob Esponja
 Bon Dia TV
-Burriana TV
 Cadena Elite
 Canal 1 Mar Menor-Torre Pacheco
 Canal 10 Empordà
@@ -74,10 +76,12 @@ Canal Terrassa
 Canal Terres de L'Ebre
 CanalCosta
 Cancionero TV
+Cazador de Homicidas
 Cetelmón TV
 Ciudades Del Ocio TV
 Clan
 CMM TV
+Comedia a lo bestia de Pluto TV
 Condavisión
 Congreso de los Diputados 1
 Congreso de los Diputados 2
@@ -86,25 +90,37 @@ Congreso de los Diputados 4
 Congreso de los Diputados 5
 Corts Valencianes
 Costa Noroeste TV
+Crimen & Historia
 Cristiana TV
 Cugat TV
+Curro Jiménez
 Córdoba TV
+Detective Conan
 Diez TV Las Villas
 Diez TV Úbeda
+Disney Junior
 Distrito TV
 Durangaldeko Telebista
 El 33
 El 33 Originals
 El 9 TV
+El Comisario
+El encantador de perros
+El Mueble
 El Toro TV
 Elche 7 TV
+Empeños a lo bestia
 Empordà TV
+En el punto de mira
 Esport3
 Este Canal TV
 Estepona Televisión
 EsTuTele
-ETB Basque
+ETB 1
+ETB 2
 ETB Events 1
+ETB1 On
+ETB2 On
 ETV Terramar
 EWTN Espana
 EWTN Spain & Latin America
@@ -119,12 +135,15 @@ Gol Classics
 Guada TV
 Hamaika Telebista
 Historia
+Historia y Vida
 HOLA! Play
 Huelva TV
 IberoAmerica TV
+iCarly
 Imás TV
 Interalmeria TV
 Intercomarcal TV
+KinoKazka
 KTO
 La 1
 La 1 Canarias
@@ -132,35 +151,55 @@ La 1 Catalunya
 La 2
 La 2 Canarias
 La 2 Catalunya
+La 8 Mediterraneo
 La Urban TV
 Lancelot TV
-LaOtra
+Las Tortugas Ninja
 LiraTV
 Lleida Televisió
 Logos TV
 Logos TV Estudio
 Logos TV Kids
 Logos TV Salud
+Los archivos del FBI
+Los Asesinatos de Midsomer
 Love The Planet ES
 M95 Televisión Marbella
 Maestrat TV
 Mar TV
 Mataró Televisió
+Medium
+Melrose Place
+Mi Extraña Obsesión
 Mijas 3.40TV
 Molahits TV
+Mr. Bean Anime Spain
+MTV Catfish TV Show
+MTV Dating
+MTV Embarazada a los 16
+MTV Geordies
+MTV Jerseys
+MTV Originals
+MTV Reality
+MTV Tattoo a dos
+MTV Teen Mom
+MTV Vergüenza ajena
 Music TV Granada
 MyTime movie network Spain
 Mírame TV
 NatureTime
+NatureTime Finland
 Negocios TV
 NORTEvisión
+Nova
 Olot TV
-Olympic Channel
+Olympics Channel
 Onda 15 TV
 Onda Algeciras TV
 Onda Cádiz 24h
-Onda Madrid
 Onda Valencia
+One Piece
+Paramount Network de Pluto TV
 Parlamento de Andalucía
 Parlamento de Navarra
 Penedès Televisió
@@ -168,6 +207,48 @@ Pequeradio
 Piera TV
 Pirineus TV
 Platzi TV
+Pluto TV Animales
+Pluto TV Anime
+Pluto TV Catástrofes
+Pluto TV Cine Acción
+Pluto TV Cine Clásico
+Pluto TV Cine Comedia
+Pluto TV Cine de autor
+Pluto TV Cine Drama
+Pluto TV Cine Estelar
+Pluto TV Cine Romántico
+Pluto TV Cocina
+Pluto TV Comedia made in Spain
+Pluto TV Comedias Románticas
+Pluto TV Diseño
+Pluto TV Forever Kids
+Pluto TV Gasolina
+Pluto TV Gore & Slasher
+Pluto TV Historia
+Pluto TV Horror
+Pluto TV Impacto
+Pluto TV Invasión Alien
+Pluto TV Junior
+Pluto TV K-Drama
+Pluto TV Kids Classics
+Pluto TV Kids Spain
+Pluto TV Motor
+Pluto TV Orgullo
+Pluto TV Paranormal
+Pluto TV Psycho
+Pluto TV Sci-Fi
+Pluto TV Series
+Pluto TV Series criminales
+Pluto TV Series Sci-Fi
+Pluto TV Snooker 900
+Pluto TV Teen
+Pluto TV Telenovelas
+Pluto TV Telenovelas Clásicas
+Pluto TV Thrillers
+Pluto TV Toons
+Pluto TV True Crime
+Pluto TV Western
+Pluto TV Zombies
 POP World TV
 Popular TV Melilla
 Popular TV Murcia
@@ -177,6 +258,7 @@ PTV Linares
 PTV Málaga
 PTV Sevilla
 Punt 3 Vall Uixó
+Radio 3
 Radio Carnaval TV
 Rakuten TV Action Movies Spain
 Rakuten TV Comedy Movies Spain
@@ -184,21 +266,31 @@ Rakuten TV Drama Movies Spain
 Rakuten TV Family Movies Spain
 Rakuten TV Top Movies Spain
 Rakuten Viki
-Real Madrid TV US Version
+Real Madrid TV
+Real Madrid TV English
+Red Bull TV ES
 Ribera TV
 Rioja Televisión
+RNE para todos
 ROTV Valencia
-RT en Español
+RT en Espanol
 RTV El Vendrell
 RTV Manilva
 RTV Marbella
 RTV Vida
 RTVC Cardedeu
+Rugrats
 Ràdio Bocairent TV
+SensaCine TV x Pluto
 Sevilla FC TV
+Sin Tetas No Hay Paraíso
 Sol Música
 Solidaria TV
+South Park
+South Park Versión Original
 SpektraTV
+Star Trek: The Next Generation
+Star Trek: Voyager
 STZ Telebista
 SX3
 Tarotéame
@@ -210,14 +302,15 @@ TeleBilbao
 Teledeporte
 Teleganés
 Telemadrid
-Telemadrid Internacional
 Telemotril
 Teleonuba
 TeleRibera
 TeleVigo
+Television Canaria
 Televisión Aranda
 Televisión Consciente
 The Pet Collective
+Tito TV
 Trece TV
 TV Almassora
 TV Artequatre
@@ -233,6 +326,8 @@ TV3
 TV3CAT
 TV3CAT Originals
 TVCentro Andalucía
+TVE Internacional Europe
+TVE Internacional Europe-Asia
 TVE Star
 TVG2
 TVM Córdoba
@@ -240,12 +335,16 @@ TVO Jesus
 TVOMIX
 TVReus
 Une Vinalopó
+Unidad de investigación
 Univers TV
 Urola Telebista
 Vallès Visió
+Vaya semanita
 Ventdelnord TV
+Vision 6 TV
 Vivamóvil
 VOTV
+WaterBear
 XPTV US
 XPTV1
 XPTV2
