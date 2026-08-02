@@ -548,6 +548,7 @@ Fox News Radio
 Fox Soccer Plus
 Fox Soul
 Fox Sports 1
+Fox Sports 2
 FOX Weather
 Fox West
 Free Speech TV
@@ -568,7 +569,6 @@ FX Movie Channel
 FXM
 FXX
 FYI
-FYI West
 Gagsnetwork
 Gainesville Community 12TV (Gainesville FL)
 Galavision
@@ -638,7 +638,6 @@ Hillsborough County TV HTV (Hillsborough County FL)
 His Glory TV
 History
 History Hit
-History West
 HMI PROMZ NEWS
 Hmong Star TV
 Hmong TV Network
@@ -681,7 +680,7 @@ ION Plus
 IraneFarda TV
 Iron Chef
 It Is Written TV
-It's Supernatural! Network (ISN Network)
+It's Supernatural! Network
 Jacksonville Onslow Government Television (G10TV) (Jacksonville NC)
 JBS
 Jersey Shore
@@ -934,8 +933,10 @@ NBC 9 Steubenville OH (WTOV)
 NBC Comedy Vault
 NBC LX Home
 NBC News NOW
+NBC Sports Bay Area
 NBC Sports Chicago
 NBC Sports NOW
+NBC Sports Philadelphia
 NBC Universo
 NBC Universo West
 NBC West
@@ -1207,6 +1208,7 @@ Showtime Extreme
 Showtime Family Zone
 Showtime Next
 Showtime West
+Showtime Women
 Sitcom Legends
 Sketchy AF
 SKWAD

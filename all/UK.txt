@@ -106,7 +106,6 @@ Eman Channel
 English Club TV (576i)
 ENT Channel
 ENT Family
-Eurochannel
 FailArmy
 Faith World TV
 FBI Files
@@ -259,6 +258,7 @@ South Park
 So… Real
 Spark TV
 Strongman
+Takbeer TV
 Talking Pictures TV
 talkSPORT
 TalkTV

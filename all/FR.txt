@@ -4,7 +4,6 @@
 20 Minutes TV
 6ter
 AB1
-Action
 ADN TV+
 Africa 24
 Africa 24 English
@@ -15,7 +14,6 @@ Angers Tele
 Antenne Réunion
 AraBel
 arte
-Automoto la chaine
 B Smart TV
 Banijay Mr Bean Animé
 BFM Alsace
@@ -78,6 +76,8 @@ Foot+
 France 2
 France 24 French
 France 3
+France 3 Cote d'Azur
+France 3 Lorraine
 France 4
 France 5
 France Inter
@@ -114,7 +114,6 @@ M6 Music
 MacGyver
 Maison & Travaux TV
 MCM Pop
-MCM Top
 MDL
 Melody
 Men's UP TV
@@ -135,7 +134,6 @@ Novo Comedy
 NRJ Hits
 One Piece
 P2M TV
-Paris Premiere
 Pluto TV 2010's Classics
 Pluto TV 90's Classics
 Pluto TV Animaux
@@ -190,7 +188,6 @@ Syfy
 T18
 Teen Mom
 Telenantes
-Teletoon+
 Teva
 TF1
 TFX
