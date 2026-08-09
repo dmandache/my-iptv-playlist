@@ -81,7 +81,6 @@ ABN China
 ABN TV India
 ABN Urdu
 Acapulco Shore
-ACC Network
 ACCDN
 Access 19
 Access 4 PAC
@@ -130,14 +129,12 @@ All Weddings We TV
 ALLBLK Gems
 Almagd TV Middle East
 Almagd TV North America
-Altitude Sports
 Always Funny Videos
 Amazing Facts TV
 AMC
 AMC Absolute Reality
 AMC East
 AMC en Español
-AMC+
 America's Next Top Model
 America's Test Kitchen
 America's Voice
@@ -151,7 +148,6 @@ Amu TV
 Anger Management Channel
 Animation+
 ANIME x HIDIVE
-Antenna TV
 Antiques Roadshow PBS
 Antiques Roadshow UK
 Are We There Yet?
@@ -162,7 +158,6 @@ ARTN TV
 ARY Digital USA
 Asian Culture TV
 AsianCrush
-Aspire
 AssyriaSat
 At Home with Family Handyman
 ATL 26
@@ -182,7 +177,6 @@ AXS TV
 Baby Shark TV
 BabyFirst
 BabyTV Latin America
-BabyTV US
 Backstage
 Bandamax USA
 Bar Rescue
@@ -190,7 +184,6 @@ Bark TV
 Battlestar Galactica
 Baywatch
 BBC America
-BBC America East
 BBC Doctor Who Classic
 BBC Earth
 BBC Food
@@ -208,19 +201,12 @@ BEK TV Sports West
 Bellator MMA
 Berks Community TV
 Best of Dr. Phil
-BET
 BET Cinema
 BET Classics
 BET Comedy Movies
-BET Gospel
-BET Her
-BET Her West
-BET Jams
 BET Pluto TV
-BET Soul
 BET Throwbacks
 BET Visionaries
-BET West
 Better Health TV
 Better Life Nature Channel
 Better Life TV
@@ -273,8 +259,6 @@ BX Inform
 BX Inspire
 BX Omni
 BYUtv
-C-SPAN
-C-SPAN 2
 Cafe Trade TV
 Calabasas Channel
 California Music Channel
@@ -373,12 +357,10 @@ Classic TV Crime Drama
 Classic TV Drama
 Classic TV: Families
 Classica
-Cleo TV
 Cloudflare TV
 CMC-USA Country Music Channel
 CMT
 CMT Equal Play
-CNBC
 CoastTV NBC (WRDE-LD)
 Cold Case Files
 Collier Television CTV (Naples FL)
@@ -455,9 +437,7 @@ Detroit Channel 68
 Didgah TV
 Discovery Turbo
 Disney Channel
-Disney Channel West
 Disney Junior
-Disney Junior West
 Disney XD
 Disney XD West
 District of Columbia Network (DCN)
@@ -505,7 +485,6 @@ F1 Channel
 Failarmy International
 Fairfield Government Access Channel 26 (Fairfield CA)
 Family Ties
-FanDuel Racing
 FanDuel TV
 Farscape
 Fashion Finds
@@ -554,7 +533,6 @@ Fox West
 Free Speech TV
 Freebie TV
 Freeform
-Freeform West
 Fresno CMAC 1 Public Channel
 Fresno CMAC 2 Education Channel
 Fresno CMAC 3 Government Channel
@@ -568,10 +546,8 @@ FX
 FX Movie Channel
 FXM
 FXX
-FYI
 Gagsnetwork
 Gainesville Community 12TV (Gainesville FL)
-Galavision
 Galveston County TV
 Galxy TV
 Game Show Central
@@ -581,6 +557,7 @@ Garfield and Friends
 GBN Global Buddhist Network
 Geb Tv (KBPX LD5)
 Gem Shopping Network
+Giggle Mug
 Gillette Public Access Television Channel 189
 Gillette Public Access Television Channel 190
 Gillette Public Access Television Channel 192
@@ -695,7 +672,6 @@ Jus Punjabi
 Just for Laughs Gags
 Justice Central TV
 K Content by CJ ENM
-KADN-TV 15.1
 Kajou TV
 Kaloopy TV
 Kartoon Channel
@@ -715,7 +691,6 @@ Kids Movie Club
 KidsFlix
 KIRO-DT1
 KITV 4 Island News
-KLFY-TV 10.1
 KMCT-DT1
 KMEX-DT1
 KMSP-DT1
@@ -837,7 +812,6 @@ MCN6 Music Channel
 Mediaset Italia USA
 Metaleitor TV
 MeTV
-MeTV Toons
 MeTV+
 MGM+
 MGM+ Drive-In
@@ -870,6 +844,7 @@ Moorpark Government Channel
 More True Crime
 More TV Drama
 More TV Sitcoms
+MoreMax
 MotorTrend FAST TV
 Movies!
 MovieSphere
@@ -891,7 +866,6 @@ MTV Live
 MTV Pluto TV
 MTV Spankin' New
 MTV2
-MTVU
 Muslim Network TV
 Mystery Science Theater 3000
 MyTime Movie Network
@@ -907,7 +881,6 @@ Natick Government Channel
 Natick Public Access Channel
 National Geographic
 National Geographic HD East
-National Geographic West
 National Geographic Wild
 National Geographic Wild HD East
 NBA TV
@@ -934,7 +907,6 @@ NBC Comedy Vault
 NBC LX Home
 NBC News NOW
 NBC Sports Bay Area
-NBC Sports Chicago
 NBC Sports NOW
 NBC Sports Philadelphia
 NBC Universo
@@ -980,7 +952,6 @@ Nickelodeon
 Nickelodeon en español
 Nickelodeon Pluto TV
 Nicktoons
-Nicktoons West
 Ninja Kidz
 NorCast Weather
 North Miami Beach TV (NMBTV) (North Miami Beach FL)
@@ -1043,7 +1014,6 @@ PBS KET Louisville KY (WKMJ-TV)
 PBS KET World
 PBS KET2
 PBS Kids
-PBS Kids 24/7
 PBS Kids Alaska
 PBS Kids Eastern/Central
 PBS Kids Hawaii
@@ -1054,7 +1024,6 @@ PBS MPT Baltimore MD (WMPB)
 PBS National East
 PBS Nature
 PBS New Jersey NJ (WNJT)
-PBS Retro
 PBS Sedalia British Columbia MO (KMOS)
 PBS Travel
 People Are Awesome
@@ -1121,8 +1090,8 @@ PTL Television Network
 Pursuit Channel
 Pursuit UP
 QVC
+QVC 2
 QVC 3
-QVC2
 Radio Tele Puissance
 Radio Tele Sentinel
 Radio Télé Kajou
@@ -1181,7 +1150,6 @@ Santa Maria Community Television Public Access Channel
 Santa Monica City TV 20 (Santa Monica CA)
 SBN TV
 SC Currents
-Scares by Shudder
 Schwab Network
 Scientology Network
 Scientology Network KSCN-DT1
@@ -1411,7 +1379,6 @@ Unbeaten
 Unidentified
 UniMas Central
 UniMas Mountain
-UniMas West
 Universal Cinema
 Universal Comedy
 Universal Crime
@@ -1468,11 +1435,9 @@ WBTS-CD1
 WBTV News
 WCAU-DT1
 WCBI (Columbus MI)
-WCBS-TV 2.1
 WCCA 194 Worcester MA (WCCA-TV)
 WCETV Digital Channel 31.8
 WCOT 13 (Tallahassee FL)
-WDAF-TV 4.2
 WDEF-TV News Chattanooga TN
 We TV
 WeatherNation
@@ -1487,6 +1452,7 @@ WFTX News Fort Myers FL
 WFUT-DT1
 WFXT-DT2
 WGAL-DT3
+WGBO-DT 66.1
 WGGS-DT1
 WGGS-DT2
 WGN-DT1
@@ -1527,6 +1493,7 @@ World Channel
 World Fishing Network
 World Harvest TV
 World Poker Tour
+WPIX-HD
 WPS TV
 WPTV News West Palm Beach FL
 WPXI-DT1

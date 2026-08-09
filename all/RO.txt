@@ -7,6 +7,7 @@ Aleph Business
 Aleph News
 Alfa Omega TV
 Angelus TV
+Antena International
 Antena Monden
 Atomic Academy TV
 Atomic TV
@@ -44,6 +45,7 @@ Moldova TV
 Muscel TV
 Nasul TV
 Nova TV Brasov
+Observator News
 Pro TV News
 PROFI 24 TV
 Qub TV
@@ -63,6 +65,7 @@ TeleMoldova +
 Telestar1
 The Fishing & Hunting Channel
 Traditional TV
+TV Arad
 TV Buzau
 TV SUD
 TVPlus Suceava

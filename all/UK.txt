@@ -23,7 +23,6 @@ Avatar
 BBC Alba
 BBC Four
 BBC Four/CBeebies
-BBC Lifestyle Asia
 BBC News
 BBC News Pashto
 BBC News UK
@@ -250,6 +249,7 @@ Scorpion
 Sensing Murder
 Sheffield Live TV
 Sky Mix
+Sky Nature
 Sky News Weather
 Sky Sports Cricket
 Sky Sports Golf
@@ -297,6 +297,7 @@ U&W
 Undercover Boss
 Unsolved Mysteries
 Utsav Bharat
+Utsav Plus
 V2BEAT
 Vantage Music UK
 VoxAfrica
