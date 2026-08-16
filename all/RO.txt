@@ -13,11 +13,12 @@ Atomic Academy TV
 Atomic TV
 AXN Black Romania
 AXN White
-Banat TV
+Boom TV
 Bucovina TV (576i)
 Columna TV
 Credo TV
 Digi 24
+Digi Sport 1
 Disney Channel
 Dotto TV
 EMI TV
@@ -27,17 +28,18 @@ HD365 TV
 Hello Taste
 Hunedoara 1
 IasiTV Life
+Impact TV
 Impact TV Dance
 Impact TV Manele
 Informatia TV
 JOB TV
 Kanal D
-Kanal D2 (1080i)
+Kanal D2
+Kapital TV
 Kiss TV
 Light Channel
 LiraTV
 Magic TV
-MediCOOL TV
 Metropola TV
 Mireasa
 MISA TV
@@ -50,7 +52,7 @@ Pro TV News
 PROFI 24 TV
 Qub TV
 Radio Fx Net
-Rapsodia TV
+Radio Romania Antena Satelor
 Realitatea Plus
 Realitatea Sportiva
 Realitatea Star (576i)
@@ -59,13 +61,11 @@ ROTV Valencia
 SperantaTV
 Super TV (1080i)
 Tele7ABC
-Tele7music
 TeleM Botosani
 TeleMoldova +
 Telestar1
 The Fishing & Hunting Channel
 Traditional TV
-TV Arad
 TV Buzau
 TV SUD
 TVPlus Suceava

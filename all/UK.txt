@@ -1,7 +1,6 @@
 # Keep list for UK
 # One channel name per line. Lines starting with # are ignored.
 # Remove channels you do not want to keep.
-48 Hours GB
 5 Cops
 Aaj Tak
 Aathavan TV
@@ -11,7 +10,6 @@ Ahlulbayt TV
 Akaal Channel
 AlbUK TV
 Alhiwar TV
-America's Next Top Model
 Anand TV
 Andromeda
 Anthony Bourdain: Parts Unknown
@@ -87,20 +85,18 @@ CBeebies
 Channel 5
 Channel S
 Clubbing TV UK
-Clubland TV (576i)
 CNBC
 CSI: Crime Scene Investigation
 DAZN Combat
 Deadly Women
 Deen TV
 Der TV
-DiscoverFilm
 Dog The Bounty Hunter
 Dog Whisperer
 Duck Dynasty
 Dunya News (UK Feed)
 Dynasty
-E4
+EDGEsport
 Eman Channel
 English Club TV (576i)
 ENT Channel
@@ -121,7 +117,6 @@ Ghost Hunters
 GOD TV
 GREAT! movies
 GREAT! romance
-Gunsmoke
 Hala London
 Hell's Kitchen
 Hellenic TV
@@ -130,7 +125,6 @@ Hobby Maker
 Homes Under The Hammer
 Homicide Hunter
 Horse & Country TV
-How To Use Pluto TV
 IBC Bakthi
 IBC Tamil
 Inside Crime
@@ -138,7 +132,6 @@ iON TV
 Iqra TV
 Iran International
 Islam Channel
-Islam Channel Urdu
 ITV1
 ITV2
 JAG
@@ -187,7 +180,6 @@ Now 70s
 Now 80s
 NOW Rock
 NTD TV English UK
-NTV Europe
 On the Case
 Paranormal State
 Pluto TV 80's Action
@@ -248,12 +240,12 @@ Sanskar UK
 Scorpion
 Sensing Murder
 Sheffield Live TV
-Sky Mix
 Sky Nature
 Sky News Weather
 Sky Sports Cricket
 Sky Sports Golf
-Sony Max
+Sky Sports News
+Sky Sports NFL
 South Park
 So… Real
 Spark TV
@@ -300,7 +292,6 @@ Utsav Bharat
 Utsav Plus
 V2BEAT
 Vantage Music UK
-VoxAfrica
 WaterBear
 Wild at Heart
 Wonder
@@ -308,4 +299,3 @@ World Poker Tour
 XITE Hits UK
 YAAAS!
 Zee One
-Zee TV UK

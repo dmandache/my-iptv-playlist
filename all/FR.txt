@@ -10,11 +10,8 @@ Africa 24 English
 Africa 24 Sport
 Alerte à Malibu
 Alpe d’Huez TV
-Angers Tele
 Antenne Réunion
-AraBel
 arte
-B Smart TV
 Banijay Mr Bean Animé
 BFM Alsace
 BFM Business
@@ -35,7 +32,6 @@ Bob l'éponge
 Brionnais TV
 C Star
 Caillou
-Canal 32
 Canal+ Cinemas
 Canal+ Sport 360
 Cannes Lérins TV
@@ -63,9 +59,7 @@ Daria
 DBM TV
 Detective Conan France
 Disney Jr.
-DNTV
 Dossiers FBI
-EMCI TV
 Equidia
 Euronews French
 Evandis Gospel TV
@@ -73,69 +67,52 @@ FashionTV Paris L'Original
 FashionTV Secrets
 FIFA+ French
 Foot+
-France 2
 France 24 French
 France 3
 France 3 Cote d'Azur
 France 3 Lorraine
 France 4
 France 5
-France Inter
-Franceinfo
 Francophonie24
-Fun Radio
 Generations TV
 Gong
 Gulli
 HANDICAP TV France
 Hélène et les garçons
 iCarly TV
-ici Elsass
 ILTV
 Inazuma Eleven
 Investigation by Pluto TV
 JAG
-Just Tattoo of Us
 Kozoom TV
 KTO
-L'Equipe
 LCI
 Le Figaro IDF
-Le Media TV
 Le miracle de l'amour
 Les Années fac
 Les filles d'à côté
 Les Nouveaux Detectives
 Littoral FM
 Louis La Brocante
-Lyon Capitale TV
 M6
 M6 Music
 MacGyver
-Maison & Travaux TV
-MCM Pop
 MCM Top
 MDL
-Melody
-Men's UP TV
 Mezzo
 Mezzo Live
 Mission Impossible
 Monte Carlo Digital Television
-Mouv' TV
 MTV
 MTV CLASSICS
 Museum TV
-My Gospel TV
 MyZen TV
 Nature Time France
 Nickelodeon Junior
 Nollywood TV
-Novo Comedy
 NRJ Hits
 One Piece
 P2M TV
-Pluto TV 2010's Classics
 Pluto TV 90's Classics
 Pluto TV Animaux
 Pluto TV ANIME GO!
@@ -145,7 +122,6 @@ Pluto TV Comédie
 Pluto TV Comédies Cultes
 Pluto TV Cuisine
 Pluto TV Dating
-Pluto TV Footanim'
 Pluto TV French Collection
 Pluto TV Histoire
 Pluto TV Inside
@@ -162,17 +138,14 @@ Pluto TV Séries Fantastiques
 Pluto TV Teen
 Pluto TV Toons
 Pluto TV Téléréalité France
-Public Senat 24/24
 Puissance TV
 Qwest TV Jazz & Beyond
-Radio Frontieres
-Radio Karaoke
 RFM TV
 Ridiculousness
 RMC Life
+RMC Sport 1
 RMC Story
 RT France
-RTL2
 RTL9
 SciFi
 Serie Club
@@ -181,14 +154,9 @@ Sony One Blacklist
 Sony One Favoris
 Sony One Hits Action
 Sony One Hits Comedie
-Sony One Series Comedie
-Sony One Series Thriller
-Star Trek: The Original Series
-Sud Radio
 Syfy
 T18
 Teen Mom
-Telenantes
 Teva
 TF1
 TFX
@@ -216,8 +184,10 @@ Trace Urban France
 Trace Vanilla Islands
 True Crime by Pluto TV
 Turbo
+TV Alsace
 TV Breizh
 TV Monaco
+TV Mulhouse
 TV3V
 TV5Monde France Belgique Suisse Monaco
 TV5Monde Info
@@ -235,7 +205,6 @@ Vosges Télévision
 Voyages & Saveurs
 W9
 Walker Texas Ranger
-Wild Side TV
 Y'a que la vérité qui compte
 Zee One Français
 zenith

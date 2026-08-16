@@ -1,15 +1,13 @@
 # Keep list for ES
 # One channel name per line. Lines starting with # are ignored.
 # Remove channels you do not want to keep.
-101tv Axarquia
 101tv Cádiz
 101tv Malaga
 101tv Sevilla
 12TV Alicante
-24 Horas
+24 Horas Canarias
 28 kanala
 3Cat Càmeres del temps
-3Cat El búnquer
 3Cat Exclusiu 1
 3Cat Exclusiu 2
 3Cat Exclusiu 3
@@ -47,7 +45,7 @@ Cadena Elite
 Canal 1 Mar Menor-Torre Pacheco
 Canal 10 Empordà
 Canal 2000 La Solana
-Canal 24 Horas Canarias
+Canal 24 Horas
 Canal 24 Horas Catalunya
 Canal 25 TV
 Canal 3 Biar
@@ -73,7 +71,6 @@ Canal Sur Noticias
 Canal Taronja Comarques Centrals
 Canal Taronja Osona i Moianés
 Canal Terrassa
-Canal Terres de L'Ebre
 CanalCosta
 Cancionero TV
 Cazador de Homicidas
@@ -91,10 +88,9 @@ Congreso de los Diputados 5
 Corts Valencianes
 Costa Noroeste TV
 Crimen & Historia
-Cristiana TV
 Cugat TV
 Curro Jiménez
-Córdoba TV
+Deportes por Movistar Plus+
 Detective Conan
 Diez TV Las Villas
 Diez TV Úbeda
@@ -126,7 +122,6 @@ EWTN Espana
 EWTN Spain & Latin America
 Fibwi
 FIFA+ Spain
-Fitel TV
 France 24 Español
 Fuerteventura TV
 Galicia TV Europa
@@ -137,7 +132,6 @@ Historia
 Historia y Vida
 HOLA! Play
 Huelva TV
-IberoAmerica TV
 iCarly
 Imás TV
 Interalmeria TV
@@ -154,6 +148,7 @@ La 8 Mediterraneo
 La Urban TV
 Lancelot TV
 Las Tortugas Ninja
+Liga de Campeones por Movistar Plus+
 LiraTV
 Lleida Televisió
 Logos TV
@@ -165,7 +160,6 @@ Los Asesinatos de Midsomer
 Love The Planet ES
 M95 Televisión Marbella
 Maestrat TV
-Mar TV
 Mataró Televisió
 Medium
 Melrose Place
@@ -180,7 +174,6 @@ MTV Geordies
 MTV Jerseys
 MTV Originals
 MTV Reality
-MTV Tattoo a dos
 MTV Teen Mom
 MTV Vergüenza ajena
 Music TV Granada
@@ -220,7 +213,6 @@ Pluto TV Cocina
 Pluto TV Comedia made in Spain
 Pluto TV Comedias Románticas
 Pluto TV Diseño
-Pluto TV Forever Kids
 Pluto TV Gasolina
 Pluto TV Gore & Slasher
 Pluto TV Historia
@@ -232,7 +224,6 @@ Pluto TV K-Drama
 Pluto TV Kids Classics
 Pluto TV Kids Spain
 Pluto TV Motor
-Pluto TV Orgullo
 Pluto TV Paranormal
 Pluto TV Psycho
 Pluto TV Sci-Fi
@@ -241,10 +232,8 @@ Pluto TV Series criminales
 Pluto TV Series Sci-Fi
 Pluto TV Snooker 900
 Pluto TV Teen
-Pluto TV Telenovelas
 Pluto TV Telenovelas Clásicas
 Pluto TV Thrillers
-Pluto TV Toons
 Pluto TV True Crime
 Pluto TV Western
 Pluto TV Zombies
@@ -288,9 +277,7 @@ Solidaria TV
 South Park
 South Park Versión Original
 SpektraTV
-Star Trek: The Next Generation
 Star Trek: Voyager
-STZ Telebista
 SX3
 Tarotéame
 TBN España
@@ -311,7 +298,6 @@ Televisión Consciente
 The Pet Collective
 Tito TV
 Trece TV
-TV Almassora
 TV Artequatre
 TV Berguedà
 TV BRICS Spanish
@@ -323,10 +309,8 @@ TV Sabadell-Vallès
 TV San Vicente
 TV3
 TV3CAT
-TV3CAT Originals
 TVCentro Andalucía
 TVE Internacional Europe
-TVE Internacional Europe-Asia
 TVE Star
 TVG2
 TVM Córdoba

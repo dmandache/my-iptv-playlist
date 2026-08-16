@@ -55,7 +55,6 @@ ABC 5 Boston MA (WCVB)
 ABC 5 St. Paul MN (KSTP)
 ABC 6 Austin TX (KAAL)
 ABC 6 Columbus OH (WSYX)
-ABC 6 Indianapolis IN (WRTV)
 ABC 7 Albuquerque NM (KOAT)
 ABC 7 Denver CO (KMGH)
 ABC 7 Washington DC (WJLA)
@@ -81,6 +80,7 @@ ABN China
 ABN TV India
 ABN Urdu
 Acapulco Shore
+ACC Network
 ACCDN
 Access 19
 Access 4 PAC
@@ -95,15 +95,14 @@ Access Sacramento Channel 17
 Access Tuolumne (Tuolumne County CA)
 AccessVision Channel 16
 AccessVision Channel 17
-AccuWeather Network
 AccuWeather Now
 Ace TV
+ActionMax
 ACTV
 Adrenalina Pura TV
 AfroLandTV
 AFTV
 AFV en Español
-Aghapy Kids
 Akaku 53 (Hawaii)
 Akaku 54 (Hawaii)
 Akaku 55 (Hawaii)
@@ -114,7 +113,6 @@ Al Horreya TV
 Al-Fady TV
 Al-MahdiTV
 Alabama Weather Network
-AlbDreams TV
 Alhurra Iraq
 Aliento Vision
 Alkarma TV Australia
@@ -155,9 +153,9 @@ Arkansas PBS
 Armenia 1 America
 Artflix Movie Classics
 ARTN TV
-ARY Digital USA
 Asian Culture TV
 AsianCrush
+Aspire
 AssyriaSat
 At Home with Family Handyman
 ATL 26
@@ -176,9 +174,9 @@ AWE Plus
 AXS TV
 Baby Shark TV
 BabyFirst
+BabyFirst Spanish
 BabyTV Latin America
 Backstage
-Bandamax USA
 Bar Rescue
 Bark TV
 Battlestar Galactica
@@ -201,12 +199,17 @@ BEK TV Sports West
 Bellator MMA
 Berks Community TV
 Best of Dr. Phil
+BET
 BET Cinema
 BET Classics
 BET Comedy Movies
+BET Her
+BET Jams
 BET Pluto TV
+BET Soul
 BET Throwbacks
 BET Visionaries
+BET West
 Better Health TV
 Better Life Nature Channel
 Better Life TV
@@ -245,7 +248,6 @@ Bounce XL
 BPX TV Radio
 Brat TV
 Bravo
-Bravo West
 Brevard County Government Access TV (Brevard FL)
 BritBox Mysteries
 Buena Park Television
@@ -259,6 +261,8 @@ BX Inform
 BX Inspire
 BX Omni
 BYUtv
+C-SPAN
+C-SPAN 2
 Cafe Trade TV
 Calabasas Channel
 California Music Channel
@@ -272,7 +276,6 @@ Canal de la Fe
 Canela.TV
 Car Chase
 Carlsbad City TV Channel (Carlsbad CA)
-Catchy Comedy
 Catholic TV
 CBN Espanol
 CBN Family
@@ -307,8 +310,6 @@ CBS News Pittsburgh
 CBS News Sacramento
 CBS Sports Golazo Network
 CBS Sports HQ
-CBS Sports Network USA
-CBS West
 CCX1
 Celebrity Name Game
 Celebrity Scene TV
@@ -322,7 +323,6 @@ Channel 18 GAC
 Channel One
 Charge!
 Charlotte County CC-TV (Charlotte County FA)
-Cheddar Business
 Cheddar News
 Cheers + Frasier
 Chef Champion
@@ -340,12 +340,12 @@ Cine Premiere
 Cine Romantico
 Cine Sony
 Cine terror
+Cinemax Latino
 CinePride
 Cinevault 80s
 Cinevault Westerns
 Circle
 City of Monroe Government Channel
-City of Oakland (KTOP)
 City TV Capital City Connection
 CityTV San Diego
 Clarity 4K
@@ -357,10 +357,12 @@ Classic TV Crime Drama
 Classic TV Drama
 Classic TV: Families
 Classica
+Cleo TV
 Cloudflare TV
 CMC-USA Country Music Channel
 CMT
 CMT Equal Play
+CNBC
 CoastTV NBC (WRDE-LD)
 Cold Case Files
 Collier Television CTV (Naples FL)
@@ -369,7 +371,6 @@ Comedy Central Animation
 Comedy Central en español
 Comedy Central Pluto TV
 Comedy Dynamics
-Comedy TV
 Comercio TV
 Comet
 Concert Channel
@@ -377,7 +378,6 @@ Concord TV (Concord CA)
 Contra Costa College TV
 Cooking Panda
 Cops
-Coral Gables Television (Coral Gables FL)
 Cornerstone TV
 Costa Mesa's Municipal Access Channel CMTV 3
 COStv
@@ -404,7 +404,6 @@ CT-N Court Feed
 CT-N Live Stream 2
 CT-N TV Conneticut
 CTN
-Cupertino City Channel
 Curiosity Now
 CVTV Channel 192
 CVTV Channel 194
@@ -425,7 +424,6 @@ De Pelicula US
 Deal or No Deal
 Dega TV
 Degrassi
-Del Mar TV
 Denver 8 TV (Denver CO)
 DerryTV 17
 DerryTV 23
@@ -435,13 +433,10 @@ Detroit Channel 21
 Detroit Channel 22
 Detroit Channel 68
 Didgah TV
-Discovery Turbo
 Disney Channel
 Disney Junior
 Disney XD
-Disney XD West
 District of Columbia Network (DCN)
-Diva Adria
 Documentary+
 Docurama
 Dog el cazarrecompensas
@@ -471,7 +466,6 @@ Entertainment Tonight
 EntrepreneurTV
 Escambia County TV ECTV (Escambia County FL)
 ESPN Deportes
-ESPNews
 ESPNU
 Estrella Games
 Estrella News
@@ -485,7 +479,6 @@ F1 Channel
 Failarmy International
 Fairfield Government Access Channel 26 (Fairfield CA)
 Family Ties
-FanDuel TV
 Farscape
 Fashion Finds
 FC Public Media (Fort Collins CO)
@@ -494,7 +487,6 @@ Feel Good Drama
 Fernandina Beach City Meeting (Fernandina Beach FL)
 FETV
 FGTV
-Fidele TV
 FIFA+ United States
 FilAmTV Network
 FilmRise Anime
@@ -502,7 +494,6 @@ FilmRise Classic TV
 FilmRise Westerns
 FITE 24/7
 Flicks of Fury
-Flix
 Flowers TV USA
 FNX
 Fontana Community Television
@@ -522,9 +513,7 @@ FOX 45 Baltimore MD (WBFF)
 Fox Business Network
 Fox Deportes
 Fox News Channel
-Fox News International
 Fox News Radio
-Fox Soccer Plus
 Fox Soul
 Fox Sports 1
 Fox Sports 2
@@ -544,14 +533,13 @@ Funny AF
 Fuse
 FX
 FX Movie Channel
-FXM
 FXX
 Gagsnetwork
 Gainesville Community 12TV (Gainesville FL)
 Galveston County TV
 Galxy TV
 Game Show Central
-Game Show Network
+Game Show Network East
 Ganj e Hozour TV
 Garfield and Friends
 GBN Global Buddhist Network
@@ -573,7 +561,6 @@ Global Fashion Channel
 GlobalWorldTV
 GMTV
 Go USA TV
-Go2Travel
 God's Learning Channel
 Golazo Network
 Golden Community Television (GCO.tv) (Golden CO)
@@ -584,11 +571,9 @@ Gospel Broadcasting Network (GBN)
 Gospel Truth TV
 GoTraveler
 Gravitas Movies
-Great American Faith & Living
 Great American Family
 Great Entertainment Television
 Greensboro TV (Greensboro NC)
-Grit
 Grit Xtra
 Grjngo Western Movies
 Guangdong TV America
@@ -637,14 +622,12 @@ Humor Mill
 Hungry
 Huntington Beach TV Channel 3
 I Love Lucy
-IBTV USA
 iCarly TV
 IFC
 Iman TV
 Impact Network
 Impossible Quiz Show
 In the kitchen
-IndiMusic TV
 INFAST
 InfoWars Network
 Ink Master
@@ -654,7 +637,6 @@ Investiga
 INWILD
 ION
 ION Plus
-IraneFarda TV
 Iron Chef
 It Is Written TV
 It's Supernatural! Network
@@ -680,18 +662,14 @@ KBEV Spectrum Channel 6
 KBRI Brighton Channel 8 (Brighton CO)
 KCAT Public Media TV
 KCKS-LD 25.3
-KCMN-LD6
 KDFW-DT1
-KDVR 31.1
 Kern County Television
 Ketchup TV
 KFTR-DT1
-KidOO
 Kids Movie Club
 KidsFlix
 KIRO-DT1
 KITV 4 Island News
-KMCT-DT1
 KMEX-DT1
 KMSP-DT1
 KNTV-DT1
@@ -732,7 +710,6 @@ Las Vegas Tonight with Dale Davidson
 Latino Channel TV
 LATV
 Law & Crime
-Lawndale City TV
 LBC International
 Leesburg Lakefront TV (Leesburg FL)
 LEGO Kids TV
@@ -773,12 +750,11 @@ Logos TV English
 Logos TV Estudio
 Logos TV Kids
 Logos TV Salud
-LOL Network
+LOL! Network
 Lompoc TAP TV Channel 23
 Lompoc TAP TV Channel 24
 Lompoc TAP TV Channel 25
 Lone Star
-Long Beach Television
 Los Angeles Local Television Channel 36
 Los nuevos detectives
 Love & Hip Hop
@@ -787,8 +763,6 @@ Love Pets
 Love the Planet
 Loveland TV (Loveland CO)
 LoveWorld USA
-LPTV
-Lucha Libre AAA
 Lucky Dog
 Mad Dog and Merrill
 Made in Hollywood
@@ -797,7 +771,6 @@ Magnificent Movies Network
 Majestad Televisión
 Manatee Schools Television MSTV (Manatee County FL)
 Maria Vision USA
-Marquee Sports Network
 Martin County MCTV (Martin County FL)
 Matlock
 Maverick Black Cinema
@@ -812,9 +785,6 @@ MCN6 Music Channel
 Mediaset Italia USA
 Metaleitor TV
 MeTV
-MeTV+
-MGM+
-MGM+ Drive-In
 Miami Beach Tv (MBTV) (Miami Beach FL)
 Midnight Pulp
 Midpen Media Center Arts Issues and Lifestyles Channel 30
@@ -823,7 +793,6 @@ Midpen Media Center Government etc Channel 26
 Midpen Media Center Government etc Channel 29
 Midpen Media Center Youth Education and Sports Channel 28
 Midsomer Murders
-Millbrae Community Television
 Ministerio La Voz De Un Remanente TV
 Minuto Para Ganar
 Mission Impossible
@@ -840,7 +809,6 @@ Monroe Community Media Education Channel
 Monroe Community Media Public Access Channel
 Monroe County Television MCTV (Monroe County FL)
 Montgomery Channel
-Moorpark Government Channel
 More True Crime
 More TV Drama
 More TV Sitcoms
@@ -853,8 +821,6 @@ MRVTV Channel 44
 MRVTV Channel 45
 MS NOW
 MSG
-MSG 2
-MSG Plus
 MST3K
 MTC TV
 MTV
@@ -914,15 +880,12 @@ NBC Universo West
 NBC West
 NBC West (San Diego)
 NBCLX
-NBCSN
 NCM Educational & Kids Channel
 NCM Government & Politics
 NCM Main Channel
-NESN
 New Canaan Television 79 (NCTV79) (New Canaan CT)
 NEW KMOVIES
 NEW KPOP
-Newport Beach Television
 News 12 New York
 News12 Bronx
 News12 Brooklyn
@@ -956,7 +919,7 @@ Ninja Kidz
 NorCast Weather
 North Miami Beach TV (NMBTV) (North Miami Beach FL)
 Nosey
-NOST The Nostalgia Network
+NOST
 NOTV New Orleans TV
 Novelisima
 NOW News Arabic
@@ -976,7 +939,6 @@ Olelo Community Media Channel 53
 Olelo Community Media Channel 54
 Olelo Community Media Channel 55
 Omide Iran
-Once Ninas y Ninos
 One America News Network
 One Piece
 Ontario Public Access Channel
@@ -985,7 +947,7 @@ Orange Government Access TV (Orange CT)
 Outdoor America
 Outdoor Channel
 OuterSphere
-Outside
+Outside TV
 Ovation
 Overcomers TV
 Overtime
@@ -1074,7 +1036,7 @@ Pluto TV True Crime
 Pluto TV Westerns
 pocket.watch Game On
 Pocono Television Network
-Poker Go
+PokerGO
 Pokémon
 Pomona Internet Streaming Channel (Pomona CA)
 Pompano Beach Web Streaming (Pompano Beach FL)
@@ -1108,7 +1070,7 @@ Real Wild
 Red Apple 21 (Fairfax County Public Schools)
 Red Bull TV US
 Redseat The First
-REELZ Famous & Infamous
+Reelz
 Retro TV
 RetroCrush
 Reuters
@@ -1116,7 +1078,6 @@ Rev and Roll
 Rev'n Action
 Revolt
 Revry
-Revry Her
 Revry LatinX
 Revry News
 Revry Queer
@@ -1124,7 +1085,7 @@ RFD-TV
 Ridiculousness
 RiffTrax
 Rifle Community TV RCTV (Rifle CO)
-Right Now Tv
+RightNow TV
 Roar
 Rocky Hill Government Access Channel 16
 RT en Espanol
@@ -1139,7 +1100,6 @@ RVTV Grants Pass
 RVTV Prime
 RVTV Voices
 Ryan and Friends
-S.W.A.T.
 Salem News Channel
 Samsung Wild Life
 Sanctuary
@@ -1157,7 +1117,6 @@ Scientology Network WFTT-DT1
 Screen Dreams
 Scripps News
 SCVTV (Santa Clarita CA)
-SEC Network
 Semillitas TV
 Sent TV Global Network Atlanta (SGTN-49)
 SF Commons Channel 29 (San Francisco CA)
@@ -1185,12 +1144,10 @@ Slopes TV
 Smithsonian Channel
 Smithsonian Channel Selects
 SNL Vault
-So... Real
 Sonic TV
 Sony Canal Novelas
 Sony KAL Hindi
 Sound View Community Media Education
-SPEEDVISION
 Spike Outdoors
 Spike Pluto TV
 Spirit TV
@@ -1237,6 +1194,7 @@ Tastemade
 Tastemade Travel
 TBN
 TBN Armenia
+TBN Asia
 TBN Inspire
 TBN Pacific
 TBN Україна
@@ -1246,8 +1204,6 @@ Teen Mom
 TeenNick
 Tele Boston
 Tele Pam
-TeleHit Estados Unidos
-Telehit Musica Estados Unidos
 TeleMIX
 Telemundo
 Telemundo Al Dia
@@ -1256,7 +1212,6 @@ Telemundo telenovelas clásicas
 Telemundo West
 Temecula TV (Temecula CA)
 Tempe Channel 11
-Tempo Afric TV
 Tennis Channel
 TennisChannel 2
 Terra Mater WILD English
@@ -1276,7 +1231,6 @@ The Cowboy Channel
 The Design Network
 The Film Detective
 The First TV
-The Good Wife
 The Graham Norton Show
 The Hill TV
 The Jamie Oliver Channel
@@ -1287,13 +1241,11 @@ The Love Boat
 The Nest
 The New Detectives
 The Now Network
-The Ohio Channel (WVIZ DT-2)
 The Pet Collective
 The Price Is Right
 The Price Is Right: The Barker Era
 The Rifleman
 The Twilight Zone
-The Walk TV
 The Walking Dead en español
 The Walking Dead Universe
 The Wild Wild West
@@ -1315,7 +1267,6 @@ Toon Goggles Junior
 Toonami Aftermath East
 ToonGoggles
 Top Stories by Newsy
-Torrance CitiCABLE (Torrance CA)
 Tosh.0
 TOTALLY TURTLES
 Tough Jobs
@@ -1379,12 +1330,10 @@ Unbeaten
 Unidentified
 UniMas Central
 UniMas Mountain
-Universal Cinema
 Universal Comedy
 Universal Crime
 Univision
 Univision Tlnovelas
-Univision West
 Unsolved Mysteries
 Up TV
 USA Network
@@ -1421,7 +1370,6 @@ VSiN
 VTN Victory Television Network
 W14DK-D 14.1 TV Delmarva
 W14DK-D 14.2 NEWSNET
-W14DK-D 14.5 All Sports Television Network
 Wanted: Dead or Alive
 WATC The Loop
 WATC The POINT Network
@@ -1453,7 +1401,6 @@ WFUT-DT1
 WFXT-DT2
 WGAL-DT3
 WGBO-DT 66.1
-WGGS-DT1
 WGGS-DT2
 WGN-DT1
 WGTV-DT3
@@ -1481,16 +1428,14 @@ WJBK-DT1
 WJXT News4JAX (Jacksonville FL)
 WLMB
 WLNG Radio
-WLTV-DT1
+WLTV-DT 23.1
 WMBC-DT1
 WMGT-TV News (Macon GA)
 WMPT-DT2 (PBS Create)
 WNBC-DT1
 WNYW-DT1
-Wolcott Governmental TV (Wolcott CT)
 Women's Sports Network
 World Channel
-World Fishing Network
 World Harvest TV
 World Poker Tour
 WPIX-HD
