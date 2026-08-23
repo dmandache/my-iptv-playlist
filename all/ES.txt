@@ -27,7 +27,6 @@ Andromeda
 Angel TV Spanish
 Anime Vision
 Anime Vision Classics
-Anime Zone TV
 Antena 3 Internacional
 Aqui No Hay Quien Viva
 Arabí TV
@@ -183,7 +182,6 @@ NatureTime
 NatureTime Finland
 Negocios TV
 NORTEvisión
-Nova
 Olot TV
 Olympics Channel
 Onda 15 TV

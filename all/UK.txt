@@ -8,7 +8,7 @@ Adventure Earth
 Afrobeats
 Ahlulbayt TV
 Akaal Channel
-AlbUK TV
+Alb UK TV
 Alhiwar TV
 Anand TV
 Andromeda
@@ -72,6 +72,8 @@ BBC Two Northern Ireland
 BBC Two Wales
 BBC UHD 1
 BBC UHD 2
+BBC UHD 3
+BBC UHD 4
 BET Pluto TV
 Beyond Belief: Fact or Fiction
 Blaze
@@ -96,12 +98,13 @@ Dog Whisperer
 Duck Dynasty
 Dunya News (UK Feed)
 Dynasty
-EDGEsport
 Eman Channel
 English Club TV (576i)
 ENT Channel
 ENT Family
+Eurochannel
 FailArmy
+Faith UK
 Faith World TV
 FBI Files
 FIFA+
@@ -129,6 +132,7 @@ IBC Bakthi
 IBC Tamil
 Inside Crime
 iON TV
+Iqra Bangla
 Iqra TV
 Iran International
 Islam Channel
@@ -236,19 +240,23 @@ Rugby Pass TV
 S4C
 Sabrina The Teenage Witch
 Safeer TV
+Sangat TV
 Sanskar UK
 Scorpion
 Sensing Murder
 Sheffield Live TV
+Sky Mix
 Sky Nature
 Sky News Weather
 Sky Sports Cricket
+Sky Sports F1
 Sky Sports Golf
 Sky Sports News
 Sky Sports NFL
 South Park
 So… Real
 Spark TV
+Star Vijay
 Strongman
 Takbeer TV
 Talking Pictures TV

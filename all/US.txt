@@ -97,11 +97,11 @@ AccessVision Channel 16
 AccessVision Channel 17
 AccuWeather Now
 Ace TV
-ActionMax
 ACTV
 Adrenalina Pura TV
 AfroLandTV
 AFTV
+AFV
 AFV en Español
 Akaku 53 (Hawaii)
 Akaku 54 (Hawaii)
@@ -113,6 +113,7 @@ Al Horreya TV
 Al-Fady TV
 Al-MahdiTV
 Alabama Weather Network
+Albanian TV America
 Alhurra Iraq
 Aliento Vision
 Alkarma TV Australia
@@ -138,7 +139,6 @@ America's Test Kitchen
 America's Voice
 America's Voice News
 American Horrors
-America’s Funniest Home Videos
 Ameritrade
 AMG TV
 Amga TV
@@ -155,7 +155,6 @@ Artflix Movie Classics
 ARTN TV
 Asian Culture TV
 AsianCrush
-Aspire
 AssyriaSat
 At Home with Family Handyman
 ATL 26
@@ -180,6 +179,9 @@ Backstage
 Bar Rescue
 Bark TV
 Battlestar Galactica
+BATV Educational Channel
+BATV Government Channel
+BATV Public Channel
 Baywatch
 BBC America
 BBC Doctor Who Classic
@@ -198,18 +200,14 @@ BEK TV News
 BEK TV Sports West
 Bellator MMA
 Berks Community TV
+Best of BATV Channel
 Best of Dr. Phil
-BET
 BET Cinema
 BET Classics
 BET Comedy Movies
-BET Her
-BET Jams
 BET Pluto TV
-BET Soul
 BET Throwbacks
 BET Visionaries
-BET West
 Better Health TV
 Better Life Nature Channel
 Better Life TV
@@ -261,8 +259,6 @@ BX Inform
 BX Inspire
 BX Omni
 BYUtv
-C-SPAN
-C-SPAN 2
 Cafe Trade TV
 Calabasas Channel
 California Music Channel
@@ -357,12 +353,10 @@ Classic TV Crime Drama
 Classic TV Drama
 Classic TV: Families
 Classica
-Cleo TV
 Cloudflare TV
 CMC-USA Country Music Channel
 CMT
 CMT Equal Play
-CNBC
 CoastTV NBC (WRDE-LD)
 Cold Case Files
 Collier Television CTV (Naples FL)
@@ -382,7 +376,6 @@ Cornerstone TV
 Costa Mesa's Municipal Access Channel CMTV 3
 COStv
 Court TV
-Cozi TV
 Create
 CreaTV Bay Voice TV Channel 27 (San Jose CA)
 CreaTV Classrooms Channel 28 (San Jose CA)
@@ -409,7 +402,6 @@ CVTV Channel 192
 CVTV Channel 194
 CW
 Cypress Public Access Channel 36 (Cypress CA)
-Dabl
 DangerTV
 Dark Matter TV
 Dateline 24/7
@@ -453,7 +445,6 @@ Dungeon TV
 Dynasty
 E!
 E! Keeping Up
-E! West
 Ebony TV by Lionsgate
 EBS Cinema
 EBS Musika
@@ -462,10 +453,12 @@ El Rey
 El Sembrador Nueva Evangelizacion ESNE
 Elbeshara GTV
 ElectricNOW
+Elevation Church
 Entertainment Tonight
 EntrepreneurTV
 Escambia County TV ECTV (Escambia County FL)
 ESPN Deportes
+ESPNews
 ESPNU
 Estrella Games
 Estrella News
@@ -478,6 +471,7 @@ Extrema TV
 F1 Channel
 Failarmy International
 Fairfield Government Access Channel 26 (Fairfield CA)
+Faith TV
 Family Ties
 Farscape
 Fashion Finds
@@ -485,7 +479,6 @@ FC Public Media (Fort Collins CO)
 Fear Factor
 Feel Good Drama
 Fernandina Beach City Meeting (Fernandina Beach FL)
-FETV
 FGTV
 FIFA+ United States
 FilAmTV Network
@@ -495,6 +488,8 @@ FilmRise Westerns
 FITE 24/7
 Flicks of Fury
 Flowers TV USA
+FMH Kids
+FMH Movies
 FNX
 Fontana Community Television
 Forensic Files
@@ -571,7 +566,6 @@ Gospel Broadcasting Network (GBN)
 Gospel Truth TV
 GoTraveler
 Gravitas Movies
-Great American Family
 Great Entertainment Television
 Greensboro TV (Greensboro NC)
 Grit Xtra
@@ -581,9 +575,7 @@ GunAz TV
 Gunsmoke
 Haddam Killingworth High School TV (HKTV)
 Hallmark Channel
-Hallmark Family
 Hallmark Movies & More
-Hallmark Mystery
 Happy Days
 HappyKids
 HarPal Geo
@@ -628,10 +620,10 @@ Iman TV
 Impact Network
 Impossible Quiz Show
 In the kitchen
+In Touch+
 INFAST
 InfoWars Network
 Ink Master
-INSP
 Instant Saga
 Investiga
 INWILD
@@ -652,7 +644,6 @@ Jus Hindi
 Jus One
 Jus Punjabi
 Just for Laughs Gags
-Justice Central TV
 K Content by CJ ENM
 Kajou TV
 Kaloopy TV
@@ -670,6 +661,7 @@ Kids Movie Club
 KidsFlix
 KIRO-DT1
 KITV 4 Island News
+KMCT-TV 39.1
 KMEX-DT1
 KMSP-DT1
 KNTV-DT1
@@ -723,7 +715,6 @@ Life! Christian Broadcasting Network
 LIFE! End Times TV
 Lifetime
 Lifetime Movies
-Lifetime Real Women
 LifevisionTV
 Lighting Lives Blessing Nations His Light (LLBN)
 Lighting Lives Blessing Nations His Word (LLBN)
@@ -743,7 +734,6 @@ LiveNOW from FOX
 LiveXLive
 Living Faith TV
 Localish
-Logo
 Logo Pluto TV
 Logos TV
 Logos TV English
@@ -825,7 +815,6 @@ MST3K
 MTC TV
 MTV
 MTV Biggest Pop
-MTV Classic
 MTV en español
 MTV Flow Latino
 MTV Live
@@ -847,7 +836,6 @@ Natick Government Channel
 Natick Public Access Channel
 National Geographic
 National Geographic HD East
-National Geographic Wild
 National Geographic Wild HD East
 NBA TV
 NBC
@@ -902,8 +890,6 @@ News12+ New York
 Newsmax 2
 Newsmax Spanish
 Newsmax TV
-NewsNation
-NewsNet
 Newsy
 NFL Channel
 NFL Network
@@ -948,7 +934,6 @@ Outdoor America
 Outdoor Channel
 OuterSphere
 Outside TV
-Ovation
 Overcomers TV
 Overtime
 Oxygen
@@ -959,7 +944,6 @@ Pacific Island Network
 Palm Beach County TV Channel 20 (Palm Beach County FL)
 Palm Beaches TV
 Paramount Movie Channel
-Paramount Network
 Paramount+ Picks
 Pars TV
 Pasco TV (Pasco County FL)
@@ -1040,7 +1024,6 @@ PokerGO
 Pokémon
 Pomona Internet Streaming Channel (Pomona CA)
 Pompano Beach Web Streaming (Pompano Beach FL)
-Pop TV
 Popstar! TV
 Port St Lucie PSL TV (Port St Lucie FL)
 Portlandia
@@ -1100,6 +1083,7 @@ RVTV Grants Pass
 RVTV Prime
 RVTV Voices
 Ryan and Friends
+S Premium!
 Salem News Channel
 Samsung Wild Life
 Sanctuary
@@ -1117,6 +1101,7 @@ Scientology Network WFTT-DT1
 Screen Dreams
 Scripps News
 SCVTV (Santa Clarita CA)
+SEC Network
 Semillitas TV
 Sent TV Global Network Atlanta (SGTN-49)
 SF Commons Channel 29 (San Francisco CA)
@@ -1135,13 +1120,11 @@ Showtime Extreme
 Showtime Family Zone
 Showtime Next
 Showtime West
-Showtime Women
 Sitcom Legends
 Sketchy AF
 SKWAD
 SLO County Channel 21
 Slopes TV
-Smithsonian Channel
 Smithsonian Channel Selects
 SNL Vault
 Sonic TV
@@ -1152,8 +1135,6 @@ Spike Outdoors
 Spike Pluto TV
 Spirit TV
 SportsGrid
-Sportsman Channel
-SportsNet New York
 St Lucie Public Schools
 St. Pete TV (SPTV) (St Petersburg FL)
 Stadium
@@ -1162,23 +1143,21 @@ Star Trek
 Star Trek: Deep Space Nine
 Star Trek: The Next Generation
 Star Trek: Voyager
-Start TV
 Starz
 Starz Cinema
 Starz Comedy
 Starz Edge
-Starz Encore
+Starz Encore Spanish
 Starz Kids & Family
-Starz West
 Stingray Greatest Holiday Hits
 Stockton GovTV (Stockton CA)
 Storage Wars by A&E
 Stories by AMC
 Story Television
 Stryk TV
+STV
 SUMtv English
 SUMtv Latino
-Sundance TV
 Super Simple Songs
 SuperChannel Orlando (WACX-DT1)
 Supernatural Drama
@@ -1194,7 +1173,6 @@ Tastemade
 Tastemade Travel
 TBN
 TBN Armenia
-TBN Asia
 TBN Inspire
 TBN Pacific
 TBN Україна
@@ -1208,6 +1186,7 @@ TeleMIX
 Telemundo
 Telemundo Al Dia
 Telemundo Corpus Christi
+Telemundo East
 Telemundo telenovelas clásicas
 Telemundo West
 Temecula TV (Temecula CA)
@@ -1227,8 +1206,8 @@ The Challenge
 The Chat Show Channel
 The Conners
 The Country Network
-The Cowboy Channel
 The Design Network
+The Doctors
 The Film Detective
 The First TV
 The Graham Norton Show
@@ -1246,6 +1225,7 @@ The Price Is Right
 The Price Is Right: The Barker Era
 The Rifleman
 The Twilight Zone
+The Walk TV
 The Walking Dead en español
 The Walking Dead Universe
 The Wild Wild West
@@ -1282,10 +1262,8 @@ Turismo
 TUTV
 TV Daja
 TV Hispanic
-TV Land
 TV Land Drama
 TV Land Sitcoms
-TV One
 TV Panou
 TV QUISQUEYA
 TV4
@@ -1333,11 +1311,10 @@ UniMas Mountain
 Universal Comedy
 Universal Crime
 Univision
+Univision East
 Univision Tlnovelas
 Unsolved Mysteries
-Up TV
 USA Network
-USA Network West
 USA Today
 Vallejo Community Access Television (V-CAT) (Vallejo CA)
 Vallenato Internacional
@@ -1357,9 +1334,7 @@ Vevo Pop
 Vevo R&B
 Vevo Retro Rock
 Vevo True School Hip-Hop
-VH1
 VH1 Queens of Reality
-VH1 West
 VICE TV
 Vida Mejor TV
 Village of Hastings-On-Hudson NY (WHOH-TV)
@@ -1402,6 +1377,7 @@ WFXT-DT2
 WGAL-DT3
 WGBO-DT 66.1
 WGGS-DT2
+WGGS-TV 16.1
 WGN-DT1
 WGTV-DT3
 WHBQ-DT1
