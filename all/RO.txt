@@ -6,27 +6,45 @@ Agro TV
 Aleph Business
 Aleph News
 Alfa Omega TV
+AMC Europe Romania
 Angelus TV
-Antena International
-Antena Monden
+Antena 1
+Antena Stars
+Arges TV
 Atomic Academy TV
 Atomic TV
 AXN Black Romania
+AXN CEE Romania
+AXN Spin
 AXN White
+BBC Earth Romania
+BBC First Romania
+Bollywood Classic Romania
 Boom TV
 Bucovina TV (576i)
+Cinemax 2 Romania
+Cinemax Romania
 Columna TV
+Comedy Central
 Comedy Play (576i)
 Credo TV
 Digi 24
 Digi Sport 1
+Digi Sport 2
+Digi Sport 3
+Digi Sport 4
 Disney Channel
+Disney Junior
 Dotto TV
 EMI TV
+Euronews Romania
 Exploris
-FILMBOX+ Comedy Magyar & Romania
+Film Cafe Romania
+Film Now
+FILMBOX+ Comedy Romania
 FILMBOX+ Emotion Romania
 FILMBOX+ Hits Romania
+FILMBOX+ Love & Crime Romania
 FILMBOX+ One Romania
 HD365 TV
 Hello Taste
@@ -50,6 +68,10 @@ MISA TV
 Moldova TV
 Muscel TV
 Nasul TV
+National Geographic
+National Geographic Wild
+Nickelodeon
+Nicktoons
 Nova TV Brasov
 Observator News
 Pro TV News
@@ -70,8 +92,10 @@ TeleM Botosani
 TeleMoldova +
 Telestar1
 The Fishing & Hunting Channel
+Timeless Dizi Channel
 Traditional TV
 TV Buzau
+TV Paprika
 TV SUD
 TVPlus Suceava
 TVR 1
@@ -88,3 +112,8 @@ TVR Sport
 TVR Targu-Mures
 TVR Timisoara
 TVSat
+Viasat Epic Drama Romania
+Viasat Explore
+Viasat History
+Viasat Kino Romania
+Viasat Nature

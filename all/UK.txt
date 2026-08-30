@@ -84,7 +84,6 @@ Canaf54 TV
 Catfish
 CBBC
 CBeebies
-Channel 5
 Channel S
 Clubbing TV UK
 CNBC
@@ -136,7 +135,6 @@ Iqra Bangla
 Iqra TV
 Iran International
 Islam Channel
-ITV1
 ITV2
 JAG
 Judge Judy

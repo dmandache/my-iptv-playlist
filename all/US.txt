@@ -73,6 +73,7 @@ ABC News Live 8
 ABC News Live 9
 ABC West
 ABC WWAY 3
+ABHP TV
 ABN Afghanistan
 ABN Africa
 ABN Bible Movies
@@ -159,6 +160,7 @@ AssyriaSat
 At Home with Family Handyman
 ATL 26
 Atlanta Channel
+Atlanta's 57 WATC TOO 57.2
 Atlas
 ATXN1
 ATXN2
@@ -280,7 +282,6 @@ CBS
 CBS 12 Cincinnati OH (WKRC)
 CBS 12 West Palm Beach FL (WPEC)
 CBS 2 Salt Lake City UT (KUTV)
-CBS 21 Harrisburg PA (WHP)
 CBS 22 South Bend IN (WSBT)
 CBS 3 Kalamazoo MI (WWMT)
 CBS 3 Omaha NE (KMTV)
@@ -429,6 +430,7 @@ Disney Channel
 Disney Junior
 Disney XD
 District of Columbia Network (DCN)
+Diya TV
 Documentary+
 Docurama
 Dog el cazarrecompensas
@@ -540,6 +542,7 @@ Garfield and Friends
 GBN Global Buddhist Network
 Geb Tv (KBPX LD5)
 Gem Shopping Network
+Genesis Science Network
 Giggle Mug
 Gillette Public Access Television Channel 189
 Gillette Public Access Television Channel 190
@@ -567,6 +570,7 @@ Gospel Truth TV
 GoTraveler
 Gravitas Movies
 Great Entertainment Television
+Greater Love TV
 Greensboro TV (Greensboro NC)
 Grit Xtra
 Grjngo Western Movies
@@ -578,6 +582,7 @@ Hallmark Channel
 Hallmark Movies & More
 Happy Days
 HappyKids
+Harmony Gospel Music TV
 HarPal Geo
 Harvest USA
 Hasbro Legends
@@ -638,6 +643,7 @@ Jersey Shore
 Jewelry Television
 Jewelry TV 2
 Jewish Life Television
+Joel Osteen Network
 JOURNY TV
 Judge Nosey
 Jus Hindi
@@ -663,7 +669,6 @@ KIRO-DT1
 KITV 4 Island News
 KMCT-TV 39.1
 KMEX-DT1
-KMSP-DT1
 KNTV-DT1
 KOKI-DT1
 KPVM Ace Country Radio
@@ -847,7 +852,6 @@ NBC 13 Albany NY (WNYT)
 NBC 26 Green Bay WI (WGBA)
 NBC 3 Las Vegas NV (KSNV)
 NBC 3 Sacramento CA (KCRA)
-NBC 4 Albuquerque NM (KOB)
 NBC 4 Milwaukee WI (WTMJ)
 NBC 4 San Antonio TX (WOAI)
 NBC 5 Chicago Live News
@@ -958,7 +962,6 @@ PBS Honolulu HI (KHET)
 PBS KET KY
 PBS KET Louisville KY (WKMJ-TV)
 PBS KET World
-PBS KET2
 PBS Kids
 PBS Kids Alaska
 PBS Kids Eastern/Central
@@ -1037,6 +1040,7 @@ Pursuit UP
 QVC
 QVC 2
 QVC 3
+RadiantTV
 Radio Tele Puissance
 Radio Tele Sentinel
 Radio Télé Kajou
@@ -1052,7 +1056,6 @@ Real America's Voice
 Real Wild
 Red Apple 21 (Fairfax County Public Schools)
 Red Bull TV US
-Redseat The First
 Reelz
 Retro TV
 RetroCrush
@@ -1114,12 +1117,7 @@ Shalom TV
 Shemaroo Bollywood
 Shop LC
 Shout! TV
-Showtime
-Showtime 2
-Showtime Extreme
 Showtime Family Zone
-Showtime Next
-Showtime West
 Sitcom Legends
 Sketchy AF
 SKWAD
@@ -1164,6 +1162,7 @@ Supernatural Drama
 Survivor
 Swamiji TV American
 Swerve Combat
+Swerve Sports
 SYFY
 Taiwan Plus TV
 Talkin Live Classics TV
@@ -1216,11 +1215,13 @@ The Jamie Oliver Channel
 The Johnny Carson Show
 The Judge Judy Channel
 The LEGO Channel
+The Loop
 The Love Boat
 The Nest
 The New Detectives
 The Now Network
 The Pet Collective
+The Point Televsion Network
 The Price Is Right
 The Price Is Right: The Barker Era
 The Rifleman
@@ -1337,6 +1338,7 @@ Vevo True School Hip-Hop
 VH1 Queens of Reality
 VICE TV
 Vida Mejor TV
+Video Mix TV
 Village of Hastings-On-Hudson NY (WHOH-TV)
 Vision Latina Network
 VOA Persian
@@ -1346,8 +1348,6 @@ VTN Victory Television Network
 W14DK-D 14.1 TV Delmarva
 W14DK-D 14.2 NEWSNET
 Wanted: Dead or Alive
-WATC The Loop
-WATC The POINT Network
 WATC TV57
 Watch it KID!
 Watch it Scream!
@@ -1358,7 +1358,6 @@ WBTS-CD1
 WBTV News
 WCAU-DT1
 WCBI (Columbus MI)
-WCCA 194 Worcester MA (WCCA-TV)
 WCETV Digital Channel 31.8
 WCOT 13 (Tallahassee FL)
 WDEF-TV News Chattanooga TN
@@ -1374,11 +1373,9 @@ WFLD-DT1
 WFTX News Fort Myers FL
 WFUT-DT1
 WFXT-DT2
-WGAL-DT3
 WGBO-DT 66.1
 WGGS-DT2
 WGGS-TV 16.1
-WGN-DT1
 WGTV-DT3
 WHBQ-DT1
 WHIO-DT1
@@ -1393,7 +1390,6 @@ Willow
 Willow Sports
 Window TV
 Wine Watches Whiskey
-Winthrop Community Access TV (WCAT 15)
 Wipeout
 Wipeout Xtra
 Wired2Fish
@@ -1418,12 +1414,11 @@ WPIX-HD
 WPS TV
 WPTV News West Palm Beach FL
 WPXI-DT1
-WRC-DT1
-WSB-DT1
 WSBS-DT1
 WSLF-LD 35.1
 WSOC Now
 WSOC-DT1
+WTMO-CD 31.1
 WTNH-DT1
 WTTG-DT1
 WTVJ-DT1
