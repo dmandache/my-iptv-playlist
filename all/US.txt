@@ -97,6 +97,7 @@ Access Tuolumne (Tuolumne County CA)
 AccessVision Channel 16
 AccessVision Channel 17
 AccuWeather Now
+ACE Country Radio KPVM-LD
 Ace TV
 ACTV
 Adrenalina Pura TV
@@ -134,7 +135,7 @@ Amazing Facts TV
 AMC
 AMC Absolute Reality
 AMC East
-AMC en Español
+AMC en Espanol
 America's Next Top Model
 America's Test Kitchen
 America's Voice
@@ -156,6 +157,7 @@ Artflix Movie Classics
 ARTN TV
 Asian Culture TV
 AsianCrush
+Aspire TV Life
 AssyriaSat
 At Home with Family Handyman
 ATL 26
@@ -169,6 +171,7 @@ AuroraTV (Aurora CO)
 Autentic History
 Autentic Travel
 Avang TV
+AVI Rewind
 AWE
 AWE International
 AWE Plus
@@ -337,7 +340,8 @@ Cine Premiere
 Cine Romantico
 Cine Sony
 Cine terror
-Cinemax Latino
+Cinemax Classics
+Cinemax Hits
 CinePride
 Cinevault 80s
 Cinevault Westerns
@@ -358,6 +362,7 @@ Cloudflare TV
 CMC-USA Country Music Channel
 CMT
 CMT Equal Play
+CNBC
 CoastTV NBC (WRDE-LD)
 Cold Case Files
 Collier Television CTV (Naples FL)
@@ -435,7 +440,6 @@ Documentary+
 Docurama
 Dog el cazarrecompensas
 Dog the Bounty Hunter
-Dog TV
 Don't Tell The Bride
 Dove Channel
 Dr Phil's MeritTV
@@ -454,7 +458,7 @@ El Reino Infantil
 El Rey
 El Sembrador Nueva Evangelizacion ESNE
 Elbeshara GTV
-ElectricNOW
+Electric Now
 Elevation Church
 Entertainment Tonight
 EntrepreneurTV
@@ -466,7 +470,6 @@ Estrella Games
 Estrella News
 Estrella TV
 Estrellas de Acción
-ETV Telugu USA
 EWTN
 EWTN Spanish
 Extrema TV
@@ -482,6 +485,7 @@ Fear Factor
 Feel Good Drama
 Fernandina Beach City Meeting (Fernandina Beach FL)
 FGTV
+Fierro a Fondo TV
 FIFA+ United States
 FilAmTV Network
 FilmRise Anime
@@ -514,7 +518,7 @@ Fox News Radio
 Fox Soul
 Fox Sports 1
 Fox Sports 2
-FOX Weather
+Fox Weather
 Fox West
 Free Speech TV
 Freebie TV
@@ -565,7 +569,6 @@ Golden Community Television (GCO.tv) (Golden CO)
 Golf Channel
 GoodLife 45
 Gordon Ramsay
-Gospel Broadcasting Network (GBN)
 Gospel Truth TV
 GoTraveler
 Gravitas Movies
@@ -587,6 +590,8 @@ HarPal Geo
 Harvest USA
 Hasbro Legends
 Haunt TV
+HBO Hits
+HBO Movies
 HCTV Educational Access Channel
 HCTV Government Channel
 HCTV Public Access Channel
@@ -632,8 +637,9 @@ Ink Master
 Instant Saga
 Investiga
 INWILD
-ION
 ION Plus
+ION TV
+IraneFarda TV
 Iron Chef
 It Is Written TV
 It's Supernatural! Network
@@ -663,22 +669,19 @@ KDFW-DT1
 Kern County Television
 Ketchup TV
 KFTR-DT1
+KidOO
 Kids Movie Club
 KidsFlix
+KIIO-LD 10.1
 KIRO-DT1
 KITV 4 Island News
 KMCT-TV 39.1
 KMEX-DT1
 KNTV-DT1
 KOKI-DT1
-KPVM Ace Country Radio
 KPVM AWE Plus
-KPVM Movies!
 KPVM Newsmax 2
-KPVM OAN Plus
 KPVM Prime TV25
-KPVM Real America's Voice
-KPVM Story Television
 KQED-DT2
 KQSL Channel 8
 KRCA-TV Estrella Los Angeles
@@ -794,7 +797,7 @@ Mission Impossible
 Mission TV
 Misterios Medicos
 Misterios sin Resolver
-MLB Channel
+MLB
 MLB Network
 MLB Strike Zone
 MMA-TV
@@ -807,9 +810,9 @@ Montgomery Channel
 More True Crime
 More TV Drama
 More TV Sitcoms
-MoreMax
 MotorTrend FAST TV
 Movies!
+Movies! KPVM-LD
 MovieSphere
 Mr. Bean Animated
 MRVTV Channel 44
@@ -832,7 +835,7 @@ MyTime Movie Network
 myTV San Antonio TX (KCWX-TV)
 Más adrenalina
 Naruto
-Nash Bridges Channel
+Nash Bridges
 Nashua ETV Channel 22 Nashua NH
 Nashua GTV Channel 16 Nashua NH
 NAT TV
@@ -920,6 +923,7 @@ NTD TV
 NTD TV English
 NTD TV West
 NYXT
+OAN Plus KPVM-LD
 OANPlus
 Oceanside Community Television (KOCT) Community Channel 18
 Oceanside Community Television (KOCT) Education and Government Channel 19
@@ -960,7 +964,6 @@ PBR RidePass
 PBS Antiques Road Trip
 PBS Honolulu HI (KHET)
 PBS KET KY
-PBS KET Louisville KY (WKMJ-TV)
 PBS KET World
 PBS Kids
 PBS Kids Alaska
@@ -1053,6 +1056,7 @@ Rally TV
 Rancho Cucamonga RCTV3 (Rancho Cucamonga CA)
 Rawhide
 Real America's Voice
+Real America's Voice KPVM-LD
 Real Wild
 Red Apple 21 (Fairfax County Public Schools)
 Red Bull TV US
@@ -1076,6 +1080,7 @@ Roar
 Rocky Hill Government Access Channel 16
 RT en Espanol
 RTH-TV1
+RTN
 RTR Planeta USA
 RTVi US
 Runtime
@@ -1099,8 +1104,8 @@ SBN TV
 SC Currents
 Schwab Network
 Scientology Network
-Scientology Network KSCN-DT1
-Scientology Network WFTT-DT1
+Scientology Network KSCN-TV
+Scientology Network WFTT-TV
 Screen Dreams
 Scripps News
 SCVTV (Santa Clarita CA)
@@ -1152,6 +1157,7 @@ Stockton GovTV (Stockton CA)
 Storage Wars by A&E
 Stories by AMC
 Story Television
+Story Television KPVM-LD
 Stryk TV
 STV
 SUMtv English
@@ -1220,10 +1226,10 @@ The Love Boat
 The Nest
 The New Detectives
 The Now Network
-The Pet Collective
+The Pet Collective International
 The Point Televsion Network
 The Price Is Right
-The Price Is Right: The Barker Era
+The Price is Right: The Barker Era
 The Rifleman
 The Twilight Zone
 The Walk TV
@@ -1231,7 +1237,7 @@ The Walking Dead en español
 The Walking Dead Universe
 The Wild Wild West
 The Word Network
-The Young Turks
+The Young Turks (TYT)
 theDove TV
 This Old House
 Thornton Government Access Channel 17 (Thornton CO)
@@ -1404,13 +1410,11 @@ WLTV-DT 23.1
 WMBC-DT1
 WMGT-TV News (Macon GA)
 WMPT-DT2 (PBS Create)
-WNBC-DT1
 WNYW-DT1
 Women's Sports Network
 World Channel
 World Harvest TV
 World Poker Tour
-WPIX-HD
 WPS TV
 WPTV News West Palm Beach FL
 WPXI-DT1
@@ -1455,4 +1459,5 @@ Yuma AZ CH 73
 Yuma77
 Zarin TV
 Zoom TV Kurdish
+ZTV
 ТНТ International

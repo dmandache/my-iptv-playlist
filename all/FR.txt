@@ -189,7 +189,7 @@ TV Breizh
 TV Monaco
 TV Mulhouse
 TV3V
-TV5Monde France Belgique Suisse Monaco
+TV5Monde France Belgium Switzerland Monaco
 TV5Monde Info
 TV5Monde Style
 TV7 Colmar

@@ -184,6 +184,7 @@ NOW Rock
 NTD TV English UK
 On the Case
 Paranormal State
+Planet Fun
 Pluto TV 80's Action
 Pluto TV Action
 Pluto TV Alien Invasion
@@ -247,10 +248,6 @@ Sky Mix
 Sky Nature
 Sky News Weather
 Sky Sports Cricket
-Sky Sports F1
-Sky Sports Golf
-Sky Sports News
-Sky Sports NFL
 South Park
 So… Real
 Spark TV

@@ -28,7 +28,6 @@ Angel TV Spanish
 Anime Vision
 Anime Vision Classics
 Antena 3 Internacional
-Aqui No Hay Quien Viva
 Arabí TV
 Archivos Forenses
 AXN White
@@ -93,7 +92,6 @@ Deportes por Movistar Plus+
 Detective Conan
 Diez TV Las Villas
 Diez TV Úbeda
-Disney Junior
 Distrito TV
 Durangaldeko Telebista
 El 33
@@ -144,6 +142,7 @@ La 2
 La 2 Canarias
 La 2 Catalunya
 La 8 Mediterraneo
+La Rosa de Guadalupe
 La Urban TV
 Lancelot TV
 Las Tortugas Ninja
@@ -277,6 +276,7 @@ South Park Versión Original
 SpektraTV
 Star Trek: Voyager
 SX3
+Tac12
 Tarotéame
 TBN España
 Tele 7
