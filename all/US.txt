@@ -198,7 +198,6 @@ Beach TV Florida & Alabama
 Beach TV Key West & Florida Keys
 Beach TV Myrtle Beach & The Grand Strand
 Beach TV Panama City
-beIN Sports USA
 beIN SPORTS XTRA
 beIN SPORTS XTRA en Espanol
 BEK TV News
@@ -406,7 +405,6 @@ CTN
 Curiosity Now
 CVTV Channel 192
 CVTV Channel 194
-CW
 Cypress Public Access Channel 36 (Cypress CA)
 DangerTV
 Dark Matter TV
@@ -432,6 +430,7 @@ Detroit Channel 22
 Detroit Channel 68
 Didgah TV
 Disney Channel
+Disney Channel HD East
 Disney Junior
 Disney XD
 District of Columbia Network (DCN)
@@ -533,10 +532,10 @@ Fun Roads
 Funny AF
 Fuse
 FX
-FX Movie Channel
-FXX
 Gagsnetwork
 Gainesville Community 12TV (Gainesville FL)
+Galavision
+Galavision West
 Galveston County TV
 Galxy TV
 Game Show Central
@@ -566,7 +565,6 @@ Go USA TV
 God's Learning Channel
 Golazo Network
 Golden Community Television (GCO.tv) (Golden CO)
-Golf Channel
 GoodLife 45
 Gordon Ramsay
 Gospel Truth TV
@@ -591,6 +589,7 @@ Harvest USA
 Hasbro Legends
 Haunt TV
 HBO Hits
+HBO Hits East
 HBO Movies
 HCTV Educational Access Channel
 HCTV Government Channel
@@ -704,6 +703,7 @@ La Que Buena Atlanta
 La Voz de Jesus
 Lacrosse TV
 Laff
+Laff WJLP
 Lakewood Channel 8 (Lakewood CO)
 Lakewood CityTV
 Las Vegas Tonight with Dale Davidson
@@ -870,7 +870,6 @@ NBC News NOW
 NBC Sports Bay Area
 NBC Sports NOW
 NBC Sports Philadelphia
-NBC Universo
 NBC Universo West
 NBC West
 NBC West (San Diego)
@@ -952,6 +951,7 @@ Pacific Island Network
 Palm Beach County TV Channel 20 (Palm Beach County FL)
 Palm Beaches TV
 Paramount Movie Channel
+Paramount Network
 Paramount+ Picks
 Pars TV
 Pasco TV (Pasco County FL)
@@ -978,6 +978,7 @@ PBS Nature
 PBS New Jersey NJ (WNJT)
 PBS Sedalia British Columbia MO (KMOS)
 PBS Travel
+PBS WNET
 People Are Awesome
 Peppa Pig
 Perry Mason
@@ -1091,6 +1092,7 @@ RVTV Grants Pass
 RVTV Prime
 RVTV Voices
 Ryan and Friends
+S Free!
 S Premium!
 Salem News Channel
 Samsung Wild Life
@@ -1122,6 +1124,7 @@ Shalom TV
 Shemaroo Bollywood
 Shop LC
 Shout! TV
+Showtime
 Showtime Family Zone
 Sitcom Legends
 Sketchy AF
@@ -1129,6 +1132,7 @@ SKWAD
 SLO County Channel 21
 Slopes TV
 Smithsonian Channel Selects
+Smurf TV
 SNL Vault
 Sonic TV
 Sony Canal Novelas
@@ -1146,7 +1150,6 @@ Star Trek
 Star Trek: Deep Space Nine
 Star Trek: The Next Generation
 Star Trek: Voyager
-Starz
 Starz Cinema
 Starz Comedy
 Starz Edge
@@ -1315,11 +1318,13 @@ Unbeaten
 Unidentified
 UniMas Central
 UniMas Mountain
+UniMas WFUT-DT
 Universal Comedy
 Universal Crime
 Univision
 Univision East
 Univision Tlnovelas
+Univision West
 Unsolved Mysteries
 USA Network
 USA Today
@@ -1341,6 +1346,7 @@ Vevo Pop
 Vevo R&B
 Vevo Retro Rock
 Vevo True School Hip-Hop
+VH1
 VH1 Queens of Reality
 VICE TV
 Vida Mejor TV
@@ -1377,7 +1383,6 @@ Western TV
 Westerns 4U
 WFLD-DT1
 WFTX News Fort Myers FL
-WFUT-DT1
 WFXT-DT2
 WGBO-DT 66.1
 WGGS-DT2

@@ -2,6 +2,8 @@
 # One channel name per line. Lines starting with # are ignored.
 # Remove channels you do not want to keep.
 A7TV
+Acasa
+Acasa Gold
 Agro TV
 Aleph Business
 Aleph News
@@ -17,13 +19,12 @@ AXN Black Romania
 AXN CEE Romania
 AXN Spin
 AXN White
+B1
 BBC Earth Romania
 BBC First Romania
 Bollywood Classic Romania
 Boom TV
 Bucovina TV (576i)
-Cinemax 2 Romania
-Cinemax Romania
 Columna TV
 Comedy Central
 Comedy Play (576i)
@@ -63,21 +64,30 @@ Light Channel
 LiraTV
 Magic TV
 Metropola TV
+Minimax
 Mireasa
 MISA TV
 Moldova TV
 Muscel TV
 Nasul TV
+National 24 Plus
 National Geographic
 National Geographic Wild
+National TV
 Nickelodeon
 Nicktoons
 Nova TV Brasov
 Observator News
+Prima News
+Prima TV
+Pro Arena
+Pro Cinema
+PRO TV
 Pro TV News
 PROFI 24 TV
 Qub TV
 Radio Fx Net
+Radio Romania 3Net
 Radio Romania Antena Satelor
 Realitatea Plus
 Realitatea Sportiva

@@ -146,7 +146,7 @@ KTO
 Latest TV
 Loveworld UK
 MacGyver
-Magna Vision
+Magnavision TV
 Married... with Children
 Matlock
 MBC
@@ -183,6 +183,7 @@ Now 80s
 NOW Rock
 NTD TV English UK
 On the Case
+Panjab TV
 Paranormal State
 Planet Fun
 Pluto TV 80's Action
@@ -247,7 +248,6 @@ Sheffield Live TV
 Sky Mix
 Sky Nature
 Sky News Weather
-Sky Sports Cricket
 South Park
 So… Real
 Spark TV
