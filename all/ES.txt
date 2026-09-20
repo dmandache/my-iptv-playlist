@@ -1,83 +1,85 @@
 # Keep list for ES
 # One channel name per line. Lines starting with # are ignored.
 # Remove channels you do not want to keep.
-101tv Cádiz
+101tv Cadiz
 101tv Malaga
 101tv Sevilla
-12TV Alicante
+12tv
+24 Horas (Spain)
 24 Horas Canarias
+24 Horas Catalunya
 28 kanala
-3Cat Càmeres del temps
+3Cat Cameres del temps
 3Cat Exclusiu 1
 3Cat Exclusiu 2
 3Cat Exclusiu 3
 3Cat Plats bruts
 3CatInfo
-7 TeleValencia
 8 La Marina TV
 9 la Loma TV
 A Punt
 Activa TV
 Actualidad 360
-Alacantí TV
+Alacanti TV
 Alcarria TV
-America's Next Top Model
+America's Next Top Model (Germany)
 Ana y los 7
 Andromeda
 Angel TV Spanish
 Anime Vision
 Anime Vision Classics
 Antena 3 Internacional
-Arabí TV
+Arabi TV
 Archivos Forenses
 AXN White
-Bailén TV
+Bailen TV
 Barca TV
 BBC Drama
 BCN Gospel TV
-BDNCOM
+BDN
 Biosfera TV
 Bob Esponja
 Bon Dia TV
 Cadena Elite
-Canal 1 Mar Menor-Torre Pacheco
-Canal 10 Empordà
-Canal 2000 La Solana
-Canal 24 Horas
-Canal 24 Horas Catalunya
+Canal 1 Mar Menor Torre Pacheco
+Canal 10 Emporda
+Canal 2000
 Canal 25 TV
-Canal 3 Biar
+Canal 3 TV Biar
 Canal 33 Madrid
 Canal 4 Catalunya
 Canal 4 Mallorca
 Canal 4 Mancha Centro
 Canal 45
 Canal 56
-Canal Coín
+Canal 7 TeleValencia
+Canal Coin TV
 Canal Diocesano
-Canal Doñana
+Canal Donana
 Canal Extremadura
-Canal Luz Televisión
-Canal Málaga RTV
+Canal Luz Television
+Canal Malaga RTV
 Canal Parlamento
 Canal Reus TV
 Canal San Roque
-Canal Sierra de Cádiz
+Canal Sierra de Cadiz
+Canal Sur 2
 Canal Sur Andalucia
-Canal Sur Andalucía 2
 Canal Sur Noticias
 Canal Taronja Comarques Centrals
-Canal Taronja Osona i Moianés
+Canal Taronja Osona i Moianes
 Canal Terrassa
 CanalCosta
 Cancionero TV
 Cazador de Homicidas
-Cetelmón TV
-Ciudades Del Ocio TV
+Cetelmon TV
+Cine Friki
+Cine Western (Spain)
+Ciudades del Ocio TV
 Clan
 CMM TV
 Comedia a lo bestia de Pluto TV
-Condavisión
+Condavision
 Congreso de los Diputados 1
 Congreso de los Diputados 2
 Congreso de los Diputados 3
@@ -87,11 +89,11 @@ Corts Valencianes
 Costa Noroeste TV
 Crimen & Historia
 Cugat TV
-Curro Jiménez
+Curro Jimenez
 Deportes por Movistar Plus+
 Detective Conan
 Diez TV Las Villas
-Diez TV Úbeda
+Diez TV Ubeda
 Distrito TV
 Durangaldeko Telebista
 El 33
@@ -102,35 +104,36 @@ El encantador de perros
 El Mueble
 El Toro TV
 Elche 7 TV
-Empeños a lo bestia
-Empordà TV
+Empenos a lo bestia
+Emporda TV
 En el punto de mira
 Esport3
+Esport3 Originals
 Este Canal TV
-Estepona Televisión
+Estepona Television
 EsTuTele
 ETB 1
 ETB 2
 ETB Events 1
 ETB1 On
 ETB2 On
-ETV Terramar
+etv
+EWTN (United States) Spain & Latin America
 EWTN Espana
-EWTN Spain & Latin America
 Fibwi
 FIFA+ Spain
-France 24 Español
+France 24 Spanish
 Fuerteventura TV
 Galicia TV Europa
 Goiena Eus
 Guada TV
 Hamaika Telebista
 Historia
-Historia y Vida
+Historia Y Vida
 HOLA! Play
 Huelva TV
-iCarly
-Imás TV
+iCarly (Germany) ES
+Imas TV
 Interalmeria TV
 Intercomarcal TV
 KinoKazka
@@ -145,190 +148,188 @@ La 8 Mediterraneo
 La Rosa de Guadalupe
 La Urban TV
 Lancelot TV
-Las Tortugas Ninja
+Las Tortugas Ninja (Germany)
 Liga de Campeones por Movistar Plus+
 LiraTV
-Lleida Televisió
-Logos TV
+Lleida Televisio
+Logos TV (Spain)
 Logos TV Estudio
 Logos TV Kids
 Logos TV Salud
 Los archivos del FBI
 Los Asesinatos de Midsomer
 Love The Planet ES
-M95 Televisión Marbella
+M95 Television Marbella
 Maestrat TV
-Mataró Televisió
-Medium
-Melrose Place
-Mi Extraña Obsesión
+Mataro Televisio
+Medium (Germany)
+Mi Extrana Obsesion
 Mijas 3.40TV
+Mirame TV
 Molahits TV
-Mr. Bean Anime Spain
-MTV Catfish TV Show
-MTV Dating
+Mr Bean Animated ES
+MTV Catfish TV Show ES
+MTV Dating (Germany) ES
 MTV Embarazada a los 16
 MTV Geordies
 MTV Jerseys
 MTV Originals
-MTV Reality
-MTV Teen Mom
-MTV Vergüenza ajena
+MTV Reality (Germany) ES
+MTV Teen Mom (Germany) ES
+MTV Verguenza ajena
 Music TV Granada
-MyTime movie network Spain
-Mírame TV
+MyTime Movie Network (Spain)
 NatureTime
-NatureTime Finland
+NatureTime ES
 Negocios TV
-NORTEvisión
+Nortevision
 Olot TV
-Olympics Channel
+Olympic Channel
 Onda 15 TV
-Onda Algeciras TV
-Onda Cádiz 24h
-Onda Valencia
-One Piece
+Onda Algeciras
+Onda Cadiz
+Onda Valencia TV
+One Piece Spain
 Paramount Network de Pluto TV
-Parlamento de Andalucía
+Parlamento de Andalucia
 Parlamento de Navarra
-Penedès Televisió
+Penedes Televisio
 Pequeradio
 Piera TV
 Pirineus TV
 Platzi TV
 Pluto TV Animales
-Pluto TV Anime
-Pluto TV Catástrofes
-Pluto TV Cine Acción
-Pluto TV Cine Clásico
-Pluto TV Cine Comedia
+Pluto TV Anime (Germany) ES
+Pluto TV Catastrofes
+Pluto TV Cine Accion (Germany)
+Pluto TV Cine Clasico (Germany)
+Pluto TV Cine Comedia (Germany)
 Pluto TV Cine de autor
-Pluto TV Cine Drama
-Pluto TV Cine Estelar
-Pluto TV Cine Romántico
+Pluto TV Cine Drama (Germany)
+Pluto TV Cine Estelar (Germany)
+Pluto TV Cine Romantico
 Pluto TV Cocina
 Pluto TV Comedia made in Spain
-Pluto TV Comedias Románticas
-Pluto TV Diseño
+Pluto TV Comedias Romanticas
+Pluto TV Diseno
 Pluto TV Gasolina
 Pluto TV Gore & Slasher
-Pluto TV Historia
-Pluto TV Horror
+Pluto TV Historia (Germany)
+Pluto TV Horror (Germany) ES
 Pluto TV Impacto
-Pluto TV Invasión Alien
-Pluto TV Junior
+Pluto TV Invasion Alien
+Pluto TV Junior (Germany)
 Pluto TV K-Drama
+Pluto TV Kids (Germany)
 Pluto TV Kids Classics
-Pluto TV Kids Spain
-Pluto TV Motor
-Pluto TV Paranormal
+Pluto TV Melrose Place
+Pluto TV Motor (Germany)
+Pluto TV Paranormal (Germany) ES
 Pluto TV Psycho
-Pluto TV Sci-Fi
-Pluto TV Series
+Pluto TV Sci-Fi (Germany) ES
+Pluto TV Series (Germany)
 Pluto TV Series criminales
-Pluto TV Series Sci-Fi
-Pluto TV Snooker 900
+Pluto TV Series Sci-Fi (Germany)
+Pluto TV Snooker 900 (Germany) ES
 Pluto TV Teen
-Pluto TV Telenovelas Clásicas
-Pluto TV Thrillers
-Pluto TV True Crime
-Pluto TV Western
+Pluto TV Telenovelas Clasicas
+Pluto TV Thrillers (Germany)
+Pluto TV True Crime (Germany) ES
+Pluto TV Western ES
 Pluto TV Zombies
 POP World TV
 Popular TV Melilla
 Popular TV Murcia
-PTV Córdoba
+PTV Cordoba
 PTV Granada
 PTV Linares
-PTV Málaga
+PTV Malaga
 PTV Sevilla
-Punt 3 Vall Uixó
+Punt 3
 Radio 3
+Radio Bocairent TV
 Radio Carnaval TV
-Rakuten TV Action Movies Spain
-Rakuten TV Comedy Movies Spain
-Rakuten TV Drama Movies Spain
-Rakuten TV Family Movies Spain
-Rakuten TV Top Movies Spain
+Radio Television Marbella
+Rakuten TV Action Movies
+Rakuten TV Comedy Movies
+Rakuten TV Drama Movies
+Rakuten TV Family Movies
+Rakuten TV Top Movies
 Rakuten Viki
 Real Madrid TV
 Real Madrid TV English
 Red Bull TV ES
 Ribera TV
-Rioja Televisión
 RNE para todos
 ROTV Valencia
 RT en Espanol
 RTV El Vendrell
 RTV Manilva
-RTV Marbella
 RTV Vida
 RTVC Cardedeu
-Rugrats
-Ràdio Bocairent TV
+Rugrats (Germany)
 SensaCine TV x Pluto
 Sevilla FC TV
-Sin Tetas No Hay Paraíso
-Sol Música
+Sin tetas no hay paraiso
+Sol Musica
 Solidaria TV
-South Park
-South Park Versión Original
+South Park (Germany)
+South Park Version Original
 SpektraTV
-Star Trek: Voyager
+Star Trek: Voyager (Germany)
 SX3
 Tac12
-Tarotéame
-TBN España
+Taroteame
+TBN Espana
 Tele 7
 Tele Elx
 Tele Safor
 TeleBilbao
 Teledeporte
-Teleganés
+Teleganes
 Telemadrid
 Telemotril
 Teleonuba
 TeleRibera
 TeleVigo
+Television Aranda
 Television Canaria
-Televisión Aranda
-Televisión Consciente
-The Pet Collective
+Television Consciente
+Television de San Vicente
+The Pet Collective Spain
 Tito TV
-Trece TV
-TV Artequatre
-TV Berguedà
+Todo Novelas
+Trece (Spain)
+TV Bergueda
 TV BRICS Spanish
 TV Costa Brava
 TV Girona
 TV L'Hospitalet
-TV Ripollès
-TV Sabadell-Vallès
-TV San Vicente
-TV3
+TV Ripolles
+TV Sabadell-Valles
+TV3 (Spain)
 TV3CAT
-TVCentro Andalucía
+TVA (Spain)
+TVCentro Andalucia
 TVE Internacional Europe
 TVE Star
 TVG2
-TVM Córdoba
+TVM Cordoba
 TVO Jesus
 TVOMIX
+TVR (Spain)
 TVReus
-Une Vinalopó
-Unidad de investigación
+Une Vinalopo
+Unidad de investigacion
 Univers TV
 Urola Telebista
-Vallès Visió
+Valles Visio
 Vaya semanita
 Ventdelnord TV
 Vision 6 TV
-Vivamóvil
+Vivamovil
 VOTV
 WaterBear
 XPTV US
 XPTV1
 XPTV2
-Zylo Cine Friki
-Zylo Cine Western
-Zylo Todo Novelas

@@ -4,13 +4,15 @@
 A7TV
 Acasa
 Acasa Gold
-Agro TV
+Agro TV (Romania)
 Aleph Business
 Aleph News
 Alfa Omega TV
 AMC Europe Romania
 Angelus TV
-Antena 1
+Antena 1 (Romania)
+Antena International
+Antena Monden
 Antena Stars
 Arges TV
 Atomic Academy TV
@@ -23,10 +25,11 @@ B1
 BBC Earth Romania
 BBC First Romania
 Bollywood Classic Romania
+Bollywood Film
 Boom TV
 Bucovina TV (576i)
 Columna TV
-Comedy Central
+Comedy Central (Romania)
 Comedy Play (576i)
 Credo TV
 Digi 24
@@ -34,12 +37,13 @@ Digi Sport 1
 Digi Sport 2
 Digi Sport 3
 Digi Sport 4
-Disney Channel
-Disney Junior
+Disney Channel (Bulgaria)
+Disney Channel (Romania)
+Disney Junior (Romania)
 Dotto TV
 EMI TV
+Etno TV
 Euronews Romania
-Exploris
 Film Cafe Romania
 Film Now
 FILMBOX+ Comedy Romania
@@ -47,44 +51,50 @@ FILMBOX+ Emotion Romania
 FILMBOX+ Hits Romania
 FILMBOX+ Love & Crime Romania
 FILMBOX+ One Romania
+Happy Channel
 HD365 TV
 Hello Taste
 Hunedoara 1
 IasiTV Life
-Impact TV
+Impact TV (Romania)
 Impact TV Dance
 Impact TV Manele
+Inedit TV
 Informatia TV
 JOB TV
-Kanal D
+Kanal D (Romania)
 Kanal D2 (1080i)
 Kapital TV
 Kiss TV
-Light Channel
+Light Channel (Romania)
 LiraTV
-Magic TV
+Magic TV (Romania)
 Metropola TV
-Minimax
+Minimax (Romania)
 Mireasa
+Mireasa Extra
 MISA TV
 Moldova TV
+Mooz Dance
+Mooz Hits
+Mooz Ro!
 Muscel TV
 Nasul TV
 National 24 Plus
-National Geographic
-National Geographic Wild
+National Geographic (Romania)
+National Geographic Wild (Romania)
 National TV
-Nickelodeon
-Nicktoons
+Nickelodeon (Romania)
+Nicktoons (Romania)
 Nova TV Brasov
 Observator News
 Prima News
-Prima TV
+Prima TV (Romania)
 Pro Arena
 Pro Cinema
 PRO TV
-Pro TV News
 PROFI 24 TV
+PROTV News
 Qub TV
 Radio Fx Net
 Radio Romania 3Net
@@ -92,20 +102,22 @@ Radio Romania Antena Satelor
 Realitatea Plus
 Realitatea Sportiva
 Realitatea Star (576i)
-Rock TV
+Rock TV (Romania)
 ROTV Valencia
 SperantaTV
-Super TV
+Super TV (Romania)
 Tele7ABC
 Tele7music (576i)
 TeleM Botosani
 TeleMoldova +
 Telestar1
 The Fishing & Hunting Channel
-Timeless Dizi Channel
+Timeless Dizi Channel (Romania)
 Traditional TV
+TraLaLa TV
 TV Buzau
-TV Paprika
+TV Paprika (Romania)
+TV SE
 TV SUD
 TVPlus Suceava
 TVR 1
@@ -123,7 +135,7 @@ TVR Targu-Mures
 TVR Timisoara
 TVSat
 Viasat Epic Drama Romania
-Viasat Explore
-Viasat History
+Viasat Explore (Romania)
+Viasat History (Romania)
 Viasat Kino Romania
-Viasat Nature
+Viasat Nature (Romania)
