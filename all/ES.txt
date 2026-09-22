@@ -1,6 +1,7 @@
 # Keep list for ES
 # One channel name per line. Lines starting with # are ignored.
 # Remove channels you do not want to keep.
+101tv Antequera
 101tv Cadiz
 101tv Malaga
 101tv Sevilla

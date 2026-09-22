@@ -505,10 +505,7 @@ FGTV (United States)
 Fierro a Fondo TV
 FIFA+ United States
 FilAmTV Network
-FilmRise Anime
-FilmRise Classic TV
 FilmRise Forensic Files
-FilmRise Western
 FITE 24/7
 Flicks of Fury
 Flowers TV USA
@@ -1033,7 +1030,6 @@ Pluto TV Minuto Para Ganar
 Pluto TV Misterios Medicos
 Pluto TV Novelas
 Pluto TV Paranormal (United States)
-Pluto TV Pokemon
 Pluto TV Reaction
 Pluto TV Reality (United States)
 Pluto TV Romance (United States)
@@ -1120,7 +1116,10 @@ RVTV Grants Pass
 RVTV Prime
 RVTV Voices
 Ryan and Friends
+S Corby TV
 S Free!
+S KPop!
+S Metro TV
 S Premium!
 Salem News Channel
 Samsung Wildlife
