@@ -10,8 +10,11 @@ TVR Info
 TVR International
 TVR Sport
 Antena 1
+Antena 1 (Romania)
+Antena International
 Observator News
 Comedy Play
+Comedy Central (Romania)
 Antena Monden
 Antena Stars
 AntenaSport
@@ -27,14 +30,16 @@ Pro Cinema
 Pro TV News
 Profit News
 Prima TV
+Prima TV (Romania)
 Realitatea Sportiva
 Romania TV
 Info TV Romania
 Kanal D
+B1
 Kiss TV
 Atomic TV
 Atomic Academy TV
-Magic TV
+Magic TV (Romania)
 Rock TV
 ZU TV
 Mooz Dance
@@ -46,3 +51,11 @@ Happy Channel
 CineMaraton
 Diva
 History
+Viasat Epic Drama Romania
+Viasat Explore (Romania)
+Viasat History (Romania)
+Viasat Kino Romania
+Viasat Nature (Romania)
+Disney Channel (Romania)
+Disney Junior (Romania)
+Minimax (Romania)
