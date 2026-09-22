@@ -343,6 +343,12 @@
     <url>http://www.programetv.ro</url>
     <display-name lang="ro">Kiss TV</display-name>
   </channel>
+  <channel id="AntenaInternational.ro@SD">
+    <icon src="https://static.cinemagia.ro/img/tv_station/antena-international.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv_station/antena-international.jpg" />
+    <url>http://www.programetv.ro</url>
+    <display-name lang="ro">Antena International</display-name>
+  </channel>
   <channel id="TVRCraiova.ro@SD">
     <icon src="https://static.cinemagia.ro/img/tv_station/tvr-craiova.jpg" />
     <icon src="https://static.cinemagia.ro/img/tv_station/tvr-craiova.jpg" />
@@ -376,6 +382,12 @@
   <channel id="TVRInternational.ro@SD">
     <display-name lang="ro">TVR International</display-name>
     <url>http://www.program-tv.ro</url>
+  </channel>
+  <channel id="B1.ro@SD">
+    <display-name lang="sr">B1</display-name>
+    <icon src="https://mediasb2c.mts.rs/medias/B1-200x200.png?context=bWFzdGVyfHJvb3R8MTY0NDF8aW1hZ2UvcG5nfGFEWTRMMmhrTUM4eE5UYzBNVE0yTWpRM01EazBNaTlDTVMweU1EQjRNakF3TG5CdVp3fDM1N2YyYjA4OTJhZTg0NDFiYjU1NzU1Yjk2MWQ5MjI5MDA4MWFkYTEzZjczZGFiMDZmZjNiZGM0MTMyMjUwOGQ" />
+    <icon src="https://mediasb2c.mts.rs/medias/B1-200x200.png?context=bWFzdGVyfHJvb3R8MTY0NDF8aW1hZ2UvcG5nfGFEWTRMMmhrTUM4eE5UYzBNVE0yTWpRM01EazBNaTlDTVMweU1EQjRNakF3TG5CdVp3fDM1N2YyYjA4OTJhZTg0NDFiYjU1NzU1Yjk2MWQ5MjI5MDA4MWFkYTEzZjczZGFiMDZmZjNiZGM0MTMyMjUwOGQ" />
+    <url>http://www.mts.rs</url>
   </channel>
   <channel id="Now80s.uk@SD">
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4541.png" />
@@ -67977,6 +67989,486 @@
     <category lang="ro">Muzică</category>
     <icon src="https://www.programetv.ro/img/shows/8a/00/imnul-romaniei.jpg?key=Z2lfZnVial90cmFyZXZwLzAwLzA2LzM5LzQ3MTU0MXktMTIwazE3MC1hLTdvMTdzNm41LndjdA==" />
   </programme>
+  <programme channel="AntenaInternational.ro@SD" start="20260922000000 -0500" stop="20260922035959 -0500">
+    <title lang="ro">Neatza cu Răzvan şi Dani</title>
+    <desc lang="ro">Emisiunea în care te pui la curent cu cele mai interesante și de actualitate subiecte ale dimineții. Meteo, rețete, ultimele piese muzicale sau ultimele sfaturi practice, ai totul pentru a-ți începe ziua cu zâmbetul pe buze.</desc>
+    <category lang="ro">Divertisment</category>
+    <icon src="https://www.programetv.ro/img/shows/c2/af/neatza-cu-razvan-si-dani.jpg?key=Z2lfZnVial90cmFyZXZwLzAwLzE4Lzk0Lzc2NDgwMHktMTIwazE3MC1hLXA1NW4xcnA1LndjdA==" />
+  </programme>
+  <programme channel="AntenaInternational.ro@SD" start="20260922040000 -0500" stop="20260922055959 -0500">
+    <title lang="ro">Observator</title>
+    <desc lang="ro">Ştiri, reportaje, anchete, informaţii utile şi de ultimă oră. Fii observator!</desc>
+    <category lang="ro">Ştiri</category>
+    <icon src="https://www.programetv.ro/img/shows/00/b6/observator.jpg?key=Z2lfZnVial90cmFyZXZwLzAwLzEyLzkxLzk2Nzc1OXktMTIwazE3MC1hLTkzcjU3b3M5LndjdA==" />
+  </programme>
+  <programme channel="AntenaInternational.ro@SD" start="20260922060000 -0500" stop="20260922075959 -0500">
+    <title lang="ro">Mireasa</title>
+    <desc lang="ro">La această emisiune participă băieți și fete cu vârsta cuprinsă între 23-33 de ani, care vor să își găsească sufletul pereche. Premiul cel mare îl obține cuplul care hotărăște să se căsătorească în direct. În cazul în care niciun cuplu format în această emisiune nu se căsătorește, atunci telespectatorii vor vota concurenții favoriți iar cine obține cele mai multe voturi, va câștiga un alt premiu.</desc>
+    <category lang="ro">Diverse</category>
+    <icon src="https://www.programetv.ro/img/shows/22/2b/mireasa.jpg?key=Z2lfZnVial90cmFyZXZwLzA3LzQ0LzY5LzgzODQxM3ktMTIwazE3MC1hLTNycjc2czdxLndjdA==" />
+  </programme>
+  <programme channel="AntenaInternational.ro@SD" start="20260922080000 -0500" stop="20260922085959 -0500">
+    <title lang="ro">Observator</title>
+    <desc lang="ro">Ştiri, reportaje, anchete, informaţii utile şi de ultimă oră. Fii observator!</desc>
+    <category lang="ro">Ştiri</category>
+    <icon src="https://www.programetv.ro/img/shows/00/b6/observator.jpg?key=Z2lfZnVial90cmFyZXZwLzAwLzEyLzkxLzk2Nzc1OXktMTIwazE3MC1hLTkzcjU3b3M5LndjdA==" />
+  </programme>
+  <programme channel="AntenaInternational.ro@SD" start="20260922090000 -0500" stop="20260922105959 -0500">
+    <title lang="ro">Viaţa Fără Filtru</title>
+    <desc lang="ro">Viaţa fără filtru, tratează într-o cheie unică noi poveşti de viaţă spectaculoase, realităţi româneşti de actualitate, ştiri mondene, evenimente culturale şi investigaţii. Echipa emisiunii continuă să exploreze contrastele, deopotrivă reuşitele şi căderile spectaculoase, prezentând portrete excepţionale, care au inspirat şi continuă să inspire românii.</desc>
+    <category lang="ro">Talk show</category>
+    <icon src="https://www.programetv.ro/img/shows/29/4a/viata-fara-filtru.jpg?key=Z2lfZnVial90cmFyZXZwLzExLzUwLzY1LzU1NjEyNHktMTIwazE3MC1hLXJxMnAwNm5yLndjdA==" />
+  </programme>
+  <programme channel="AntenaInternational.ro@SD" start="20260922110000 -0500" stop="20260922115959 -0500">
+    <title lang="ro">Observator</title>
+    <desc lang="ro">Ştiri, reportaje, anchete, informaţii utile şi de ultimă oră. Fii observator!</desc>
+    <category lang="ro">Ştiri</category>
+    <icon src="https://www.programetv.ro/img/shows/00/b6/observator.jpg?key=Z2lfZnVial90cmFyZXZwLzAwLzEyLzkxLzk2Nzc1OXktMTIwazE3MC1hLTkzcjU3b3M5LndjdA==" />
+  </programme>
+  <programme channel="AntenaInternational.ro@SD" start="20260922120000 -0500" stop="20260922135959 -0500">
+    <title lang="ro">Lasă-mă, îmi place! Camera 609</title>
+    <desc lang="ro">Serialul are în prim-plan o poveste de dragoste care nu se încadrează în clișee. Protagoniștii nu se îndrăgostesc la prima vedere, ci se întâlnesc dintr-o greșeală, iar din momentul acela se dă startul unei situații de tip domino.</desc>
+    <credits>
+      <actor>Matei Negrescu</actor>
+      <actor>Anda Sârbei</actor>
+      <actor>Emilia Popescu</actor>
+    </credits>
+    <date>2023</date>
+    <category lang="ro">Serial</category>
+    <category lang="ro">Comedie</category>
+    <category lang="ro">Romantic</category>
+    <icon src="https://www.programetv.ro/img/shows/c8/a6/lasa-ma-imi-place-camera-609.jpg?key=emJpdnIvMzMvMTAvMjMxL3luZm4tem4tdnp2LWN5bnByLXBuenJlbi02MDktNzI5MjM5eS0xMjBrMTcwLWEtcnE2cXEzODMud2N0" />
+    <country lang="ro">Romania</country>
+    <star-rating system="Imdb">
+      <value>7.7</value>
+    </star-rating>
+    <star-rating system="Cinemagia">
+      <value>8.0</value>
+    </star-rating>
+  </programme>
+  <programme channel="AntenaInternational.ro@SD" start="20260922140000 -0500" stop="20260922155959 -0500">
+    <title lang="ro">Mireasa - Capriciile Iubirii</title>
+    <desc lang="ro">Mireasa - Capriciile Iubirii este emisiunea în care sunt dezbătute cele mai controversate subiecte de la Mireasa, alături de toți cei implicați, indiferent dacă aceștia au fost sau nu în casă. Emisiunea încercă să îi ajute pe concurenți să își dea seama dacă ceea ce simt este un sentiment sincer sau mai mult un capriciu, o ambiție.</desc>
+    <category lang="ro">Diverse</category>
+    <icon src="https://www.programetv.ro/img/shows/d2/1d/mireasa-capriciile-iubirii.jpg?key=Z2lfZnVial90cmFyZXZwLzA5LzQ3LzQzLzQ3ODkwMXktMTIwazE3MC1hLW84OTNwMTQzLndjdA==" />
+  </programme>
+  <programme channel="AntenaInternational.ro@SD" start="20260922160000 -0500" stop="20260922172959 -0500">
+    <title lang="ro">Ştiri</title>
+    <desc lang="ro">Vă sunt prezentate informaţii de ultimă oră, interne şi internaţionale, din mediul politic, economic, social, cultural-media, sport şi nu numai.</desc>
+    <category lang="ro">Ştiri</category>
+    <icon src="https://www.programetv.ro/img/shows/e2/fa/stiri.jpg?key=Z2lfZnVial90cmFyZXZwLzAwLzUwLzkzLzMwMTQ2N3ktMTIwazE3MC1hLTBzczU5MXI0LndjdA==" />
+  </programme>
+  <programme channel="AntenaInternational.ro@SD" start="20260922173000 -0500" stop="20260922175959 -0500">
+    <title lang="ro">Happy Café</title>
+    <desc lang="ro">Un format info-educativ fresh, care va aborda subiecte noi, atipice şi deopotrivă inspiraţionale, cu specialişti din diverse domenii de interes. Lor li se vor alătura zilnic invitaţi din showbiz-ul românesc şi nu numai, care vor vorbi sincer şi deschis despre succes şi drumul până la el.</desc>
+    <category lang="ro">Talk show</category>
+    <icon src="https://www.programetv.ro/img/shows/0d/80/happy-cafe.jpg?key=Z2lfZnVial90cmFyZXZwLzA4Lzg0LzIxLzg3NzA2NnktMTIwazE3MC1hLTA5cTZxMjM2LndjdA==" />
+  </programme>
+  <programme channel="AntenaInternational.ro@SD" start="20260922180000 -0500" stop="20260922185959 -0500">
+    <title lang="ro">Observator</title>
+    <desc lang="ro">Ştiri, reportaje, anchete, informaţii utile şi de ultimă oră. Fii observator!</desc>
+    <category lang="ro">Ştiri</category>
+    <icon src="https://www.programetv.ro/img/shows/00/b6/observator.jpg?key=Z2lfZnVial90cmFyZXZwLzAwLzEyLzkxLzk2Nzc1OXktMTIwazE3MC1hLTkzcjU3b3M5LndjdA==" />
+  </programme>
+  <programme channel="AntenaInternational.ro@SD" start="20260922190000 -0500" stop="20260922202959 -0500">
+    <title lang="ro">Lia - soția soțului meu</title>
+    <desc lang="ro">O poveste de iubire unică, dar încercată de trădări şi minciuni. În încercarea de a triumfa, iubirea adevărată se va lovi si de această dată de o mulţime de obstacole şi pericole.</desc>
+    <credits>
+      <actor>Ana Bodea</actor>
+      <actor>Ioana Blaj</actor>
+      <actor>Ștefan Floroaica</actor>
+      <director>Radu Grigore</director>
+      <director>Ruxandra Ion</director>
+      <director>Bogdan Dumitrescu</director>
+    </credits>
+    <date>2023</date>
+    <category lang="ro">Serial</category>
+    <category lang="ro">Dramă</category>
+    <category lang="ro">Romantic</category>
+    <category lang="ro">Dragoste</category>
+    <icon src="https://www.programetv.ro/img/shows/38/fe/lia-sotia-sotului-meu.jpg?key=emJpdnIvMzIvNjAvMjU3L3l2bi1mYmd2bi1mYmdoeWh2LXpyaC01NzQyNzJ5LTEyMGsxNzAtYS0xcG9zMjRxNi53Y3Q=" />
+    <country lang="ro">Romania</country>
+    <star-rating system="Imdb">
+      <value>6.1</value>
+    </star-rating>
+    <star-rating system="Cinemagia">
+      <value>8.3</value>
+    </star-rating>
+  </programme>
+  <programme channel="AntenaInternational.ro@SD" start="20260922203000 -0500" stop="20260922215959 -0500">
+    <title lang="ro">Ştiri</title>
+    <desc lang="ro">Vă sunt prezentate informaţii de ultimă oră, interne şi internaţionale, din mediul politic, economic, social, cultural-media, sport şi nu numai.</desc>
+    <category lang="ro">Ştiri</category>
+    <icon src="https://www.programetv.ro/img/shows/e2/fa/stiri.jpg?key=Z2lfZnVial90cmFyZXZwLzAwLzUwLzkzLzMwMTQ2N3ktMTIwazE3MC1hLTBzczU5MXI0LndjdA==" />
+  </programme>
+  <programme channel="AntenaInternational.ro@SD" start="20260922220000 -0500" stop="20260922235959 -0500">
+    <title lang="ro">Observator</title>
+    <desc lang="ro">Ştiri, reportaje, anchete, informaţii utile şi de ultimă oră. Fii observator!</desc>
+    <category lang="ro">Ştiri</category>
+    <icon src="https://www.programetv.ro/img/shows/00/b6/observator.jpg?key=Z2lfZnVial90cmFyZXZwLzAwLzEyLzkxLzk2Nzc1OXktMTIwazE3MC1hLTkzcjU3b3M5LndjdA==" />
+  </programme>
+  <programme channel="AntenaInternational.ro@SD" start="20260923000000 -0500" stop="20260923035959 -0500">
+    <title lang="ro">Neatza cu Răzvan şi Dani</title>
+    <desc lang="ro">Emisiunea în care te pui la curent cu cele mai interesante și de actualitate subiecte ale dimineții. Meteo, rețete, ultimele piese muzicale sau ultimele sfaturi practice, ai totul pentru a-ți începe ziua cu zâmbetul pe buze.</desc>
+    <category lang="ro">Divertisment</category>
+    <icon src="https://www.programetv.ro/img/shows/c2/af/neatza-cu-razvan-si-dani.jpg?key=Z2lfZnVial90cmFyZXZwLzAwLzE4Lzk0Lzc2NDgwMHktMTIwazE3MC1hLXA1NW4xcnA1LndjdA==" />
+  </programme>
+  <programme channel="AntenaInternational.ro@SD" start="20260923040000 -0500" stop="20260923055959 -0500">
+    <title lang="ro">Observator</title>
+    <desc lang="ro">Ştiri, reportaje, anchete, informaţii utile şi de ultimă oră. Fii observator!</desc>
+    <category lang="ro">Ştiri</category>
+    <icon src="https://www.programetv.ro/img/shows/00/b6/observator.jpg?key=Z2lfZnVial90cmFyZXZwLzAwLzEyLzkxLzk2Nzc1OXktMTIwazE3MC1hLTkzcjU3b3M5LndjdA==" />
+  </programme>
+  <programme channel="AntenaInternational.ro@SD" start="20260923060000 -0500" stop="20260923075959 -0500">
+    <title lang="ro">Mireasa</title>
+    <desc lang="ro">La această emisiune participă băieți și fete cu vârsta cuprinsă între 23-33 de ani, care vor să își găsească sufletul pereche. Premiul cel mare îl obține cuplul care hotărăște să se căsătorească în direct. În cazul în care niciun cuplu format în această emisiune nu se căsătorește, atunci telespectatorii vor vota concurenții favoriți iar cine obține cele mai multe voturi, va câștiga un alt premiu.</desc>
+    <category lang="ro">Diverse</category>
+    <icon src="https://www.programetv.ro/img/shows/22/2b/mireasa.jpg?key=Z2lfZnVial90cmFyZXZwLzA3LzQ0LzY5LzgzODQxM3ktMTIwazE3MC1hLTNycjc2czdxLndjdA==" />
+  </programme>
+  <programme channel="AntenaInternational.ro@SD" start="20260923080000 -0500" stop="20260923085959 -0500">
+    <title lang="ro">Observator</title>
+    <desc lang="ro">Ştiri, reportaje, anchete, informaţii utile şi de ultimă oră. Fii observator!</desc>
+    <category lang="ro">Ştiri</category>
+    <icon src="https://www.programetv.ro/img/shows/00/b6/observator.jpg?key=Z2lfZnVial90cmFyZXZwLzAwLzEyLzkxLzk2Nzc1OXktMTIwazE3MC1hLTkzcjU3b3M5LndjdA==" />
+  </programme>
+  <programme channel="AntenaInternational.ro@SD" start="20260923090000 -0500" stop="20260923105959 -0500">
+    <title lang="ro">Viaţa Fără Filtru</title>
+    <desc lang="ro">Viaţa fără filtru, tratează într-o cheie unică noi poveşti de viaţă spectaculoase, realităţi româneşti de actualitate, ştiri mondene, evenimente culturale şi investigaţii. Echipa emisiunii continuă să exploreze contrastele, deopotrivă reuşitele şi căderile spectaculoase, prezentând portrete excepţionale, care au inspirat şi continuă să inspire românii.</desc>
+    <category lang="ro">Talk show</category>
+    <icon src="https://www.programetv.ro/img/shows/29/4a/viata-fara-filtru.jpg?key=Z2lfZnVial90cmFyZXZwLzExLzUwLzY1LzU1NjEyNHktMTIwazE3MC1hLXJxMnAwNm5yLndjdA==" />
+  </programme>
+  <programme channel="AntenaInternational.ro@SD" start="20260923110000 -0500" stop="20260923115959 -0500">
+    <title lang="ro">Observator</title>
+    <desc lang="ro">Ştiri, reportaje, anchete, informaţii utile şi de ultimă oră. Fii observator!</desc>
+    <category lang="ro">Ştiri</category>
+    <icon src="https://www.programetv.ro/img/shows/00/b6/observator.jpg?key=Z2lfZnVial90cmFyZXZwLzAwLzEyLzkxLzk2Nzc1OXktMTIwazE3MC1hLTkzcjU3b3M5LndjdA==" />
+  </programme>
+  <programme channel="AntenaInternational.ro@SD" start="20260923120000 -0500" stop="20260923135959 -0500">
+    <title lang="ro">Lia - soția soțului meu</title>
+    <desc lang="ro">O poveste de iubire unică, dar încercată de trădări şi minciuni. În încercarea de a triumfa, iubirea adevărată se va lovi si de această dată de o mulţime de obstacole şi pericole.</desc>
+    <credits>
+      <actor>Ana Bodea</actor>
+      <actor>Ioana Blaj</actor>
+      <actor>Ștefan Floroaica</actor>
+      <director>Radu Grigore</director>
+      <director>Ruxandra Ion</director>
+      <director>Bogdan Dumitrescu</director>
+    </credits>
+    <date>2023</date>
+    <category lang="ro">Serial</category>
+    <category lang="ro">Dramă</category>
+    <category lang="ro">Romantic</category>
+    <category lang="ro">Dragoste</category>
+    <icon src="https://www.programetv.ro/img/shows/38/fe/lia-sotia-sotului-meu.jpg?key=emJpdnIvMzIvNjAvMjU3L3l2bi1mYmd2bi1mYmdoeWh2LXpyaC01NzQyNzJ5LTEyMGsxNzAtYS0xcG9zMjRxNi53Y3Q=" />
+    <country lang="ro">Romania</country>
+    <star-rating system="Imdb">
+      <value>6.1</value>
+    </star-rating>
+    <star-rating system="Cinemagia">
+      <value>8.3</value>
+    </star-rating>
+  </programme>
+  <programme channel="AntenaInternational.ro@SD" start="20260923140000 -0500" stop="20260923155959 -0500">
+    <title lang="ro">Mireasa - Capriciile Iubirii</title>
+    <desc lang="ro">Mireasa - Capriciile Iubirii este emisiunea în care sunt dezbătute cele mai controversate subiecte de la Mireasa, alături de toți cei implicați, indiferent dacă aceștia au fost sau nu în casă. Emisiunea încercă să îi ajute pe concurenți să își dea seama dacă ceea ce simt este un sentiment sincer sau mai mult un capriciu, o ambiție.</desc>
+    <category lang="ro">Diverse</category>
+    <icon src="https://www.programetv.ro/img/shows/d2/1d/mireasa-capriciile-iubirii.jpg?key=Z2lfZnVial90cmFyZXZwLzA5LzQ3LzQzLzQ3ODkwMXktMTIwazE3MC1hLW84OTNwMTQzLndjdA==" />
+  </programme>
+  <programme channel="AntenaInternational.ro@SD" start="20260923160000 -0500" stop="20260923172959 -0500">
+    <title lang="ro">Ştiri</title>
+    <desc lang="ro">Vă sunt prezentate informaţii de ultimă oră, interne şi internaţionale, din mediul politic, economic, social, cultural-media, sport şi nu numai.</desc>
+    <category lang="ro">Ştiri</category>
+    <icon src="https://www.programetv.ro/img/shows/e2/fa/stiri.jpg?key=Z2lfZnVial90cmFyZXZwLzAwLzUwLzkzLzMwMTQ2N3ktMTIwazE3MC1hLTBzczU5MXI0LndjdA==" />
+  </programme>
+  <programme channel="AntenaInternational.ro@SD" start="20260923173000 -0500" stop="20260923175959 -0500">
+    <title lang="ro">Happy Café</title>
+    <desc lang="ro">Un format info-educativ fresh, care va aborda subiecte noi, atipice şi deopotrivă inspiraţionale, cu specialişti din diverse domenii de interes. Lor li se vor alătura zilnic invitaţi din showbiz-ul românesc şi nu numai, care vor vorbi sincer şi deschis despre succes şi drumul până la el.</desc>
+    <category lang="ro">Talk show</category>
+    <icon src="https://www.programetv.ro/img/shows/0d/80/happy-cafe.jpg?key=Z2lfZnVial90cmFyZXZwLzA4Lzg0LzIxLzg3NzA2NnktMTIwazE3MC1hLTA5cTZxMjM2LndjdA==" />
+  </programme>
+  <programme channel="AntenaInternational.ro@SD" start="20260923180000 -0500" stop="20260923185959 -0500">
+    <title lang="ro">Observator</title>
+    <desc lang="ro">Ştiri, reportaje, anchete, informaţii utile şi de ultimă oră. Fii observator!</desc>
+    <category lang="ro">Ştiri</category>
+    <icon src="https://www.programetv.ro/img/shows/00/b6/observator.jpg?key=Z2lfZnVial90cmFyZXZwLzAwLzEyLzkxLzk2Nzc1OXktMTIwazE3MC1hLTkzcjU3b3M5LndjdA==" />
+  </programme>
+  <programme channel="AntenaInternational.ro@SD" start="20260923190000 -0500" stop="20260923202959 -0500">
+    <title lang="ro">Lia - soția soțului meu</title>
+    <desc lang="ro">O poveste de iubire unică, dar încercată de trădări şi minciuni. În încercarea de a triumfa, iubirea adevărată se va lovi si de această dată de o mulţime de obstacole şi pericole.</desc>
+    <credits>
+      <actor>Ana Bodea</actor>
+      <actor>Ioana Blaj</actor>
+      <actor>Ștefan Floroaica</actor>
+      <director>Radu Grigore</director>
+      <director>Ruxandra Ion</director>
+      <director>Bogdan Dumitrescu</director>
+    </credits>
+    <date>2023</date>
+    <category lang="ro">Serial</category>
+    <category lang="ro">Dramă</category>
+    <category lang="ro">Romantic</category>
+    <category lang="ro">Dragoste</category>
+    <icon src="https://www.programetv.ro/img/shows/38/fe/lia-sotia-sotului-meu.jpg?key=emJpdnIvMzIvNjAvMjU3L3l2bi1mYmd2bi1mYmdoeWh2LXpyaC01NzQyNzJ5LTEyMGsxNzAtYS0xcG9zMjRxNi53Y3Q=" />
+    <country lang="ro">Romania</country>
+    <star-rating system="Imdb">
+      <value>6.1</value>
+    </star-rating>
+    <star-rating system="Cinemagia">
+      <value>8.3</value>
+    </star-rating>
+  </programme>
+  <programme channel="AntenaInternational.ro@SD" start="20260923203000 -0500" stop="20260923215959 -0500">
+    <title lang="ro">Ştiri</title>
+    <desc lang="ro">Vă sunt prezentate informaţii de ultimă oră, interne şi internaţionale, din mediul politic, economic, social, cultural-media, sport şi nu numai.</desc>
+    <category lang="ro">Ştiri</category>
+    <icon src="https://www.programetv.ro/img/shows/e2/fa/stiri.jpg?key=Z2lfZnVial90cmFyZXZwLzAwLzUwLzkzLzMwMTQ2N3ktMTIwazE3MC1hLTBzczU5MXI0LndjdA==" />
+  </programme>
+  <programme channel="AntenaInternational.ro@SD" start="20260923220000 -0500" stop="20260923235959 -0500">
+    <title lang="ro">Observator</title>
+    <desc lang="ro">Ştiri, reportaje, anchete, informaţii utile şi de ultimă oră. Fii observator!</desc>
+    <category lang="ro">Ştiri</category>
+    <icon src="https://www.programetv.ro/img/shows/00/b6/observator.jpg?key=Z2lfZnVial90cmFyZXZwLzAwLzEyLzkxLzk2Nzc1OXktMTIwazE3MC1hLTkzcjU3b3M5LndjdA==" />
+  </programme>
+  <programme channel="AntenaInternational.ro@SD" start="20260924000000 -0500" stop="20260924035959 -0500">
+    <title lang="ro">Neatza cu Răzvan şi Dani</title>
+    <desc lang="ro">Emisiunea în care te pui la curent cu cele mai interesante și de actualitate subiecte ale dimineții. Meteo, rețete, ultimele piese muzicale sau ultimele sfaturi practice, ai totul pentru a-ți începe ziua cu zâmbetul pe buze.</desc>
+    <category lang="ro">Divertisment</category>
+    <icon src="https://www.programetv.ro/img/shows/c2/af/neatza-cu-razvan-si-dani.jpg?key=Z2lfZnVial90cmFyZXZwLzAwLzE4Lzk0Lzc2NDgwMHktMTIwazE3MC1hLXA1NW4xcnA1LndjdA==" />
+  </programme>
+  <programme channel="AntenaInternational.ro@SD" start="20260924040000 -0500" stop="20260924055959 -0500">
+    <title lang="ro">Observator</title>
+    <desc lang="ro">Ştiri, reportaje, anchete, informaţii utile şi de ultimă oră. Fii observator!</desc>
+    <category lang="ro">Ştiri</category>
+    <icon src="https://www.programetv.ro/img/shows/00/b6/observator.jpg?key=Z2lfZnVial90cmFyZXZwLzAwLzEyLzkxLzk2Nzc1OXktMTIwazE3MC1hLTkzcjU3b3M5LndjdA==" />
+  </programme>
+  <programme channel="AntenaInternational.ro@SD" start="20260924060000 -0500" stop="20260924075959 -0500">
+    <title lang="ro">Mireasa</title>
+    <desc lang="ro">La această emisiune participă băieți și fete cu vârsta cuprinsă între 23-33 de ani, care vor să își găsească sufletul pereche. Premiul cel mare îl obține cuplul care hotărăște să se căsătorească în direct. În cazul în care niciun cuplu format în această emisiune nu se căsătorește, atunci telespectatorii vor vota concurenții favoriți iar cine obține cele mai multe voturi, va câștiga un alt premiu.</desc>
+    <category lang="ro">Diverse</category>
+    <icon src="https://www.programetv.ro/img/shows/22/2b/mireasa.jpg?key=Z2lfZnVial90cmFyZXZwLzA3LzQ0LzY5LzgzODQxM3ktMTIwazE3MC1hLTNycjc2czdxLndjdA==" />
+  </programme>
+  <programme channel="AntenaInternational.ro@SD" start="20260924080000 -0500" stop="20260924085959 -0500">
+    <title lang="ro">Observator</title>
+    <desc lang="ro">Ştiri, reportaje, anchete, informaţii utile şi de ultimă oră. Fii observator!</desc>
+    <category lang="ro">Ştiri</category>
+    <icon src="https://www.programetv.ro/img/shows/00/b6/observator.jpg?key=Z2lfZnVial90cmFyZXZwLzAwLzEyLzkxLzk2Nzc1OXktMTIwazE3MC1hLTkzcjU3b3M5LndjdA==" />
+  </programme>
+  <programme channel="AntenaInternational.ro@SD" start="20260924090000 -0500" stop="20260924105959 -0500">
+    <title lang="ro">Viaţa Fără Filtru</title>
+    <desc lang="ro">Viaţa fără filtru, tratează într-o cheie unică noi poveşti de viaţă spectaculoase, realităţi româneşti de actualitate, ştiri mondene, evenimente culturale şi investigaţii. Echipa emisiunii continuă să exploreze contrastele, deopotrivă reuşitele şi căderile spectaculoase, prezentând portrete excepţionale, care au inspirat şi continuă să inspire românii.</desc>
+    <category lang="ro">Talk show</category>
+    <icon src="https://www.programetv.ro/img/shows/29/4a/viata-fara-filtru.jpg?key=Z2lfZnVial90cmFyZXZwLzExLzUwLzY1LzU1NjEyNHktMTIwazE3MC1hLXJxMnAwNm5yLndjdA==" />
+  </programme>
+  <programme channel="AntenaInternational.ro@SD" start="20260924110000 -0500" stop="20260924115959 -0500">
+    <title lang="ro">Observator</title>
+    <desc lang="ro">Ştiri, reportaje, anchete, informaţii utile şi de ultimă oră. Fii observator!</desc>
+    <category lang="ro">Ştiri</category>
+    <icon src="https://www.programetv.ro/img/shows/00/b6/observator.jpg?key=Z2lfZnVial90cmFyZXZwLzAwLzEyLzkxLzk2Nzc1OXktMTIwazE3MC1hLTkzcjU3b3M5LndjdA==" />
+  </programme>
+  <programme channel="AntenaInternational.ro@SD" start="20260924120000 -0500" stop="20260924135959 -0500">
+    <title lang="ro">Lia - soția soțului meu</title>
+    <desc lang="ro">O poveste de iubire unică, dar încercată de trădări şi minciuni. În încercarea de a triumfa, iubirea adevărată se va lovi si de această dată de o mulţime de obstacole şi pericole.</desc>
+    <credits>
+      <actor>Ana Bodea</actor>
+      <actor>Ioana Blaj</actor>
+      <actor>Ștefan Floroaica</actor>
+      <director>Radu Grigore</director>
+      <director>Ruxandra Ion</director>
+      <director>Bogdan Dumitrescu</director>
+    </credits>
+    <date>2023</date>
+    <category lang="ro">Serial</category>
+    <category lang="ro">Dramă</category>
+    <category lang="ro">Romantic</category>
+    <category lang="ro">Dragoste</category>
+    <icon src="https://www.programetv.ro/img/shows/38/fe/lia-sotia-sotului-meu.jpg?key=emJpdnIvMzIvNjAvMjU3L3l2bi1mYmd2bi1mYmdoeWh2LXpyaC01NzQyNzJ5LTEyMGsxNzAtYS0xcG9zMjRxNi53Y3Q=" />
+    <country lang="ro">Romania</country>
+    <star-rating system="Imdb">
+      <value>6.1</value>
+    </star-rating>
+    <star-rating system="Cinemagia">
+      <value>8.3</value>
+    </star-rating>
+  </programme>
+  <programme channel="AntenaInternational.ro@SD" start="20260924140000 -0500" stop="20260924155959 -0500">
+    <title lang="ro">Mireasa - Capriciile Iubirii</title>
+    <desc lang="ro">Mireasa - Capriciile Iubirii este emisiunea în care sunt dezbătute cele mai controversate subiecte de la Mireasa, alături de toți cei implicați, indiferent dacă aceștia au fost sau nu în casă. Emisiunea încercă să îi ajute pe concurenți să își dea seama dacă ceea ce simt este un sentiment sincer sau mai mult un capriciu, o ambiție.</desc>
+    <category lang="ro">Diverse</category>
+    <icon src="https://www.programetv.ro/img/shows/d2/1d/mireasa-capriciile-iubirii.jpg?key=Z2lfZnVial90cmFyZXZwLzA5LzQ3LzQzLzQ3ODkwMXktMTIwazE3MC1hLW84OTNwMTQzLndjdA==" />
+  </programme>
+  <programme channel="AntenaInternational.ro@SD" start="20260924160000 -0500" stop="20260924172959 -0500">
+    <title lang="ro">Ştiri</title>
+    <desc lang="ro">Vă sunt prezentate informaţii de ultimă oră, interne şi internaţionale, din mediul politic, economic, social, cultural-media, sport şi nu numai.</desc>
+    <category lang="ro">Ştiri</category>
+    <icon src="https://www.programetv.ro/img/shows/e2/fa/stiri.jpg?key=Z2lfZnVial90cmFyZXZwLzAwLzUwLzkzLzMwMTQ2N3ktMTIwazE3MC1hLTBzczU5MXI0LndjdA==" />
+  </programme>
+  <programme channel="AntenaInternational.ro@SD" start="20260924173000 -0500" stop="20260924175959 -0500">
+    <title lang="ro">Happy Café</title>
+    <desc lang="ro">Un format info-educativ fresh, care va aborda subiecte noi, atipice şi deopotrivă inspiraţionale, cu specialişti din diverse domenii de interes. Lor li se vor alătura zilnic invitaţi din showbiz-ul românesc şi nu numai, care vor vorbi sincer şi deschis despre succes şi drumul până la el.</desc>
+    <category lang="ro">Talk show</category>
+    <icon src="https://www.programetv.ro/img/shows/0d/80/happy-cafe.jpg?key=Z2lfZnVial90cmFyZXZwLzA4Lzg0LzIxLzg3NzA2NnktMTIwazE3MC1hLTA5cTZxMjM2LndjdA==" />
+  </programme>
+  <programme channel="AntenaInternational.ro@SD" start="20260924180000 -0500" stop="20260924185959 -0500">
+    <title lang="ro">Observator</title>
+    <desc lang="ro">Ştiri, reportaje, anchete, informaţii utile şi de ultimă oră. Fii observator!</desc>
+    <category lang="ro">Ştiri</category>
+    <icon src="https://www.programetv.ro/img/shows/00/b6/observator.jpg?key=Z2lfZnVial90cmFyZXZwLzAwLzEyLzkxLzk2Nzc1OXktMTIwazE3MC1hLTkzcjU3b3M5LndjdA==" />
+  </programme>
+  <programme channel="AntenaInternational.ro@SD" start="20260924190000 -0500" stop="20260924202959 -0500">
+    <title lang="ro">Lasă-mă, îmi place! Camera 609</title>
+    <desc lang="ro">Serialul are în prim-plan o poveste de dragoste care nu se încadrează în clișee. Protagoniștii nu se îndrăgostesc la prima vedere, ci se întâlnesc dintr-o greșeală, iar din momentul acela se dă startul unei situații de tip domino.</desc>
+    <credits>
+      <actor>Matei Negrescu</actor>
+      <actor>Anda Sârbei</actor>
+      <actor>Emilia Popescu</actor>
+    </credits>
+    <date>2023</date>
+    <category lang="ro">Serial</category>
+    <category lang="ro">Comedie</category>
+    <category lang="ro">Romantic</category>
+    <icon src="https://www.programetv.ro/img/shows/c8/a6/lasa-ma-imi-place-camera-609.jpg?key=emJpdnIvMzMvMTAvMjMxL3luZm4tem4tdnp2LWN5bnByLXBuenJlbi02MDktNzI5MjM5eS0xMjBrMTcwLWEtcnE2cXEzODMud2N0" />
+    <country lang="ro">Romania</country>
+    <star-rating system="Imdb">
+      <value>7.7</value>
+    </star-rating>
+    <star-rating system="Cinemagia">
+      <value>8.0</value>
+    </star-rating>
+  </programme>
+  <programme channel="AntenaInternational.ro@SD" start="20260924203000 -0500" stop="20260924215959 -0500">
+    <title lang="ro">Ştiri</title>
+    <desc lang="ro">Vă sunt prezentate informaţii de ultimă oră, interne şi internaţionale, din mediul politic, economic, social, cultural-media, sport şi nu numai.</desc>
+    <category lang="ro">Ştiri</category>
+    <icon src="https://www.programetv.ro/img/shows/e2/fa/stiri.jpg?key=Z2lfZnVial90cmFyZXZwLzAwLzUwLzkzLzMwMTQ2N3ktMTIwazE3MC1hLTBzczU5MXI0LndjdA==" />
+  </programme>
+  <programme channel="AntenaInternational.ro@SD" start="20260924220000 -0500" stop="20260924235959 -0500">
+    <title lang="ro">Observator</title>
+    <desc lang="ro">Ştiri, reportaje, anchete, informaţii utile şi de ultimă oră. Fii observator!</desc>
+    <category lang="ro">Ştiri</category>
+    <icon src="https://www.programetv.ro/img/shows/00/b6/observator.jpg?key=Z2lfZnVial90cmFyZXZwLzAwLzEyLzkxLzk2Nzc1OXktMTIwazE3MC1hLTkzcjU3b3M5LndjdA==" />
+  </programme>
+  <programme channel="AntenaInternational.ro@SD" start="20260925000000 -0500" stop="20260925035959 -0500">
+    <title lang="ro">Neatza cu Răzvan şi Dani</title>
+    <desc lang="ro">Emisiunea în care te pui la curent cu cele mai interesante și de actualitate subiecte ale dimineții. Meteo, rețete, ultimele piese muzicale sau ultimele sfaturi practice, ai totul pentru a-ți începe ziua cu zâmbetul pe buze.</desc>
+    <category lang="ro">Divertisment</category>
+    <icon src="https://www.programetv.ro/img/shows/c2/af/neatza-cu-razvan-si-dani.jpg?key=Z2lfZnVial90cmFyZXZwLzAwLzE4Lzk0Lzc2NDgwMHktMTIwazE3MC1hLXA1NW4xcnA1LndjdA==" />
+  </programme>
+  <programme channel="AntenaInternational.ro@SD" start="20260925040000 -0500" stop="20260925055959 -0500">
+    <title lang="ro">Observator</title>
+    <desc lang="ro">Ştiri, reportaje, anchete, informaţii utile şi de ultimă oră. Fii observator!</desc>
+    <category lang="ro">Ştiri</category>
+    <icon src="https://www.programetv.ro/img/shows/00/b6/observator.jpg?key=Z2lfZnVial90cmFyZXZwLzAwLzEyLzkxLzk2Nzc1OXktMTIwazE3MC1hLTkzcjU3b3M5LndjdA==" />
+  </programme>
+  <programme channel="AntenaInternational.ro@SD" start="20260925060000 -0500" stop="20260925075959 -0500">
+    <title lang="ro">Mireasa</title>
+    <desc lang="ro">La această emisiune participă băieți și fete cu vârsta cuprinsă între 23-33 de ani, care vor să își găsească sufletul pereche. Premiul cel mare îl obține cuplul care hotărăște să se căsătorească în direct. În cazul în care niciun cuplu format în această emisiune nu se căsătorește, atunci telespectatorii vor vota concurenții favoriți iar cine obține cele mai multe voturi, va câștiga un alt premiu.</desc>
+    <category lang="ro">Diverse</category>
+    <icon src="https://www.programetv.ro/img/shows/22/2b/mireasa.jpg?key=Z2lfZnVial90cmFyZXZwLzA3LzQ0LzY5LzgzODQxM3ktMTIwazE3MC1hLTNycjc2czdxLndjdA==" />
+  </programme>
+  <programme channel="AntenaInternational.ro@SD" start="20260925080000 -0500" stop="20260925085959 -0500">
+    <title lang="ro">Observator</title>
+    <desc lang="ro">Ştiri, reportaje, anchete, informaţii utile şi de ultimă oră. Fii observator!</desc>
+    <category lang="ro">Ştiri</category>
+    <icon src="https://www.programetv.ro/img/shows/00/b6/observator.jpg?key=Z2lfZnVial90cmFyZXZwLzAwLzEyLzkxLzk2Nzc1OXktMTIwazE3MC1hLTkzcjU3b3M5LndjdA==" />
+  </programme>
+  <programme channel="AntenaInternational.ro@SD" start="20260925090000 -0500" stop="20260925105959 -0500">
+    <title lang="ro">Viaţa Fără Filtru</title>
+    <desc lang="ro">Viaţa fără filtru, tratează într-o cheie unică noi poveşti de viaţă spectaculoase, realităţi româneşti de actualitate, ştiri mondene, evenimente culturale şi investigaţii. Echipa emisiunii continuă să exploreze contrastele, deopotrivă reuşitele şi căderile spectaculoase, prezentând portrete excepţionale, care au inspirat şi continuă să inspire românii.</desc>
+    <category lang="ro">Talk show</category>
+    <icon src="https://www.programetv.ro/img/shows/29/4a/viata-fara-filtru.jpg?key=Z2lfZnVial90cmFyZXZwLzExLzUwLzY1LzU1NjEyNHktMTIwazE3MC1hLXJxMnAwNm5yLndjdA==" />
+  </programme>
+  <programme channel="AntenaInternational.ro@SD" start="20260925110000 -0500" stop="20260925115959 -0500">
+    <title lang="ro">Observator</title>
+    <desc lang="ro">Ştiri, reportaje, anchete, informaţii utile şi de ultimă oră. Fii observator!</desc>
+    <category lang="ro">Ştiri</category>
+    <icon src="https://www.programetv.ro/img/shows/00/b6/observator.jpg?key=Z2lfZnVial90cmFyZXZwLzAwLzEyLzkxLzk2Nzc1OXktMTIwazE3MC1hLTkzcjU3b3M5LndjdA==" />
+  </programme>
+  <programme channel="AntenaInternational.ro@SD" start="20260925120000 -0500" stop="20260925135959 -0500">
+    <title lang="ro">Lia - soția soțului meu</title>
+    <desc lang="ro">O poveste de iubire unică, dar încercată de trădări şi minciuni. În încercarea de a triumfa, iubirea adevărată se va lovi si de această dată de o mulţime de obstacole şi pericole.</desc>
+    <credits>
+      <actor>Ana Bodea</actor>
+      <actor>Ioana Blaj</actor>
+      <actor>Ștefan Floroaica</actor>
+      <director>Radu Grigore</director>
+      <director>Ruxandra Ion</director>
+      <director>Bogdan Dumitrescu</director>
+    </credits>
+    <date>2023</date>
+    <category lang="ro">Serial</category>
+    <category lang="ro">Dramă</category>
+    <category lang="ro">Romantic</category>
+    <category lang="ro">Dragoste</category>
+    <icon src="https://www.programetv.ro/img/shows/38/fe/lia-sotia-sotului-meu.jpg?key=emJpdnIvMzIvNjAvMjU3L3l2bi1mYmd2bi1mYmdoeWh2LXpyaC01NzQyNzJ5LTEyMGsxNzAtYS0xcG9zMjRxNi53Y3Q=" />
+    <country lang="ro">Romania</country>
+    <star-rating system="Imdb">
+      <value>6.1</value>
+    </star-rating>
+    <star-rating system="Cinemagia">
+      <value>8.3</value>
+    </star-rating>
+  </programme>
+  <programme channel="AntenaInternational.ro@SD" start="20260925140000 -0500" stop="20260925155959 -0500">
+    <title lang="ro">Mireasa - Capriciile Iubirii</title>
+    <desc lang="ro">Mireasa - Capriciile Iubirii este emisiunea în care sunt dezbătute cele mai controversate subiecte de la Mireasa, alături de toți cei implicați, indiferent dacă aceștia au fost sau nu în casă. Emisiunea încercă să îi ajute pe concurenți să își dea seama dacă ceea ce simt este un sentiment sincer sau mai mult un capriciu, o ambiție.</desc>
+    <category lang="ro">Diverse</category>
+    <icon src="https://www.programetv.ro/img/shows/d2/1d/mireasa-capriciile-iubirii.jpg?key=Z2lfZnVial90cmFyZXZwLzA5LzQ3LzQzLzQ3ODkwMXktMTIwazE3MC1hLW84OTNwMTQzLndjdA==" />
+  </programme>
+  <programme channel="AntenaInternational.ro@SD" start="20260925160000 -0500" stop="20260925172959 -0500">
+    <title lang="ro">Ştiri</title>
+    <desc lang="ro">Vă sunt prezentate informaţii de ultimă oră, interne şi internaţionale, din mediul politic, economic, social, cultural-media, sport şi nu numai.</desc>
+    <category lang="ro">Ştiri</category>
+    <icon src="https://www.programetv.ro/img/shows/e2/fa/stiri.jpg?key=Z2lfZnVial90cmFyZXZwLzAwLzUwLzkzLzMwMTQ2N3ktMTIwazE3MC1hLTBzczU5MXI0LndjdA==" />
+  </programme>
+  <programme channel="AntenaInternational.ro@SD" start="20260925173000 -0500" stop="20260925175959 -0500">
+    <title lang="ro">Happy Café</title>
+    <desc lang="ro">Un format info-educativ fresh, care va aborda subiecte noi, atipice şi deopotrivă inspiraţionale, cu specialişti din diverse domenii de interes. Lor li se vor alătura zilnic invitaţi din showbiz-ul românesc şi nu numai, care vor vorbi sincer şi deschis despre succes şi drumul până la el.</desc>
+    <category lang="ro">Talk show</category>
+    <icon src="https://www.programetv.ro/img/shows/0d/80/happy-cafe.jpg?key=Z2lfZnVial90cmFyZXZwLzA4Lzg0LzIxLzg3NzA2NnktMTIwazE3MC1hLTA5cTZxMjM2LndjdA==" />
+  </programme>
+  <programme channel="AntenaInternational.ro@SD" start="20260925180000 -0500" stop="20260925185959 -0500">
+    <title lang="ro">Observator</title>
+    <desc lang="ro">Ştiri, reportaje, anchete, informaţii utile şi de ultimă oră. Fii observator!</desc>
+    <category lang="ro">Ştiri</category>
+    <icon src="https://www.programetv.ro/img/shows/00/b6/observator.jpg?key=Z2lfZnVial90cmFyZXZwLzAwLzEyLzkxLzk2Nzc1OXktMTIwazE3MC1hLTkzcjU3b3M5LndjdA==" />
+  </programme>
+  <programme channel="AntenaInternational.ro@SD" start="20260925190000 -0500" stop="20260925202959 -0500">
+    <title lang="ro">Lia - soția soțului meu</title>
+    <desc lang="ro">O poveste de iubire unică, dar încercată de trădări şi minciuni. În încercarea de a triumfa, iubirea adevărată se va lovi si de această dată de o mulţime de obstacole şi pericole.</desc>
+    <credits>
+      <actor>Ana Bodea</actor>
+      <actor>Ioana Blaj</actor>
+      <actor>Ștefan Floroaica</actor>
+      <director>Radu Grigore</director>
+      <director>Ruxandra Ion</director>
+      <director>Bogdan Dumitrescu</director>
+    </credits>
+    <date>2023</date>
+    <category lang="ro">Serial</category>
+    <category lang="ro">Dramă</category>
+    <category lang="ro">Romantic</category>
+    <category lang="ro">Dragoste</category>
+    <icon src="https://www.programetv.ro/img/shows/38/fe/lia-sotia-sotului-meu.jpg?key=emJpdnIvMzIvNjAvMjU3L3l2bi1mYmd2bi1mYmdoeWh2LXpyaC01NzQyNzJ5LTEyMGsxNzAtYS0xcG9zMjRxNi53Y3Q=" />
+    <country lang="ro">Romania</country>
+    <star-rating system="Imdb">
+      <value>6.1</value>
+    </star-rating>
+    <star-rating system="Cinemagia">
+      <value>8.3</value>
+    </star-rating>
+  </programme>
+  <programme channel="AntenaInternational.ro@SD" start="20260925203000 -0500" stop="20260925215959 -0500">
+    <title lang="ro">Ştiri</title>
+    <desc lang="ro">Vă sunt prezentate informaţii de ultimă oră, interne şi internaţionale, din mediul politic, economic, social, cultural-media, sport şi nu numai.</desc>
+    <category lang="ro">Ştiri</category>
+    <icon src="https://www.programetv.ro/img/shows/e2/fa/stiri.jpg?key=Z2lfZnVial90cmFyZXZwLzAwLzUwLzkzLzMwMTQ2N3ktMTIwazE3MC1hLTBzczU5MXI0LndjdA==" />
+  </programme>
+  <programme channel="AntenaInternational.ro@SD" start="20260925220000 -0500" stop="20260925235959 -0500">
+    <title lang="ro">Observator</title>
+    <desc lang="ro">Ştiri, reportaje, anchete, informaţii utile şi de ultimă oră. Fii observator!</desc>
+    <category lang="ro">Ştiri</category>
+    <icon src="https://www.programetv.ro/img/shows/00/b6/observator.jpg?key=Z2lfZnVial90cmFyZXZwLzAwLzEyLzkxLzk2Nzc1OXktMTIwazE3MC1hLTkzcjU3b3M5LndjdA==" />
+  </programme>
   <programme channel="AntenaStars.ro@SD" start="20260922000000 -0500" stop="20260922022959 -0500">
     <title lang="ro">Mireasa - Capriciile Iubirii</title>
     <desc lang="ro">Mireasa - Capriciile Iubirii este emisiunea în care sunt dezbătute cele mai controversate subiecte de la Mireasa, alături de toți cei implicați, indiferent dacă aceștia au fost sau nu în casă. Emisiunea încercă să îi ajute pe concurenți să își dea seama dacă ceea ce simt este un sentiment sincer sau mai mult un capriciu, o ambiție.</desc>
@@ -74176,6 +74668,504 @@
   <programme channel="MoozRo.ro@SD" start="20260925200000 -0500" stop="20260925225959 -0500">
     <title lang="ro">Weekendplay: Mooz Ro</title>
     <category lang="ro">Muzică</category>
+  </programme>
+  <programme start="20260922010000 +0200" stop="20260922030000 +0200" channel="B1.ro@SD">
+    <title lang="sr">Lepota i zdravlje</title>
+    <desc lang="sr">Teleshop lepota i zdravlje, nudimo širok asortiman proizvoda za zdravo i negovano telo, za tretman lica, za zdravu i bujnu kosu, za lepe i negovane nokte... I ne samo bogatu ponudu kozmetičkih proizvoda, nego i raznovrsne proizvode za zdravlje, sve po povoljnim cenama.</desc>
+    <category lang="sr">Zdravlje i medicina</category>
+    <icon src="https://mediasb2c.mts.rs/medias/5-17f913c9c51c4cf5b90aa612465871a8.jpg?context=bWFzdGVyfHJvb3R8NDI3NzJ8aW1hZ2UvanBlZ3xhRGRpTDJobVl5ODJPREk1T1RBNE5EUTVOamt5Tmk4MVh6RTNaamt4TTJNNVl6VXhZelJqWmpWaU9UQmhZVFl4TWpRMk5UZzNNV0U0TG1wd1p3fGJhNDJmMzMzMGZlMzNlNjZjMWFkMmY0ZjdiZTMzZmY1ZjA1N2MyNmI0NTVmMDBmZTUzMWQwY2FmOTljZmQzMTM" />
+  </programme>
+  <programme start="20260922030000 +0200" stop="20260922050000 +0200" channel="B1.ro@SD">
+    <title lang="sr">Hot shop</title>
+    <desc lang="sr">Hot Shop online prodavnica i kataloška prodaja! Kupujte online u Hot Shop online prodavnici ili putem kataloške prodaje!</desc>
+    <category lang="sr">Info</category>
+    <icon src="https://mediasb2c.mts.rs/medias/5-48faaac1eb3746528750721f8ae7b8d6.jpg?context=bWFzdGVyfHJvb3R8Mjk2Njl8aW1hZ2UvanBlZ3xhRFkxTDJobU9DODJPREk1T1RBNE5ETXpNekE0Tmk4MVh6UTRabUZoWVdNeFpXSXpOelEyTlRJNE56VXdOekl4WmpoaFpUZGlPR1EyTG1wd1p3fGI5YzQ0MTk5ZjI4ODI2NmU4MmQ1NjA5ZjkwNWFjZmRlYzRiYzUyNTBkZGE3MWNlZTA2NzgwZDYxZWNmNzBjYTU" />
+  </programme>
+  <programme start="20260922050000 +0200" stop="20260922080000 +0200" channel="B1.ro@SD">
+    <title lang="sr">Moda</title>
+    <category lang="sr">Info</category>
+    <icon src="https://mediasb2c.mts.rs/medias/5-608f59a9014446b4b56e64ec30b7511b.jpg?context=bWFzdGVyfHJvb3R8MzE0Mzl8aW1hZ2UvanBlZ3xhR0ppTDJobU9DODJPREk1T1RBNE5ETTJOVGcxTkM4MVh6WXdPR1kxT1dFNU1ERTBORFEyWWpSaU5UWmxOalJsWXpNd1lqYzFNVEZpTG1wd1p3fDRmZDU2NWEwZWVhYjQ2ZmZjYjZiMTVlZGEyYTM5ZmE3MjE4ZWQ2NzViNDY1OWIyM2FmMDgzMTNmMGVjMTk2MDk" />
+  </programme>
+  <programme start="20260922080000 +0200" stop="20260922090000 +0200" channel="B1.ro@SD">
+    <title lang="sr">Jutarnji program</title>
+    <category lang="sr">Info</category>
+    <icon src="https://mediasb2c.mts.rs/medias/5-b02adc594c024f608f0da4648d46fef4.jpg?context=bWFzdGVyfHJvb3R8NDYwNTh8aW1hZ2UvanBlZ3xhREV6TDJobU9TODJPREk1T1RBNE5ETTVPRFl5TWk4MVgySXdNbUZrWXpVNU5HTXdNalJtTmpBNFpqQmtZVFEyTkRoa05EWm1aV1kwTG1wd1p3fDE5MmI0N2JlNjM1Yjc2OTY3YWU3NGRlMGQ0ZWNjMTA5NjNmMzg1NjZjMmYyNWUzODMyOTU2Y2FlMGZiNDA3MjA" />
+  </programme>
+  <programme start="20260922090000 +0200" stop="20260922092500 +0200" channel="B1.ro@SD">
+    <title lang="sr">Jutarnji program</title>
+    <category lang="sr">Info</category>
+    <icon src="https://mediasb2c.mts.rs/medias/5-b02adc594c024f608f0da4648d46fef4.jpg?context=bWFzdGVyfHJvb3R8NDYwNTh8aW1hZ2UvanBlZ3xhREV6TDJobU9TODJPREk1T1RBNE5ETTVPRFl5TWk4MVgySXdNbUZrWXpVNU5HTXdNalJtTmpBNFpqQmtZVFEyTkRoa05EWm1aV1kwTG1wd1p3fDE5MmI0N2JlNjM1Yjc2OTY3YWU3NGRlMGQ0ZWNjMTA5NjNmMzg1NjZjMmYyNWUzODMyOTU2Y2FlMGZiNDA3MjA" />
+  </programme>
+  <programme start="20260922092500 +0200" stop="20260922094000 +0200" channel="B1.ro@SD">
+    <title lang="sr">Ponuda dana</title>
+    <desc lang="sr">Pogledajte aktuelnu ponudu dana i kupite preko telefona.</desc>
+    <category lang="sr">Info</category>
+    <icon src="https://mediasb2c.mts.rs/medias/5-a8838d53b4bb4f5393c50c7319954011.jpg?context=bWFzdGVyfHJvb3R8MzM4NjB8aW1hZ2UvanBlZ3xhR05rTDJobVlpODJPREk1T1RBNE5EUXpNVE01TUM4MVgyRTRPRE00WkRVellqUmlZalJtTlRNNU0yTTFNR00zTXpFNU9UVTBNREV4TG1wd1p3fDhjOGJlZDM4ODFjZjU3ZjBkYjg3MGM1Mzg3NDM2ODBlOTk5MTcxMzdlMDMyN2E1YTkwZWFjMjRmMzM5YWY0ZWE" />
+  </programme>
+  <programme start="20260922094000 +0200" stop="20260922100000 +0200" channel="B1.ro@SD">
+    <title lang="sr">Zabavni program</title>
+    <desc lang="sr">Opustite se i uživajte uz zabavni program naše televizije.</desc>
+    <category lang="sr">Zabavni program</category>
+    <icon src="https://mediasb2c.mts.rs/medias/5-66c545ae5041431697ee930820efb9fd.jpg?context=bWFzdGVyfHJvb3R8NDc0ODR8aW1hZ2UvanBlZ3xhREkwTDJobVl5ODJPREk1T1RBNE5EUTJOREUxT0M4MVh6WTJZelUwTldGbE5UQTBNVFF6TVRZNU4yVmxPVE13T0RJd1pXWmlPV1prTG1wd1p3fGU2ZTc2NWIwN2I4ZTQwZGYzZmMwNTVkNWJlNjYwYmNiMjJhYzI2MTlkZGM5MzBiZDZmNTg1ZDBmNThmZTg1YTU" />
+  </programme>
+  <programme start="20260922100000 +0200" stop="20260922104000 +0200" channel="B1.ro@SD">
+    <title lang="sr">Lepota i zdravlje</title>
+    <desc lang="sr">Teleshop lepota i zdravlje, nudimo širok asortiman proizvoda za zdravo i negovano telo, za tretman lica, za zdravu i bujnu kosu, za lepe i negovane nokte... I ne samo bogatu ponudu kozmetičkih proizvoda, nego i raznovrsne proizvode za zdravlje, sve po povoljnim cenama.</desc>
+    <category lang="sr">Zdravlje i medicina</category>
+    <icon src="https://mediasb2c.mts.rs/medias/5-17f913c9c51c4cf5b90aa612465871a8.jpg?context=bWFzdGVyfHJvb3R8NDI3NzJ8aW1hZ2UvanBlZ3xhRGRpTDJobVl5ODJPREk1T1RBNE5EUTVOamt5Tmk4MVh6RTNaamt4TTJNNVl6VXhZelJqWmpWaU9UQmhZVFl4TWpRMk5UZzNNV0U0TG1wd1p3fGJhNDJmMzMzMGZlMzNlNjZjMWFkMmY0ZjdiZTMzZmY1ZjA1N2MyNmI0NTVmMDBmZTUzMWQwY2FmOTljZmQzMTM" />
+  </programme>
+  <programme start="20260922104000 +0200" stop="20260922105500 +0200" channel="B1.ro@SD">
+    <title lang="sr">Zabavni program</title>
+    <desc lang="sr">Opustite se i uživajte uz zabavni program naše televizije.</desc>
+    <category lang="sr">Zabavni program</category>
+    <icon src="https://mediasb2c.mts.rs/medias/5-66c545ae5041431697ee930820efb9fd.jpg?context=bWFzdGVyfHJvb3R8NDc0ODR8aW1hZ2UvanBlZ3xhREkwTDJobVl5ODJPREk1T1RBNE5EUTJOREUxT0M4MVh6WTJZelUwTldGbE5UQTBNVFF6TVRZNU4yVmxPVE13T0RJd1pXWmlPV1prTG1wd1p3fGU2ZTc2NWIwN2I4ZTQwZGYzZmMwNTVkNWJlNjYwYmNiMjJhYzI2MTlkZGM5MzBiZDZmNTg1ZDBmNThmZTg1YTU" />
+  </programme>
+  <programme start="20260922105500 +0200" stop="20260922110000 +0200" channel="B1.ro@SD">
+    <title lang="sr">Marketing</title>
+    <category lang="sr">Info</category>
+    <icon src="https://mediasb2c.mts.rs/medias/5-90a2dd28e3a04505ae42e9161ef67bb1.jpg?context=bWFzdGVyfHJvb3R8NDEyMzZ8aW1hZ2UvanBlZ3xhR1kxTDJnNE9TODJPREk1T1RBek9ERXpNREl3Tmk4MVh6a3dZVEprWkRJNFpUTmhNRFExTURWaFpUUXlaVGt4TmpGbFpqWTNZbUl4TG1wd1p3fDMyNjczMjMzNWExZTkzYzE5YmQ1YWNiNzMwZDhkNGY4MGEzZTQzNzk4OGIwZDZlMDIzOWMzZmY3NTJhYjA5ZDg" />
+  </programme>
+  <programme start="20260922110000 +0200" stop="20260922114000 +0200" channel="B1.ro@SD">
+    <title lang="sr">Moda XXl</title>
+    <desc lang="sr">Teleshop moda XXXL, televizijska prodaja odeće u najvećim konfekcijskim brojevima, i izuzetnog izgleda. Kvalitetom, dizajnom i vrlo povoljnim cenama ne ostavljamo nijednog kupca nezadovoljnog.</desc>
+    <category lang="sr">Info</category>
+    <icon src="https://mediasb2c.mts.rs/medias/5-9c761a731ba743b597dbe87ebc78b88b.jpg?context=bWFzdGVyfHJvb3R8MzE2NTV8aW1hZ2UvanBlZ3xhREl5TDJobVppODJPREk1T1RBNE5EVXlPVFk1TkM4MVh6bGpOell4WVRjek1XSmhOelF6WWpVNU4yUmlaVGczWldKak56aGlPRGhpTG1wd1p3fGQ4NjZkNTU0NTVjYzczMWVkNWJiMmQzYWViNzA3YzZiMTBjZTdiZTE0ZGYwMmRiYTExMWJkZTcwMjNkY2Y2OGE" />
+  </programme>
+  <programme start="20260922114000 +0200" stop="20260922115500 +0200" channel="B1.ro@SD">
+    <title lang="sr">Putujte sa nama</title>
+    <desc lang="sr">Pođite sa nama na najrazličitija mesta na svetu! Slikom vas vodimo u najlepše predele i u najzanimljivije gradove na planeti. Upoznajmo zajedno običaje, kulturu, arhitekturu i druge znamenitosti mnogih destinacija.</desc>
+    <category lang="sr">Priroda i putovanja</category>
+    <icon src="https://mediasb2c.mts.rs/medias/5-aad7008fb83d4d65a08751a8c5d5ad03.jpg?context=bWFzdGVyfHJvb3R8NjI5NjB8aW1hZ2UvanBlZ3xhRFJtTDJnNE9TODJPREk1T1RBNE5Ua3pPRGN4T0M4MVgyRmhaRGN3TURobVlqZ3paRFJrTmpWaE1EZzNOVEZoT0dNMVpEVmhaREF6TG1wd1p3fDczNmVmYmYwYWIxZjQ3ZjVlOWM4MWM2YTEyMTFmYWJkZGUwNDUzNTYzNjlkOGNmMGUwODA4NTBiNWU0ZmM4YTU" />
+  </programme>
+  <programme start="20260922115500 +0200" stop="20260922120000 +0200" channel="B1.ro@SD">
+    <title lang="sr">Marketing</title>
+    <category lang="sr">Info</category>
+    <icon src="https://mediasb2c.mts.rs/medias/5-90a2dd28e3a04505ae42e9161ef67bb1.jpg?context=bWFzdGVyfHJvb3R8NDEyMzZ8aW1hZ2UvanBlZ3xhR1kxTDJnNE9TODJPREk1T1RBek9ERXpNREl3Tmk4MVh6a3dZVEprWkRJNFpUTmhNRFExTURWaFpUUXlaVGt4TmpGbFpqWTNZbUl4TG1wd1p3fDMyNjczMjMzNWExZTkzYzE5YmQ1YWNiNzMwZDhkNGY4MGEzZTQzNzk4OGIwZDZlMDIzOWMzZmY3NTJhYjA5ZDg" />
+  </programme>
+  <programme start="20260922120000 +0200" stop="20260922124000 +0200" channel="B1.ro@SD">
+    <title lang="sr">Teleshop Akcija</title>
+    <desc lang="sr">Teleshop prodaja sprava i proizvoda za Vas i Vašu kuću, samo danas SVE NA AKCIJI! Ne propustite ovu priliku da povoljno kupite!</desc>
+    <category lang="sr">Info</category>
+    <icon src="https://mediasb2c.mts.rs/medias/5-dc4a716c65ab44488e1ca23cc61f718f.jpg?context=bWFzdGVyfHJvb3R8MzAyMDV8aW1hZ2UvanBlZ3xhRGhqTDJobVppODJPREk1T1RBNE5EVTJNalEyTWk4MVgyUmpOR0UzTVRaak5qVmhZalEwTkRnNFpURmpZVEl6WTJNMk1XWTNNVGhtTG1wd1p3fGRiODMzMzg3MjNkZTU3MjVjNGE4NWI4ZTUzMWZiMjgwYzBlMTU4ZDNhZTAyM2NmNjU4ZTVlNjhkNzlmZGQ4Mjk" />
+  </programme>
+  <programme start="20260922124000 +0200" stop="20260922125500 +0200" channel="B1.ro@SD">
+    <title lang="sr">Zabavni program</title>
+    <desc lang="sr">Opustite se i uživajte uz zabavni program naše televizije.</desc>
+    <category lang="sr">Zabavni program</category>
+    <icon src="https://mediasb2c.mts.rs/medias/5-66c545ae5041431697ee930820efb9fd.jpg?context=bWFzdGVyfHJvb3R8NDc0ODR8aW1hZ2UvanBlZ3xhREkwTDJobVl5ODJPREk1T1RBNE5EUTJOREUxT0M4MVh6WTJZelUwTldGbE5UQTBNVFF6TVRZNU4yVmxPVE13T0RJd1pXWmlPV1prTG1wd1p3fGU2ZTc2NWIwN2I4ZTQwZGYzZmMwNTVkNWJlNjYwYmNiMjJhYzI2MTlkZGM5MzBiZDZmNTg1ZDBmNThmZTg1YTU" />
+  </programme>
+  <programme start="20260922125500 +0200" stop="20260922130000 +0200" channel="B1.ro@SD">
+    <title lang="sr">Marketing</title>
+    <category lang="sr">Info</category>
+    <icon src="https://mediasb2c.mts.rs/medias/5-90a2dd28e3a04505ae42e9161ef67bb1.jpg?context=bWFzdGVyfHJvb3R8NDEyMzZ8aW1hZ2UvanBlZ3xhR1kxTDJnNE9TODJPREk1T1RBek9ERXpNREl3Tmk4MVh6a3dZVEprWkRJNFpUTmhNRFExTURWaFpUUXlaVGt4TmpGbFpqWTNZbUl4TG1wd1p3fDMyNjczMjMzNWExZTkzYzE5YmQ1YWNiNzMwZDhkNGY4MGEzZTQzNzk4OGIwZDZlMDIzOWMzZmY3NTJhYjA5ZDg" />
+  </programme>
+  <programme start="20260922130000 +0200" stop="20260922160000 +0200" channel="B1.ro@SD">
+    <title lang="sr">TV Prodaja</title>
+    <desc lang="sr">Uštedite svoje vreme tako što ćete se odlučiti za kupovinu bez stresa, gužve i žurbe, za kupovinu iz fotelje!</desc>
+    <category lang="sr">Info</category>
+    <icon src="https://mediasb2c.mts.rs/medias/5-9f3c1f828fa44d7a94db1c36771f18fa.jpg?context=bWFzdGVyfHJvb3R8Mjk3NjZ8aW1hZ2UvanBlZ3xhR0l5TDJobE9DODJPREk1T1RBMU5UQXpPRFE1TkM4MVh6bG1NMk14WmpneU9HWmhORFJrTjJFNU5HUmlNV016TmpjM01XWXhPR1poTG1wd1p3fDg2NzFhMjZmYjlhNGRlYzJlYTYyYTIyODNkYzYzOWY1MzdjODkwMTI1ZjBjNGM5YzcxMjBhYjFlY2VhMmZjYzY" />
+  </programme>
+  <programme start="20260922160000 +0200" stop="20260922170000 +0200" channel="B1.ro@SD">
+    <title lang="sr">Moda XXl</title>
+    <desc lang="sr">Teleshop moda XXXL, televizijska prodaja odeće u najvećim konfekcijskim brojevima, i izuzetnog izgleda. Kvalitetom, dizajnom i vrlo povoljnim cenama ne ostavljamo nijednog kupca nezadovoljnog.</desc>
+    <category lang="sr">Info</category>
+    <icon src="https://mediasb2c.mts.rs/medias/5-9c761a731ba743b597dbe87ebc78b88b.jpg?context=bWFzdGVyfHJvb3R8MzE2NTV8aW1hZ2UvanBlZ3xhREl5TDJobVppODJPREk1T1RBNE5EVXlPVFk1TkM4MVh6bGpOell4WVRjek1XSmhOelF6WWpVNU4yUmlaVGczWldKak56aGlPRGhpTG1wd1p3fGQ4NjZkNTU0NTVjYzczMWVkNWJiMmQzYWViNzA3YzZiMTBjZTdiZTE0ZGYwMmRiYTExMWJkZTcwMjNkY2Y2OGE" />
+  </programme>
+  <programme start="20260922170000 +0200" stop="20260922210000 +0200" channel="B1.ro@SD">
+    <title lang="sr">TV Prodaja</title>
+    <desc lang="sr">Uštedite svoje vreme tako što ćete se odlučiti za kupovinu bez stresa, gužve i žurbe, za kupovinu iz fotelje!</desc>
+    <category lang="sr">Info</category>
+    <icon src="https://mediasb2c.mts.rs/medias/5-9f3c1f828fa44d7a94db1c36771f18fa.jpg?context=bWFzdGVyfHJvb3R8Mjk3NjZ8aW1hZ2UvanBlZ3xhR0l5TDJobE9DODJPREk1T1RBMU5UQXpPRFE1TkM4MVh6bG1NMk14WmpneU9HWmhORFJrTjJFNU5HUmlNV016TmpjM01XWXhPR1poTG1wd1p3fDg2NzFhMjZmYjlhNGRlYzJlYTYyYTIyODNkYzYzOWY1MzdjODkwMTI1ZjBjNGM5YzcxMjBhYjFlY2VhMmZjYzY" />
+  </programme>
+  <programme start="20260922210000 +0200" stop="20260922220000 +0200" channel="B1.ro@SD">
+    <title lang="sr">Aksesoari</title>
+    <desc lang="sr">TV Shop, onlajn prodavnica i kataloška prodaja: po povoljnim cenama AKSESOARI, korisne sitnice i modni dodaci, koji će upotpuniti Vaš izgled.</desc>
+    <category lang="sr">Info</category>
+    <icon src="https://mediasb2c.mts.rs/medias/5-2f817715aea24d86aa26b7db86702875.jpg?context=bWFzdGVyfHJvb3R8MzM0MTl8aW1hZ2UvanBlZ3xhR1V6TDJobVppODJPREk1T1RBNE5EVTVOVEl6TUM4MVh6Sm1PREUzTnpFMVlXVmhNalJrT0RaaFlUSTJZamRrWWpnMk56QXlPRGMxTG1wd1p3fDgxYjZkNjI0ZGQ0OTYyNmRhMjhlZGJiMTM1MGY5YmQ5NzA4MGJiZDI1YTliMmZjYTM5YmYxNTNjNzE1YzY0MWE" />
+  </programme>
+  <programme start="20260922220000 +0200" stop="20260923000000 +0200" channel="B1.ro@SD">
+    <title lang="sr">TV Prodaja</title>
+    <desc lang="sr">Uštedite svoje vreme tako što ćete se odlučiti za kupovinu bez stresa, gužve i žurbe, za kupovinu iz fotelje!</desc>
+    <category lang="sr">Info</category>
+    <icon src="https://mediasb2c.mts.rs/medias/5-9f3c1f828fa44d7a94db1c36771f18fa.jpg?context=bWFzdGVyfHJvb3R8Mjk3NjZ8aW1hZ2UvanBlZ3xhR0l5TDJobE9DODJPREk1T1RBMU5UQXpPRFE1TkM4MVh6bG1NMk14WmpneU9HWmhORFJrTjJFNU5HUmlNV016TmpjM01XWXhPR1poTG1wd1p3fDg2NzFhMjZmYjlhNGRlYzJlYTYyYTIyODNkYzYzOWY1MzdjODkwMTI1ZjBjNGM5YzcxMjBhYjFlY2VhMmZjYzY" />
+  </programme>
+  <programme start="20260923000000 +0200" stop="20260923010000 +0200" channel="B1.ro@SD">
+    <title lang="sr">Moda XXl</title>
+    <desc lang="sr">Teleshop moda XXXL, televizijska prodaja odeće u najvećim konfekcijskim brojevima, i izuzetnog izgleda. Kvalitetom, dizajnom i vrlo povoljnim cenama ne ostavljamo nijednog kupca nezadovoljnog.</desc>
+    <category lang="sr">Info</category>
+    <icon src="https://mediasb2c.mts.rs/medias/5-9c761a731ba743b597dbe87ebc78b88b.jpg?context=bWFzdGVyfHJvb3R8MzE2NTV8aW1hZ2UvanBlZ3xhREl5TDJobVppODJPREk1T1RBNE5EVXlPVFk1TkM4MVh6bGpOell4WVRjek1XSmhOelF6WWpVNU4yUmlaVGczWldKak56aGlPRGhpTG1wd1p3fGQ4NjZkNTU0NTVjYzczMWVkNWJiMmQzYWViNzA3YzZiMTBjZTdiZTE0ZGYwMmRiYTExMWJkZTcwMjNkY2Y2OGE" />
+  </programme>
+  <programme start="20260923010000 +0200" stop="20260923030000 +0200" channel="B1.ro@SD">
+    <title lang="sr">Lepota i zdravlje</title>
+    <desc lang="sr">Teleshop lepota i zdravlje, nudimo širok asortiman proizvoda za zdravo i negovano telo, za tretman lica, za zdravu i bujnu kosu, za lepe i negovane nokte... I ne samo bogatu ponudu kozmetičkih proizvoda, nego i raznovrsne proizvode za zdravlje, sve po povoljnim cenama.</desc>
+    <category lang="sr">Zdravlje i medicina</category>
+    <icon src="https://mediasb2c.mts.rs/medias/5-17f913c9c51c4cf5b90aa612465871a8.jpg?context=bWFzdGVyfHJvb3R8NDI3NzJ8aW1hZ2UvanBlZ3xhRGRpTDJobVl5ODJPREk1T1RBNE5EUTVOamt5Tmk4MVh6RTNaamt4TTJNNVl6VXhZelJqWmpWaU9UQmhZVFl4TWpRMk5UZzNNV0U0TG1wd1p3fGJhNDJmMzMzMGZlMzNlNjZjMWFkMmY0ZjdiZTMzZmY1ZjA1N2MyNmI0NTVmMDBmZTUzMWQwY2FmOTljZmQzMTM" />
+  </programme>
+  <programme start="20260923030000 +0200" stop="20260923050000 +0200" channel="B1.ro@SD">
+    <title lang="sr">Hot shop</title>
+    <desc lang="sr">Hot Shop online prodavnica i kataloška prodaja! Kupujte online u Hot Shop online prodavnici ili putem kataloške prodaje!</desc>
+    <category lang="sr">Info</category>
+    <icon src="https://mediasb2c.mts.rs/medias/5-48faaac1eb3746528750721f8ae7b8d6.jpg?context=bWFzdGVyfHJvb3R8Mjk2Njl8aW1hZ2UvanBlZ3xhRFkxTDJobU9DODJPREk1T1RBNE5ETXpNekE0Tmk4MVh6UTRabUZoWVdNeFpXSXpOelEyTlRJNE56VXdOekl4WmpoaFpUZGlPR1EyTG1wd1p3fGI5YzQ0MTk5ZjI4ODI2NmU4MmQ1NjA5ZjkwNWFjZmRlYzRiYzUyNTBkZGE3MWNlZTA2NzgwZDYxZWNmNzBjYTU" />
+  </programme>
+  <programme start="20260923050000 +0200" stop="20260923080000 +0200" channel="B1.ro@SD">
+    <title lang="sr">Moda</title>
+    <category lang="sr">Info</category>
+    <icon src="https://mediasb2c.mts.rs/medias/5-608f59a9014446b4b56e64ec30b7511b.jpg?context=bWFzdGVyfHJvb3R8MzE0Mzl8aW1hZ2UvanBlZ3xhR0ppTDJobU9DODJPREk1T1RBNE5ETTJOVGcxTkM4MVh6WXdPR1kxT1dFNU1ERTBORFEyWWpSaU5UWmxOalJsWXpNd1lqYzFNVEZpTG1wd1p3fDRmZDU2NWEwZWVhYjQ2ZmZjYjZiMTVlZGEyYTM5ZmE3MjE4ZWQ2NzViNDY1OWIyM2FmMDgzMTNmMGVjMTk2MDk" />
+  </programme>
+  <programme start="20260923080000 +0200" stop="20260923090000 +0200" channel="B1.ro@SD">
+    <title lang="sr">Jutarnji program</title>
+    <category lang="sr">Info</category>
+    <icon src="https://mediasb2c.mts.rs/medias/5-b02adc594c024f608f0da4648d46fef4.jpg?context=bWFzdGVyfHJvb3R8NDYwNTh8aW1hZ2UvanBlZ3xhREV6TDJobU9TODJPREk1T1RBNE5ETTVPRFl5TWk4MVgySXdNbUZrWXpVNU5HTXdNalJtTmpBNFpqQmtZVFEyTkRoa05EWm1aV1kwTG1wd1p3fDE5MmI0N2JlNjM1Yjc2OTY3YWU3NGRlMGQ0ZWNjMTA5NjNmMzg1NjZjMmYyNWUzODMyOTU2Y2FlMGZiNDA3MjA" />
+  </programme>
+  <programme start="20260923090000 +0200" stop="20260923092500 +0200" channel="B1.ro@SD">
+    <title lang="sr">Jutarnji program</title>
+    <category lang="sr">Info</category>
+    <icon src="https://mediasb2c.mts.rs/medias/5-b02adc594c024f608f0da4648d46fef4.jpg?context=bWFzdGVyfHJvb3R8NDYwNTh8aW1hZ2UvanBlZ3xhREV6TDJobU9TODJPREk1T1RBNE5ETTVPRFl5TWk4MVgySXdNbUZrWXpVNU5HTXdNalJtTmpBNFpqQmtZVFEyTkRoa05EWm1aV1kwTG1wd1p3fDE5MmI0N2JlNjM1Yjc2OTY3YWU3NGRlMGQ0ZWNjMTA5NjNmMzg1NjZjMmYyNWUzODMyOTU2Y2FlMGZiNDA3MjA" />
+  </programme>
+  <programme start="20260923092500 +0200" stop="20260923094000 +0200" channel="B1.ro@SD">
+    <title lang="sr">Ponuda dana</title>
+    <desc lang="sr">Pogledajte aktuelnu ponudu dana i kupite preko telefona.</desc>
+    <category lang="sr">Info</category>
+    <icon src="https://mediasb2c.mts.rs/medias/5-a8838d53b4bb4f5393c50c7319954011.jpg?context=bWFzdGVyfHJvb3R8MzM4NjB8aW1hZ2UvanBlZ3xhR05rTDJobVlpODJPREk1T1RBNE5EUXpNVE01TUM4MVgyRTRPRE00WkRVellqUmlZalJtTlRNNU0yTTFNR00zTXpFNU9UVTBNREV4TG1wd1p3fDhjOGJlZDM4ODFjZjU3ZjBkYjg3MGM1Mzg3NDM2ODBlOTk5MTcxMzdlMDMyN2E1YTkwZWFjMjRmMzM5YWY0ZWE" />
+  </programme>
+  <programme start="20260923094000 +0200" stop="20260923100000 +0200" channel="B1.ro@SD">
+    <title lang="sr">Zabavni program</title>
+    <desc lang="sr">Opustite se i uživajte uz zabavni program naše televizije.</desc>
+    <category lang="sr">Zabavni program</category>
+    <icon src="https://mediasb2c.mts.rs/medias/5-66c545ae5041431697ee930820efb9fd.jpg?context=bWFzdGVyfHJvb3R8NDc0ODR8aW1hZ2UvanBlZ3xhREkwTDJobVl5ODJPREk1T1RBNE5EUTJOREUxT0M4MVh6WTJZelUwTldGbE5UQTBNVFF6TVRZNU4yVmxPVE13T0RJd1pXWmlPV1prTG1wd1p3fGU2ZTc2NWIwN2I4ZTQwZGYzZmMwNTVkNWJlNjYwYmNiMjJhYzI2MTlkZGM5MzBiZDZmNTg1ZDBmNThmZTg1YTU" />
+  </programme>
+  <programme start="20260923100000 +0200" stop="20260923104000 +0200" channel="B1.ro@SD">
+    <title lang="sr">Lepota i zdravlje</title>
+    <desc lang="sr">Teleshop lepota i zdravlje, nudimo širok asortiman proizvoda za zdravo i negovano telo, za tretman lica, za zdravu i bujnu kosu, za lepe i negovane nokte... I ne samo bogatu ponudu kozmetičkih proizvoda, nego i raznovrsne proizvode za zdravlje, sve po povoljnim cenama.</desc>
+    <category lang="sr">Zdravlje i medicina</category>
+    <icon src="https://mediasb2c.mts.rs/medias/5-17f913c9c51c4cf5b90aa612465871a8.jpg?context=bWFzdGVyfHJvb3R8NDI3NzJ8aW1hZ2UvanBlZ3xhRGRpTDJobVl5ODJPREk1T1RBNE5EUTVOamt5Tmk4MVh6RTNaamt4TTJNNVl6VXhZelJqWmpWaU9UQmhZVFl4TWpRMk5UZzNNV0U0TG1wd1p3fGJhNDJmMzMzMGZlMzNlNjZjMWFkMmY0ZjdiZTMzZmY1ZjA1N2MyNmI0NTVmMDBmZTUzMWQwY2FmOTljZmQzMTM" />
+  </programme>
+  <programme start="20260923104000 +0200" stop="20260923105500 +0200" channel="B1.ro@SD">
+    <title lang="sr">Zabavni program</title>
+    <desc lang="sr">Opustite se i uživajte uz zabavni program naše televizije.</desc>
+    <category lang="sr">Zabavni program</category>
+    <icon src="https://mediasb2c.mts.rs/medias/5-66c545ae5041431697ee930820efb9fd.jpg?context=bWFzdGVyfHJvb3R8NDc0ODR8aW1hZ2UvanBlZ3xhREkwTDJobVl5ODJPREk1T1RBNE5EUTJOREUxT0M4MVh6WTJZelUwTldGbE5UQTBNVFF6TVRZNU4yVmxPVE13T0RJd1pXWmlPV1prTG1wd1p3fGU2ZTc2NWIwN2I4ZTQwZGYzZmMwNTVkNWJlNjYwYmNiMjJhYzI2MTlkZGM5MzBiZDZmNTg1ZDBmNThmZTg1YTU" />
+  </programme>
+  <programme start="20260923105500 +0200" stop="20260923110000 +0200" channel="B1.ro@SD">
+    <title lang="sr">Marketing</title>
+    <category lang="sr">Info</category>
+    <icon src="https://mediasb2c.mts.rs/medias/5-90a2dd28e3a04505ae42e9161ef67bb1.jpg?context=bWFzdGVyfHJvb3R8NDEyMzZ8aW1hZ2UvanBlZ3xhR1kxTDJnNE9TODJPREk1T1RBek9ERXpNREl3Tmk4MVh6a3dZVEprWkRJNFpUTmhNRFExTURWaFpUUXlaVGt4TmpGbFpqWTNZbUl4TG1wd1p3fDMyNjczMjMzNWExZTkzYzE5YmQ1YWNiNzMwZDhkNGY4MGEzZTQzNzk4OGIwZDZlMDIzOWMzZmY3NTJhYjA5ZDg" />
+  </programme>
+  <programme start="20260923110000 +0200" stop="20260923114000 +0200" channel="B1.ro@SD">
+    <title lang="sr">Moda XXl</title>
+    <desc lang="sr">Teleshop moda XXXL, televizijska prodaja odeće u najvećim konfekcijskim brojevima, i izuzetnog izgleda. Kvalitetom, dizajnom i vrlo povoljnim cenama ne ostavljamo nijednog kupca nezadovoljnog.</desc>
+    <category lang="sr">Info</category>
+    <icon src="https://mediasb2c.mts.rs/medias/5-9c761a731ba743b597dbe87ebc78b88b.jpg?context=bWFzdGVyfHJvb3R8MzE2NTV8aW1hZ2UvanBlZ3xhREl5TDJobVppODJPREk1T1RBNE5EVXlPVFk1TkM4MVh6bGpOell4WVRjek1XSmhOelF6WWpVNU4yUmlaVGczWldKak56aGlPRGhpTG1wd1p3fGQ4NjZkNTU0NTVjYzczMWVkNWJiMmQzYWViNzA3YzZiMTBjZTdiZTE0ZGYwMmRiYTExMWJkZTcwMjNkY2Y2OGE" />
+  </programme>
+  <programme start="20260923114000 +0200" stop="20260923115500 +0200" channel="B1.ro@SD">
+    <title lang="sr">Putujte sa nama</title>
+    <desc lang="sr">Pođite sa nama na najrazličitija mesta na svetu! Slikom vas vodimo u najlepše predele i u najzanimljivije gradove na planeti. Upoznajmo zajedno običaje, kulturu, arhitekturu i druge znamenitosti mnogih destinacija.</desc>
+    <category lang="sr">Priroda i putovanja</category>
+    <icon src="https://mediasb2c.mts.rs/medias/5-aad7008fb83d4d65a08751a8c5d5ad03.jpg?context=bWFzdGVyfHJvb3R8NjI5NjB8aW1hZ2UvanBlZ3xhRFJtTDJnNE9TODJPREk1T1RBNE5Ua3pPRGN4T0M4MVgyRmhaRGN3TURobVlqZ3paRFJrTmpWaE1EZzNOVEZoT0dNMVpEVmhaREF6TG1wd1p3fDczNmVmYmYwYWIxZjQ3ZjVlOWM4MWM2YTEyMTFmYWJkZGUwNDUzNTYzNjlkOGNmMGUwODA4NTBiNWU0ZmM4YTU" />
+  </programme>
+  <programme start="20260923115500 +0200" stop="20260923120000 +0200" channel="B1.ro@SD">
+    <title lang="sr">Marketing</title>
+    <category lang="sr">Info</category>
+    <icon src="https://mediasb2c.mts.rs/medias/5-90a2dd28e3a04505ae42e9161ef67bb1.jpg?context=bWFzdGVyfHJvb3R8NDEyMzZ8aW1hZ2UvanBlZ3xhR1kxTDJnNE9TODJPREk1T1RBek9ERXpNREl3Tmk4MVh6a3dZVEprWkRJNFpUTmhNRFExTURWaFpUUXlaVGt4TmpGbFpqWTNZbUl4TG1wd1p3fDMyNjczMjMzNWExZTkzYzE5YmQ1YWNiNzMwZDhkNGY4MGEzZTQzNzk4OGIwZDZlMDIzOWMzZmY3NTJhYjA5ZDg" />
+  </programme>
+  <programme start="20260923120000 +0200" stop="20260923124000 +0200" channel="B1.ro@SD">
+    <title lang="sr">Teleshop Akcija</title>
+    <desc lang="sr">Teleshop prodaja sprava i proizvoda za Vas i Vašu kuću, samo danas SVE NA AKCIJI! Ne propustite ovu priliku da povoljno kupite!</desc>
+    <category lang="sr">Info</category>
+    <icon src="https://mediasb2c.mts.rs/medias/5-dc4a716c65ab44488e1ca23cc61f718f.jpg?context=bWFzdGVyfHJvb3R8MzAyMDV8aW1hZ2UvanBlZ3xhRGhqTDJobVppODJPREk1T1RBNE5EVTJNalEyTWk4MVgyUmpOR0UzTVRaak5qVmhZalEwTkRnNFpURmpZVEl6WTJNMk1XWTNNVGhtTG1wd1p3fGRiODMzMzg3MjNkZTU3MjVjNGE4NWI4ZTUzMWZiMjgwYzBlMTU4ZDNhZTAyM2NmNjU4ZTVlNjhkNzlmZGQ4Mjk" />
+  </programme>
+  <programme start="20260923124000 +0200" stop="20260923125500 +0200" channel="B1.ro@SD">
+    <title lang="sr">Zabavni program</title>
+    <desc lang="sr">Opustite se i uživajte uz zabavni program naše televizije.</desc>
+    <category lang="sr">Zabavni program</category>
+    <icon src="https://mediasb2c.mts.rs/medias/5-66c545ae5041431697ee930820efb9fd.jpg?context=bWFzdGVyfHJvb3R8NDc0ODR8aW1hZ2UvanBlZ3xhREkwTDJobVl5ODJPREk1T1RBNE5EUTJOREUxT0M4MVh6WTJZelUwTldGbE5UQTBNVFF6TVRZNU4yVmxPVE13T0RJd1pXWmlPV1prTG1wd1p3fGU2ZTc2NWIwN2I4ZTQwZGYzZmMwNTVkNWJlNjYwYmNiMjJhYzI2MTlkZGM5MzBiZDZmNTg1ZDBmNThmZTg1YTU" />
+  </programme>
+  <programme start="20260923125500 +0200" stop="20260923130000 +0200" channel="B1.ro@SD">
+    <title lang="sr">Marketing</title>
+    <category lang="sr">Info</category>
+    <icon src="https://mediasb2c.mts.rs/medias/5-90a2dd28e3a04505ae42e9161ef67bb1.jpg?context=bWFzdGVyfHJvb3R8NDEyMzZ8aW1hZ2UvanBlZ3xhR1kxTDJnNE9TODJPREk1T1RBek9ERXpNREl3Tmk4MVh6a3dZVEprWkRJNFpUTmhNRFExTURWaFpUUXlaVGt4TmpGbFpqWTNZbUl4TG1wd1p3fDMyNjczMjMzNWExZTkzYzE5YmQ1YWNiNzMwZDhkNGY4MGEzZTQzNzk4OGIwZDZlMDIzOWMzZmY3NTJhYjA5ZDg" />
+  </programme>
+  <programme start="20260923130000 +0200" stop="20260923160000 +0200" channel="B1.ro@SD">
+    <title lang="sr">TV Prodaja</title>
+    <desc lang="sr">Uštedite svoje vreme tako što ćete se odlučiti za kupovinu bez stresa, gužve i žurbe, za kupovinu iz fotelje!</desc>
+    <category lang="sr">Info</category>
+    <icon src="https://mediasb2c.mts.rs/medias/5-9f3c1f828fa44d7a94db1c36771f18fa.jpg?context=bWFzdGVyfHJvb3R8Mjk3NjZ8aW1hZ2UvanBlZ3xhR0l5TDJobE9DODJPREk1T1RBMU5UQXpPRFE1TkM4MVh6bG1NMk14WmpneU9HWmhORFJrTjJFNU5HUmlNV016TmpjM01XWXhPR1poTG1wd1p3fDg2NzFhMjZmYjlhNGRlYzJlYTYyYTIyODNkYzYzOWY1MzdjODkwMTI1ZjBjNGM5YzcxMjBhYjFlY2VhMmZjYzY" />
+  </programme>
+  <programme start="20260923160000 +0200" stop="20260923170000 +0200" channel="B1.ro@SD">
+    <title lang="sr">Moda XXl</title>
+    <desc lang="sr">Teleshop moda XXXL, televizijska prodaja odeće u najvećim konfekcijskim brojevima, i izuzetnog izgleda. Kvalitetom, dizajnom i vrlo povoljnim cenama ne ostavljamo nijednog kupca nezadovoljnog.</desc>
+    <category lang="sr">Info</category>
+    <icon src="https://mediasb2c.mts.rs/medias/5-9c761a731ba743b597dbe87ebc78b88b.jpg?context=bWFzdGVyfHJvb3R8MzE2NTV8aW1hZ2UvanBlZ3xhREl5TDJobVppODJPREk1T1RBNE5EVXlPVFk1TkM4MVh6bGpOell4WVRjek1XSmhOelF6WWpVNU4yUmlaVGczWldKak56aGlPRGhpTG1wd1p3fGQ4NjZkNTU0NTVjYzczMWVkNWJiMmQzYWViNzA3YzZiMTBjZTdiZTE0ZGYwMmRiYTExMWJkZTcwMjNkY2Y2OGE" />
+  </programme>
+  <programme start="20260923170000 +0200" stop="20260923210000 +0200" channel="B1.ro@SD">
+    <title lang="sr">TV Prodaja</title>
+    <desc lang="sr">Uštedite svoje vreme tako što ćete se odlučiti za kupovinu bez stresa, gužve i žurbe, za kupovinu iz fotelje!</desc>
+    <category lang="sr">Info</category>
+    <icon src="https://mediasb2c.mts.rs/medias/5-9f3c1f828fa44d7a94db1c36771f18fa.jpg?context=bWFzdGVyfHJvb3R8Mjk3NjZ8aW1hZ2UvanBlZ3xhR0l5TDJobE9DODJPREk1T1RBMU5UQXpPRFE1TkM4MVh6bG1NMk14WmpneU9HWmhORFJrTjJFNU5HUmlNV016TmpjM01XWXhPR1poTG1wd1p3fDg2NzFhMjZmYjlhNGRlYzJlYTYyYTIyODNkYzYzOWY1MzdjODkwMTI1ZjBjNGM5YzcxMjBhYjFlY2VhMmZjYzY" />
+  </programme>
+  <programme start="20260923210000 +0200" stop="20260923220000 +0200" channel="B1.ro@SD">
+    <title lang="sr">Aksesoari</title>
+    <desc lang="sr">TV Shop, onlajn prodavnica i kataloška prodaja: po povoljnim cenama AKSESOARI, korisne sitnice i modni dodaci, koji će upotpuniti Vaš izgled.</desc>
+    <category lang="sr">Info</category>
+    <icon src="https://mediasb2c.mts.rs/medias/5-2f817715aea24d86aa26b7db86702875.jpg?context=bWFzdGVyfHJvb3R8MzM0MTl8aW1hZ2UvanBlZ3xhR1V6TDJobVppODJPREk1T1RBNE5EVTVOVEl6TUM4MVh6Sm1PREUzTnpFMVlXVmhNalJrT0RaaFlUSTJZamRrWWpnMk56QXlPRGMxTG1wd1p3fDgxYjZkNjI0ZGQ0OTYyNmRhMjhlZGJiMTM1MGY5YmQ5NzA4MGJiZDI1YTliMmZjYTM5YmYxNTNjNzE1YzY0MWE" />
+  </programme>
+  <programme start="20260923220000 +0200" stop="20260924000000 +0200" channel="B1.ro@SD">
+    <title lang="sr">TV Prodaja</title>
+    <desc lang="sr">Uštedite svoje vreme tako što ćete se odlučiti za kupovinu bez stresa, gužve i žurbe, za kupovinu iz fotelje!</desc>
+    <category lang="sr">Info</category>
+    <icon src="https://mediasb2c.mts.rs/medias/5-9f3c1f828fa44d7a94db1c36771f18fa.jpg?context=bWFzdGVyfHJvb3R8Mjk3NjZ8aW1hZ2UvanBlZ3xhR0l5TDJobE9DODJPREk1T1RBMU5UQXpPRFE1TkM4MVh6bG1NMk14WmpneU9HWmhORFJrTjJFNU5HUmlNV016TmpjM01XWXhPR1poTG1wd1p3fDg2NzFhMjZmYjlhNGRlYzJlYTYyYTIyODNkYzYzOWY1MzdjODkwMTI1ZjBjNGM5YzcxMjBhYjFlY2VhMmZjYzY" />
+  </programme>
+  <programme start="20260924000000 +0200" stop="20260924010000 +0200" channel="B1.ro@SD">
+    <title lang="sr">Moda XXl</title>
+    <desc lang="sr">Teleshop moda XXXL, televizijska prodaja odeće u najvećim konfekcijskim brojevima, i izuzetnog izgleda. Kvalitetom, dizajnom i vrlo povoljnim cenama ne ostavljamo nijednog kupca nezadovoljnog.</desc>
+    <category lang="sr">Info</category>
+    <icon src="https://mediasb2c.mts.rs/medias/5-9c761a731ba743b597dbe87ebc78b88b.jpg?context=bWFzdGVyfHJvb3R8MzE2NTV8aW1hZ2UvanBlZ3xhREl5TDJobVppODJPREk1T1RBNE5EVXlPVFk1TkM4MVh6bGpOell4WVRjek1XSmhOelF6WWpVNU4yUmlaVGczWldKak56aGlPRGhpTG1wd1p3fGQ4NjZkNTU0NTVjYzczMWVkNWJiMmQzYWViNzA3YzZiMTBjZTdiZTE0ZGYwMmRiYTExMWJkZTcwMjNkY2Y2OGE" />
+  </programme>
+  <programme start="20260924010000 +0200" stop="20260924030000 +0200" channel="B1.ro@SD">
+    <title lang="sr">Lepota i zdravlje</title>
+    <desc lang="sr">Teleshop lepota i zdravlje, nudimo širok asortiman proizvoda za zdravo i negovano telo, za tretman lica, za zdravu i bujnu kosu, za lepe i negovane nokte... I ne samo bogatu ponudu kozmetičkih proizvoda, nego i raznovrsne proizvode za zdravlje, sve po povoljnim cenama.</desc>
+    <category lang="sr">Zdravlje i medicina</category>
+    <icon src="https://mediasb2c.mts.rs/medias/5-17f913c9c51c4cf5b90aa612465871a8.jpg?context=bWFzdGVyfHJvb3R8NDI3NzJ8aW1hZ2UvanBlZ3xhRGRpTDJobVl5ODJPREk1T1RBNE5EUTVOamt5Tmk4MVh6RTNaamt4TTJNNVl6VXhZelJqWmpWaU9UQmhZVFl4TWpRMk5UZzNNV0U0TG1wd1p3fGJhNDJmMzMzMGZlMzNlNjZjMWFkMmY0ZjdiZTMzZmY1ZjA1N2MyNmI0NTVmMDBmZTUzMWQwY2FmOTljZmQzMTM" />
+  </programme>
+  <programme start="20260924030000 +0200" stop="20260924050000 +0200" channel="B1.ro@SD">
+    <title lang="sr">Hot shop</title>
+    <desc lang="sr">Hot Shop online prodavnica i kataloška prodaja! Kupujte online u Hot Shop online prodavnici ili putem kataloške prodaje!</desc>
+    <category lang="sr">Info</category>
+    <icon src="https://mediasb2c.mts.rs/medias/5-48faaac1eb3746528750721f8ae7b8d6.jpg?context=bWFzdGVyfHJvb3R8Mjk2Njl8aW1hZ2UvanBlZ3xhRFkxTDJobU9DODJPREk1T1RBNE5ETXpNekE0Tmk4MVh6UTRabUZoWVdNeFpXSXpOelEyTlRJNE56VXdOekl4WmpoaFpUZGlPR1EyTG1wd1p3fGI5YzQ0MTk5ZjI4ODI2NmU4MmQ1NjA5ZjkwNWFjZmRlYzRiYzUyNTBkZGE3MWNlZTA2NzgwZDYxZWNmNzBjYTU" />
+  </programme>
+  <programme start="20260924050000 +0200" stop="20260924080000 +0200" channel="B1.ro@SD">
+    <title lang="sr">Moda</title>
+    <category lang="sr">Info</category>
+    <icon src="https://mediasb2c.mts.rs/medias/5-608f59a9014446b4b56e64ec30b7511b.jpg?context=bWFzdGVyfHJvb3R8MzE0Mzl8aW1hZ2UvanBlZ3xhR0ppTDJobU9DODJPREk1T1RBNE5ETTJOVGcxTkM4MVh6WXdPR1kxT1dFNU1ERTBORFEyWWpSaU5UWmxOalJsWXpNd1lqYzFNVEZpTG1wd1p3fDRmZDU2NWEwZWVhYjQ2ZmZjYjZiMTVlZGEyYTM5ZmE3MjE4ZWQ2NzViNDY1OWIyM2FmMDgzMTNmMGVjMTk2MDk" />
+  </programme>
+  <programme start="20260924080000 +0200" stop="20260924090000 +0200" channel="B1.ro@SD">
+    <title lang="sr">Jutarnji program</title>
+    <category lang="sr">Info</category>
+    <icon src="https://mediasb2c.mts.rs/medias/5-b02adc594c024f608f0da4648d46fef4.jpg?context=bWFzdGVyfHJvb3R8NDYwNTh8aW1hZ2UvanBlZ3xhREV6TDJobU9TODJPREk1T1RBNE5ETTVPRFl5TWk4MVgySXdNbUZrWXpVNU5HTXdNalJtTmpBNFpqQmtZVFEyTkRoa05EWm1aV1kwTG1wd1p3fDE5MmI0N2JlNjM1Yjc2OTY3YWU3NGRlMGQ0ZWNjMTA5NjNmMzg1NjZjMmYyNWUzODMyOTU2Y2FlMGZiNDA3MjA" />
+  </programme>
+  <programme start="20260924090000 +0200" stop="20260924092500 +0200" channel="B1.ro@SD">
+    <title lang="sr">Jutarnji program</title>
+    <category lang="sr">Info</category>
+    <icon src="https://mediasb2c.mts.rs/medias/5-b02adc594c024f608f0da4648d46fef4.jpg?context=bWFzdGVyfHJvb3R8NDYwNTh8aW1hZ2UvanBlZ3xhREV6TDJobU9TODJPREk1T1RBNE5ETTVPRFl5TWk4MVgySXdNbUZrWXpVNU5HTXdNalJtTmpBNFpqQmtZVFEyTkRoa05EWm1aV1kwTG1wd1p3fDE5MmI0N2JlNjM1Yjc2OTY3YWU3NGRlMGQ0ZWNjMTA5NjNmMzg1NjZjMmYyNWUzODMyOTU2Y2FlMGZiNDA3MjA" />
+  </programme>
+  <programme start="20260924092500 +0200" stop="20260924094000 +0200" channel="B1.ro@SD">
+    <title lang="sr">Ponuda dana</title>
+    <desc lang="sr">Pogledajte aktuelnu ponudu dana i kupite preko telefona.</desc>
+    <category lang="sr">Info</category>
+    <icon src="https://mediasb2c.mts.rs/medias/5-a8838d53b4bb4f5393c50c7319954011.jpg?context=bWFzdGVyfHJvb3R8MzM4NjB8aW1hZ2UvanBlZ3xhR05rTDJobVlpODJPREk1T1RBNE5EUXpNVE01TUM4MVgyRTRPRE00WkRVellqUmlZalJtTlRNNU0yTTFNR00zTXpFNU9UVTBNREV4TG1wd1p3fDhjOGJlZDM4ODFjZjU3ZjBkYjg3MGM1Mzg3NDM2ODBlOTk5MTcxMzdlMDMyN2E1YTkwZWFjMjRmMzM5YWY0ZWE" />
+  </programme>
+  <programme start="20260924094000 +0200" stop="20260924100000 +0200" channel="B1.ro@SD">
+    <title lang="sr">Zabavni program</title>
+    <desc lang="sr">Opustite se i uživajte uz zabavni program naše televizije.</desc>
+    <category lang="sr">Zabavni program</category>
+    <icon src="https://mediasb2c.mts.rs/medias/5-66c545ae5041431697ee930820efb9fd.jpg?context=bWFzdGVyfHJvb3R8NDc0ODR8aW1hZ2UvanBlZ3xhREkwTDJobVl5ODJPREk1T1RBNE5EUTJOREUxT0M4MVh6WTJZelUwTldGbE5UQTBNVFF6TVRZNU4yVmxPVE13T0RJd1pXWmlPV1prTG1wd1p3fGU2ZTc2NWIwN2I4ZTQwZGYzZmMwNTVkNWJlNjYwYmNiMjJhYzI2MTlkZGM5MzBiZDZmNTg1ZDBmNThmZTg1YTU" />
+  </programme>
+  <programme start="20260924100000 +0200" stop="20260924104000 +0200" channel="B1.ro@SD">
+    <title lang="sr">Lepota i zdravlje</title>
+    <desc lang="sr">Teleshop lepota i zdravlje, nudimo širok asortiman proizvoda za zdravo i negovano telo, za tretman lica, za zdravu i bujnu kosu, za lepe i negovane nokte... I ne samo bogatu ponudu kozmetičkih proizvoda, nego i raznovrsne proizvode za zdravlje, sve po povoljnim cenama.</desc>
+    <category lang="sr">Zdravlje i medicina</category>
+    <icon src="https://mediasb2c.mts.rs/medias/5-17f913c9c51c4cf5b90aa612465871a8.jpg?context=bWFzdGVyfHJvb3R8NDI3NzJ8aW1hZ2UvanBlZ3xhRGRpTDJobVl5ODJPREk1T1RBNE5EUTVOamt5Tmk4MVh6RTNaamt4TTJNNVl6VXhZelJqWmpWaU9UQmhZVFl4TWpRMk5UZzNNV0U0TG1wd1p3fGJhNDJmMzMzMGZlMzNlNjZjMWFkMmY0ZjdiZTMzZmY1ZjA1N2MyNmI0NTVmMDBmZTUzMWQwY2FmOTljZmQzMTM" />
+  </programme>
+  <programme start="20260924104000 +0200" stop="20260924105500 +0200" channel="B1.ro@SD">
+    <title lang="sr">Zabavni program</title>
+    <desc lang="sr">Opustite se i uživajte uz zabavni program naše televizije.</desc>
+    <category lang="sr">Zabavni program</category>
+    <icon src="https://mediasb2c.mts.rs/medias/5-66c545ae5041431697ee930820efb9fd.jpg?context=bWFzdGVyfHJvb3R8NDc0ODR8aW1hZ2UvanBlZ3xhREkwTDJobVl5ODJPREk1T1RBNE5EUTJOREUxT0M4MVh6WTJZelUwTldGbE5UQTBNVFF6TVRZNU4yVmxPVE13T0RJd1pXWmlPV1prTG1wd1p3fGU2ZTc2NWIwN2I4ZTQwZGYzZmMwNTVkNWJlNjYwYmNiMjJhYzI2MTlkZGM5MzBiZDZmNTg1ZDBmNThmZTg1YTU" />
+  </programme>
+  <programme start="20260924105500 +0200" stop="20260924110000 +0200" channel="B1.ro@SD">
+    <title lang="sr">Marketing</title>
+    <category lang="sr">Info</category>
+    <icon src="https://mediasb2c.mts.rs/medias/5-90a2dd28e3a04505ae42e9161ef67bb1.jpg?context=bWFzdGVyfHJvb3R8NDEyMzZ8aW1hZ2UvanBlZ3xhR1kxTDJnNE9TODJPREk1T1RBek9ERXpNREl3Tmk4MVh6a3dZVEprWkRJNFpUTmhNRFExTURWaFpUUXlaVGt4TmpGbFpqWTNZbUl4TG1wd1p3fDMyNjczMjMzNWExZTkzYzE5YmQ1YWNiNzMwZDhkNGY4MGEzZTQzNzk4OGIwZDZlMDIzOWMzZmY3NTJhYjA5ZDg" />
+  </programme>
+  <programme start="20260924110000 +0200" stop="20260924114000 +0200" channel="B1.ro@SD">
+    <title lang="sr">Moda XXl</title>
+    <desc lang="sr">Teleshop moda XXXL, televizijska prodaja odeće u najvećim konfekcijskim brojevima, i izuzetnog izgleda. Kvalitetom, dizajnom i vrlo povoljnim cenama ne ostavljamo nijednog kupca nezadovoljnog.</desc>
+    <category lang="sr">Info</category>
+    <icon src="https://mediasb2c.mts.rs/medias/5-9c761a731ba743b597dbe87ebc78b88b.jpg?context=bWFzdGVyfHJvb3R8MzE2NTV8aW1hZ2UvanBlZ3xhREl5TDJobVppODJPREk1T1RBNE5EVXlPVFk1TkM4MVh6bGpOell4WVRjek1XSmhOelF6WWpVNU4yUmlaVGczWldKak56aGlPRGhpTG1wd1p3fGQ4NjZkNTU0NTVjYzczMWVkNWJiMmQzYWViNzA3YzZiMTBjZTdiZTE0ZGYwMmRiYTExMWJkZTcwMjNkY2Y2OGE" />
+  </programme>
+  <programme start="20260924114000 +0200" stop="20260924115500 +0200" channel="B1.ro@SD">
+    <title lang="sr">Putujte sa nama</title>
+    <desc lang="sr">Pođite sa nama na najrazličitija mesta na svetu! Slikom vas vodimo u najlepše predele i u najzanimljivije gradove na planeti. Upoznajmo zajedno običaje, kulturu, arhitekturu i druge znamenitosti mnogih destinacija.</desc>
+    <category lang="sr">Priroda i putovanja</category>
+    <icon src="https://mediasb2c.mts.rs/medias/5-aad7008fb83d4d65a08751a8c5d5ad03.jpg?context=bWFzdGVyfHJvb3R8NjI5NjB8aW1hZ2UvanBlZ3xhRFJtTDJnNE9TODJPREk1T1RBNE5Ua3pPRGN4T0M4MVgyRmhaRGN3TURobVlqZ3paRFJrTmpWaE1EZzNOVEZoT0dNMVpEVmhaREF6TG1wd1p3fDczNmVmYmYwYWIxZjQ3ZjVlOWM4MWM2YTEyMTFmYWJkZGUwNDUzNTYzNjlkOGNmMGUwODA4NTBiNWU0ZmM4YTU" />
+  </programme>
+  <programme start="20260924115500 +0200" stop="20260924120000 +0200" channel="B1.ro@SD">
+    <title lang="sr">Marketing</title>
+    <category lang="sr">Info</category>
+    <icon src="https://mediasb2c.mts.rs/medias/5-90a2dd28e3a04505ae42e9161ef67bb1.jpg?context=bWFzdGVyfHJvb3R8NDEyMzZ8aW1hZ2UvanBlZ3xhR1kxTDJnNE9TODJPREk1T1RBek9ERXpNREl3Tmk4MVh6a3dZVEprWkRJNFpUTmhNRFExTURWaFpUUXlaVGt4TmpGbFpqWTNZbUl4TG1wd1p3fDMyNjczMjMzNWExZTkzYzE5YmQ1YWNiNzMwZDhkNGY4MGEzZTQzNzk4OGIwZDZlMDIzOWMzZmY3NTJhYjA5ZDg" />
+  </programme>
+  <programme start="20260924120000 +0200" stop="20260924124000 +0200" channel="B1.ro@SD">
+    <title lang="sr">Teleshop Akcija</title>
+    <desc lang="sr">Teleshop prodaja sprava i proizvoda za Vas i Vašu kuću, samo danas SVE NA AKCIJI! Ne propustite ovu priliku da povoljno kupite!</desc>
+    <category lang="sr">Info</category>
+    <icon src="https://mediasb2c.mts.rs/medias/5-dc4a716c65ab44488e1ca23cc61f718f.jpg?context=bWFzdGVyfHJvb3R8MzAyMDV8aW1hZ2UvanBlZ3xhRGhqTDJobVppODJPREk1T1RBNE5EVTJNalEyTWk4MVgyUmpOR0UzTVRaak5qVmhZalEwTkRnNFpURmpZVEl6WTJNMk1XWTNNVGhtTG1wd1p3fGRiODMzMzg3MjNkZTU3MjVjNGE4NWI4ZTUzMWZiMjgwYzBlMTU4ZDNhZTAyM2NmNjU4ZTVlNjhkNzlmZGQ4Mjk" />
+  </programme>
+  <programme start="20260924124000 +0200" stop="20260924125500 +0200" channel="B1.ro@SD">
+    <title lang="sr">Zabavni program</title>
+    <desc lang="sr">Opustite se i uživajte uz zabavni program naše televizije.</desc>
+    <category lang="sr">Zabavni program</category>
+    <icon src="https://mediasb2c.mts.rs/medias/5-66c545ae5041431697ee930820efb9fd.jpg?context=bWFzdGVyfHJvb3R8NDc0ODR8aW1hZ2UvanBlZ3xhREkwTDJobVl5ODJPREk1T1RBNE5EUTJOREUxT0M4MVh6WTJZelUwTldGbE5UQTBNVFF6TVRZNU4yVmxPVE13T0RJd1pXWmlPV1prTG1wd1p3fGU2ZTc2NWIwN2I4ZTQwZGYzZmMwNTVkNWJlNjYwYmNiMjJhYzI2MTlkZGM5MzBiZDZmNTg1ZDBmNThmZTg1YTU" />
+  </programme>
+  <programme start="20260924125500 +0200" stop="20260924130000 +0200" channel="B1.ro@SD">
+    <title lang="sr">Marketing</title>
+    <category lang="sr">Info</category>
+    <icon src="https://mediasb2c.mts.rs/medias/5-90a2dd28e3a04505ae42e9161ef67bb1.jpg?context=bWFzdGVyfHJvb3R8NDEyMzZ8aW1hZ2UvanBlZ3xhR1kxTDJnNE9TODJPREk1T1RBek9ERXpNREl3Tmk4MVh6a3dZVEprWkRJNFpUTmhNRFExTURWaFpUUXlaVGt4TmpGbFpqWTNZbUl4TG1wd1p3fDMyNjczMjMzNWExZTkzYzE5YmQ1YWNiNzMwZDhkNGY4MGEzZTQzNzk4OGIwZDZlMDIzOWMzZmY3NTJhYjA5ZDg" />
+  </programme>
+  <programme start="20260924130000 +0200" stop="20260924160000 +0200" channel="B1.ro@SD">
+    <title lang="sr">TV Prodaja</title>
+    <desc lang="sr">Uštedite svoje vreme tako što ćete se odlučiti za kupovinu bez stresa, gužve i žurbe, za kupovinu iz fotelje!</desc>
+    <category lang="sr">Info</category>
+    <icon src="https://mediasb2c.mts.rs/medias/5-9f3c1f828fa44d7a94db1c36771f18fa.jpg?context=bWFzdGVyfHJvb3R8Mjk3NjZ8aW1hZ2UvanBlZ3xhR0l5TDJobE9DODJPREk1T1RBMU5UQXpPRFE1TkM4MVh6bG1NMk14WmpneU9HWmhORFJrTjJFNU5HUmlNV016TmpjM01XWXhPR1poTG1wd1p3fDg2NzFhMjZmYjlhNGRlYzJlYTYyYTIyODNkYzYzOWY1MzdjODkwMTI1ZjBjNGM5YzcxMjBhYjFlY2VhMmZjYzY" />
+  </programme>
+  <programme start="20260924160000 +0200" stop="20260924170000 +0200" channel="B1.ro@SD">
+    <title lang="sr">Moda XXl</title>
+    <desc lang="sr">Teleshop moda XXXL, televizijska prodaja odeće u najvećim konfekcijskim brojevima, i izuzetnog izgleda. Kvalitetom, dizajnom i vrlo povoljnim cenama ne ostavljamo nijednog kupca nezadovoljnog.</desc>
+    <category lang="sr">Info</category>
+    <icon src="https://mediasb2c.mts.rs/medias/5-9c761a731ba743b597dbe87ebc78b88b.jpg?context=bWFzdGVyfHJvb3R8MzE2NTV8aW1hZ2UvanBlZ3xhREl5TDJobVppODJPREk1T1RBNE5EVXlPVFk1TkM4MVh6bGpOell4WVRjek1XSmhOelF6WWpVNU4yUmlaVGczWldKak56aGlPRGhpTG1wd1p3fGQ4NjZkNTU0NTVjYzczMWVkNWJiMmQzYWViNzA3YzZiMTBjZTdiZTE0ZGYwMmRiYTExMWJkZTcwMjNkY2Y2OGE" />
+  </programme>
+  <programme start="20260924170000 +0200" stop="20260924210000 +0200" channel="B1.ro@SD">
+    <title lang="sr">TV Prodaja</title>
+    <desc lang="sr">Uštedite svoje vreme tako što ćete se odlučiti za kupovinu bez stresa, gužve i žurbe, za kupovinu iz fotelje!</desc>
+    <category lang="sr">Info</category>
+    <icon src="https://mediasb2c.mts.rs/medias/5-9f3c1f828fa44d7a94db1c36771f18fa.jpg?context=bWFzdGVyfHJvb3R8Mjk3NjZ8aW1hZ2UvanBlZ3xhR0l5TDJobE9DODJPREk1T1RBMU5UQXpPRFE1TkM4MVh6bG1NMk14WmpneU9HWmhORFJrTjJFNU5HUmlNV016TmpjM01XWXhPR1poTG1wd1p3fDg2NzFhMjZmYjlhNGRlYzJlYTYyYTIyODNkYzYzOWY1MzdjODkwMTI1ZjBjNGM5YzcxMjBhYjFlY2VhMmZjYzY" />
+  </programme>
+  <programme start="20260924210000 +0200" stop="20260924220000 +0200" channel="B1.ro@SD">
+    <title lang="sr">Aksesoari</title>
+    <desc lang="sr">TV Shop, onlajn prodavnica i kataloška prodaja: po povoljnim cenama AKSESOARI, korisne sitnice i modni dodaci, koji će upotpuniti Vaš izgled.</desc>
+    <category lang="sr">Info</category>
+    <icon src="https://mediasb2c.mts.rs/medias/5-2f817715aea24d86aa26b7db86702875.jpg?context=bWFzdGVyfHJvb3R8MzM0MTl8aW1hZ2UvanBlZ3xhR1V6TDJobVppODJPREk1T1RBNE5EVTVOVEl6TUM4MVh6Sm1PREUzTnpFMVlXVmhNalJrT0RaaFlUSTJZamRrWWpnMk56QXlPRGMxTG1wd1p3fDgxYjZkNjI0ZGQ0OTYyNmRhMjhlZGJiMTM1MGY5YmQ5NzA4MGJiZDI1YTliMmZjYTM5YmYxNTNjNzE1YzY0MWE" />
+  </programme>
+  <programme start="20260924220000 +0200" stop="20260925000000 +0200" channel="B1.ro@SD">
+    <title lang="sr">TV Prodaja</title>
+    <desc lang="sr">Uštedite svoje vreme tako što ćete se odlučiti za kupovinu bez stresa, gužve i žurbe, za kupovinu iz fotelje!</desc>
+    <category lang="sr">Info</category>
+    <icon src="https://mediasb2c.mts.rs/medias/5-9f3c1f828fa44d7a94db1c36771f18fa.jpg?context=bWFzdGVyfHJvb3R8Mjk3NjZ8aW1hZ2UvanBlZ3xhR0l5TDJobE9DODJPREk1T1RBMU5UQXpPRFE1TkM4MVh6bG1NMk14WmpneU9HWmhORFJrTjJFNU5HUmlNV016TmpjM01XWXhPR1poTG1wd1p3fDg2NzFhMjZmYjlhNGRlYzJlYTYyYTIyODNkYzYzOWY1MzdjODkwMTI1ZjBjNGM5YzcxMjBhYjFlY2VhMmZjYzY" />
+  </programme>
+  <programme start="20260925000000 +0200" stop="20260925010000 +0200" channel="B1.ro@SD">
+    <title lang="sr">Moda XXl</title>
+    <desc lang="sr">Teleshop moda XXXL, televizijska prodaja odeće u najvećim konfekcijskim brojevima, i izuzetnog izgleda. Kvalitetom, dizajnom i vrlo povoljnim cenama ne ostavljamo nijednog kupca nezadovoljnog.</desc>
+    <category lang="sr">Info</category>
+    <icon src="https://mediasb2c.mts.rs/medias/5-9c761a731ba743b597dbe87ebc78b88b.jpg?context=bWFzdGVyfHJvb3R8MzE2NTV8aW1hZ2UvanBlZ3xhREl5TDJobVppODJPREk1T1RBNE5EVXlPVFk1TkM4MVh6bGpOell4WVRjek1XSmhOelF6WWpVNU4yUmlaVGczWldKak56aGlPRGhpTG1wd1p3fGQ4NjZkNTU0NTVjYzczMWVkNWJiMmQzYWViNzA3YzZiMTBjZTdiZTE0ZGYwMmRiYTExMWJkZTcwMjNkY2Y2OGE" />
+  </programme>
+  <programme start="20260925010000 +0200" stop="20260925030000 +0200" channel="B1.ro@SD">
+    <title lang="sr">Lepota i zdravlje</title>
+    <desc lang="sr">Teleshop lepota i zdravlje, nudimo širok asortiman proizvoda za zdravo i negovano telo, za tretman lica, za zdravu i bujnu kosu, za lepe i negovane nokte... I ne samo bogatu ponudu kozmetičkih proizvoda, nego i raznovrsne proizvode za zdravlje, sve po povoljnim cenama.</desc>
+    <category lang="sr">Zdravlje i medicina</category>
+    <icon src="https://mediasb2c.mts.rs/medias/5-17f913c9c51c4cf5b90aa612465871a8.jpg?context=bWFzdGVyfHJvb3R8NDI3NzJ8aW1hZ2UvanBlZ3xhRGRpTDJobVl5ODJPREk1T1RBNE5EUTVOamt5Tmk4MVh6RTNaamt4TTJNNVl6VXhZelJqWmpWaU9UQmhZVFl4TWpRMk5UZzNNV0U0TG1wd1p3fGJhNDJmMzMzMGZlMzNlNjZjMWFkMmY0ZjdiZTMzZmY1ZjA1N2MyNmI0NTVmMDBmZTUzMWQwY2FmOTljZmQzMTM" />
+  </programme>
+  <programme start="20260925030000 +0200" stop="20260925050000 +0200" channel="B1.ro@SD">
+    <title lang="sr">Hot shop</title>
+    <desc lang="sr">Hot Shop online prodavnica i kataloška prodaja! Kupujte online u Hot Shop online prodavnici ili putem kataloške prodaje!</desc>
+    <category lang="sr">Info</category>
+    <icon src="https://mediasb2c.mts.rs/medias/5-48faaac1eb3746528750721f8ae7b8d6.jpg?context=bWFzdGVyfHJvb3R8Mjk2Njl8aW1hZ2UvanBlZ3xhRFkxTDJobU9DODJPREk1T1RBNE5ETXpNekE0Tmk4MVh6UTRabUZoWVdNeFpXSXpOelEyTlRJNE56VXdOekl4WmpoaFpUZGlPR1EyTG1wd1p3fGI5YzQ0MTk5ZjI4ODI2NmU4MmQ1NjA5ZjkwNWFjZmRlYzRiYzUyNTBkZGE3MWNlZTA2NzgwZDYxZWNmNzBjYTU" />
+  </programme>
+  <programme start="20260925050000 +0200" stop="20260925080000 +0200" channel="B1.ro@SD">
+    <title lang="sr">Moda</title>
+    <category lang="sr">Info</category>
+    <icon src="https://mediasb2c.mts.rs/medias/5-608f59a9014446b4b56e64ec30b7511b.jpg?context=bWFzdGVyfHJvb3R8MzE0Mzl8aW1hZ2UvanBlZ3xhR0ppTDJobU9DODJPREk1T1RBNE5ETTJOVGcxTkM4MVh6WXdPR1kxT1dFNU1ERTBORFEyWWpSaU5UWmxOalJsWXpNd1lqYzFNVEZpTG1wd1p3fDRmZDU2NWEwZWVhYjQ2ZmZjYjZiMTVlZGEyYTM5ZmE3MjE4ZWQ2NzViNDY1OWIyM2FmMDgzMTNmMGVjMTk2MDk" />
+  </programme>
+  <programme start="20260925080000 +0200" stop="20260925090000 +0200" channel="B1.ro@SD">
+    <title lang="sr">Jutarnji program</title>
+    <category lang="sr">Info</category>
+    <icon src="https://mediasb2c.mts.rs/medias/5-b02adc594c024f608f0da4648d46fef4.jpg?context=bWFzdGVyfHJvb3R8NDYwNTh8aW1hZ2UvanBlZ3xhREV6TDJobU9TODJPREk1T1RBNE5ETTVPRFl5TWk4MVgySXdNbUZrWXpVNU5HTXdNalJtTmpBNFpqQmtZVFEyTkRoa05EWm1aV1kwTG1wd1p3fDE5MmI0N2JlNjM1Yjc2OTY3YWU3NGRlMGQ0ZWNjMTA5NjNmMzg1NjZjMmYyNWUzODMyOTU2Y2FlMGZiNDA3MjA" />
+  </programme>
+  <programme start="20260925090000 +0200" stop="20260925092500 +0200" channel="B1.ro@SD">
+    <title lang="sr">Jutarnji program</title>
+    <category lang="sr">Info</category>
+    <icon src="https://mediasb2c.mts.rs/medias/5-b02adc594c024f608f0da4648d46fef4.jpg?context=bWFzdGVyfHJvb3R8NDYwNTh8aW1hZ2UvanBlZ3xhREV6TDJobU9TODJPREk1T1RBNE5ETTVPRFl5TWk4MVgySXdNbUZrWXpVNU5HTXdNalJtTmpBNFpqQmtZVFEyTkRoa05EWm1aV1kwTG1wd1p3fDE5MmI0N2JlNjM1Yjc2OTY3YWU3NGRlMGQ0ZWNjMTA5NjNmMzg1NjZjMmYyNWUzODMyOTU2Y2FlMGZiNDA3MjA" />
+  </programme>
+  <programme start="20260925092500 +0200" stop="20260925094000 +0200" channel="B1.ro@SD">
+    <title lang="sr">Ponuda dana</title>
+    <desc lang="sr">Pogledajte aktuelnu ponudu dana i kupite preko telefona.</desc>
+    <category lang="sr">Info</category>
+    <icon src="https://mediasb2c.mts.rs/medias/5-a8838d53b4bb4f5393c50c7319954011.jpg?context=bWFzdGVyfHJvb3R8MzM4NjB8aW1hZ2UvanBlZ3xhR05rTDJobVlpODJPREk1T1RBNE5EUXpNVE01TUM4MVgyRTRPRE00WkRVellqUmlZalJtTlRNNU0yTTFNR00zTXpFNU9UVTBNREV4TG1wd1p3fDhjOGJlZDM4ODFjZjU3ZjBkYjg3MGM1Mzg3NDM2ODBlOTk5MTcxMzdlMDMyN2E1YTkwZWFjMjRmMzM5YWY0ZWE" />
+  </programme>
+  <programme start="20260925094000 +0200" stop="20260925100000 +0200" channel="B1.ro@SD">
+    <title lang="sr">Zabavni program</title>
+    <desc lang="sr">Opustite se i uživajte uz zabavni program naše televizije.</desc>
+    <category lang="sr">Zabavni program</category>
+    <icon src="https://mediasb2c.mts.rs/medias/5-66c545ae5041431697ee930820efb9fd.jpg?context=bWFzdGVyfHJvb3R8NDc0ODR8aW1hZ2UvanBlZ3xhREkwTDJobVl5ODJPREk1T1RBNE5EUTJOREUxT0M4MVh6WTJZelUwTldGbE5UQTBNVFF6TVRZNU4yVmxPVE13T0RJd1pXWmlPV1prTG1wd1p3fGU2ZTc2NWIwN2I4ZTQwZGYzZmMwNTVkNWJlNjYwYmNiMjJhYzI2MTlkZGM5MzBiZDZmNTg1ZDBmNThmZTg1YTU" />
+  </programme>
+  <programme start="20260925100000 +0200" stop="20260925104000 +0200" channel="B1.ro@SD">
+    <title lang="sr">Lepota i zdravlje</title>
+    <desc lang="sr">Teleshop lepota i zdravlje, nudimo širok asortiman proizvoda za zdravo i negovano telo, za tretman lica, za zdravu i bujnu kosu, za lepe i negovane nokte... I ne samo bogatu ponudu kozmetičkih proizvoda, nego i raznovrsne proizvode za zdravlje, sve po povoljnim cenama.</desc>
+    <category lang="sr">Zdravlje i medicina</category>
+    <icon src="https://mediasb2c.mts.rs/medias/5-17f913c9c51c4cf5b90aa612465871a8.jpg?context=bWFzdGVyfHJvb3R8NDI3NzJ8aW1hZ2UvanBlZ3xhRGRpTDJobVl5ODJPREk1T1RBNE5EUTVOamt5Tmk4MVh6RTNaamt4TTJNNVl6VXhZelJqWmpWaU9UQmhZVFl4TWpRMk5UZzNNV0U0TG1wd1p3fGJhNDJmMzMzMGZlMzNlNjZjMWFkMmY0ZjdiZTMzZmY1ZjA1N2MyNmI0NTVmMDBmZTUzMWQwY2FmOTljZmQzMTM" />
+  </programme>
+  <programme start="20260925104000 +0200" stop="20260925105500 +0200" channel="B1.ro@SD">
+    <title lang="sr">Zabavni program</title>
+    <desc lang="sr">Opustite se i uživajte uz zabavni program naše televizije.</desc>
+    <category lang="sr">Zabavni program</category>
+    <icon src="https://mediasb2c.mts.rs/medias/5-66c545ae5041431697ee930820efb9fd.jpg?context=bWFzdGVyfHJvb3R8NDc0ODR8aW1hZ2UvanBlZ3xhREkwTDJobVl5ODJPREk1T1RBNE5EUTJOREUxT0M4MVh6WTJZelUwTldGbE5UQTBNVFF6TVRZNU4yVmxPVE13T0RJd1pXWmlPV1prTG1wd1p3fGU2ZTc2NWIwN2I4ZTQwZGYzZmMwNTVkNWJlNjYwYmNiMjJhYzI2MTlkZGM5MzBiZDZmNTg1ZDBmNThmZTg1YTU" />
+  </programme>
+  <programme start="20260925105500 +0200" stop="20260925110000 +0200" channel="B1.ro@SD">
+    <title lang="sr">Marketing</title>
+    <category lang="sr">Info</category>
+    <icon src="https://mediasb2c.mts.rs/medias/5-90a2dd28e3a04505ae42e9161ef67bb1.jpg?context=bWFzdGVyfHJvb3R8NDEyMzZ8aW1hZ2UvanBlZ3xhR1kxTDJnNE9TODJPREk1T1RBek9ERXpNREl3Tmk4MVh6a3dZVEprWkRJNFpUTmhNRFExTURWaFpUUXlaVGt4TmpGbFpqWTNZbUl4TG1wd1p3fDMyNjczMjMzNWExZTkzYzE5YmQ1YWNiNzMwZDhkNGY4MGEzZTQzNzk4OGIwZDZlMDIzOWMzZmY3NTJhYjA5ZDg" />
+  </programme>
+  <programme start="20260925110000 +0200" stop="20260925114000 +0200" channel="B1.ro@SD">
+    <title lang="sr">Moda XXl</title>
+    <desc lang="sr">Teleshop moda XXXL, televizijska prodaja odeće u najvećim konfekcijskim brojevima, i izuzetnog izgleda. Kvalitetom, dizajnom i vrlo povoljnim cenama ne ostavljamo nijednog kupca nezadovoljnog.</desc>
+    <category lang="sr">Info</category>
+    <icon src="https://mediasb2c.mts.rs/medias/5-9c761a731ba743b597dbe87ebc78b88b.jpg?context=bWFzdGVyfHJvb3R8MzE2NTV8aW1hZ2UvanBlZ3xhREl5TDJobVppODJPREk1T1RBNE5EVXlPVFk1TkM4MVh6bGpOell4WVRjek1XSmhOelF6WWpVNU4yUmlaVGczWldKak56aGlPRGhpTG1wd1p3fGQ4NjZkNTU0NTVjYzczMWVkNWJiMmQzYWViNzA3YzZiMTBjZTdiZTE0ZGYwMmRiYTExMWJkZTcwMjNkY2Y2OGE" />
+  </programme>
+  <programme start="20260925114000 +0200" stop="20260925115500 +0200" channel="B1.ro@SD">
+    <title lang="sr">Putujte sa nama</title>
+    <desc lang="sr">Pođite sa nama na najrazličitija mesta na svetu! Slikom vas vodimo u najlepše predele i u najzanimljivije gradove na planeti. Upoznajmo zajedno običaje, kulturu, arhitekturu i druge znamenitosti mnogih destinacija.</desc>
+    <category lang="sr">Priroda i putovanja</category>
+    <icon src="https://mediasb2c.mts.rs/medias/5-aad7008fb83d4d65a08751a8c5d5ad03.jpg?context=bWFzdGVyfHJvb3R8NjI5NjB8aW1hZ2UvanBlZ3xhRFJtTDJnNE9TODJPREk1T1RBNE5Ua3pPRGN4T0M4MVgyRmhaRGN3TURobVlqZ3paRFJrTmpWaE1EZzNOVEZoT0dNMVpEVmhaREF6TG1wd1p3fDczNmVmYmYwYWIxZjQ3ZjVlOWM4MWM2YTEyMTFmYWJkZGUwNDUzNTYzNjlkOGNmMGUwODA4NTBiNWU0ZmM4YTU" />
+  </programme>
+  <programme start="20260925115500 +0200" stop="20260925120000 +0200" channel="B1.ro@SD">
+    <title lang="sr">Marketing</title>
+    <category lang="sr">Info</category>
+    <icon src="https://mediasb2c.mts.rs/medias/5-90a2dd28e3a04505ae42e9161ef67bb1.jpg?context=bWFzdGVyfHJvb3R8NDEyMzZ8aW1hZ2UvanBlZ3xhR1kxTDJnNE9TODJPREk1T1RBek9ERXpNREl3Tmk4MVh6a3dZVEprWkRJNFpUTmhNRFExTURWaFpUUXlaVGt4TmpGbFpqWTNZbUl4TG1wd1p3fDMyNjczMjMzNWExZTkzYzE5YmQ1YWNiNzMwZDhkNGY4MGEzZTQzNzk4OGIwZDZlMDIzOWMzZmY3NTJhYjA5ZDg" />
+  </programme>
+  <programme start="20260925120000 +0200" stop="20260925124000 +0200" channel="B1.ro@SD">
+    <title lang="sr">Teleshop Akcija</title>
+    <desc lang="sr">Teleshop prodaja sprava i proizvoda za Vas i Vašu kuću, samo danas SVE NA AKCIJI! Ne propustite ovu priliku da povoljno kupite!</desc>
+    <category lang="sr">Info</category>
+    <icon src="https://mediasb2c.mts.rs/medias/5-dc4a716c65ab44488e1ca23cc61f718f.jpg?context=bWFzdGVyfHJvb3R8MzAyMDV8aW1hZ2UvanBlZ3xhRGhqTDJobVppODJPREk1T1RBNE5EVTJNalEyTWk4MVgyUmpOR0UzTVRaak5qVmhZalEwTkRnNFpURmpZVEl6WTJNMk1XWTNNVGhtTG1wd1p3fGRiODMzMzg3MjNkZTU3MjVjNGE4NWI4ZTUzMWZiMjgwYzBlMTU4ZDNhZTAyM2NmNjU4ZTVlNjhkNzlmZGQ4Mjk" />
+  </programme>
+  <programme start="20260925124000 +0200" stop="20260925125500 +0200" channel="B1.ro@SD">
+    <title lang="sr">Zabavni program</title>
+    <desc lang="sr">Opustite se i uživajte uz zabavni program naše televizije.</desc>
+    <category lang="sr">Zabavni program</category>
+    <icon src="https://mediasb2c.mts.rs/medias/5-66c545ae5041431697ee930820efb9fd.jpg?context=bWFzdGVyfHJvb3R8NDc0ODR8aW1hZ2UvanBlZ3xhREkwTDJobVl5ODJPREk1T1RBNE5EUTJOREUxT0M4MVh6WTJZelUwTldGbE5UQTBNVFF6TVRZNU4yVmxPVE13T0RJd1pXWmlPV1prTG1wd1p3fGU2ZTc2NWIwN2I4ZTQwZGYzZmMwNTVkNWJlNjYwYmNiMjJhYzI2MTlkZGM5MzBiZDZmNTg1ZDBmNThmZTg1YTU" />
+  </programme>
+  <programme start="20260925125500 +0200" stop="20260925130000 +0200" channel="B1.ro@SD">
+    <title lang="sr">Marketing</title>
+    <category lang="sr">Info</category>
+    <icon src="https://mediasb2c.mts.rs/medias/5-90a2dd28e3a04505ae42e9161ef67bb1.jpg?context=bWFzdGVyfHJvb3R8NDEyMzZ8aW1hZ2UvanBlZ3xhR1kxTDJnNE9TODJPREk1T1RBek9ERXpNREl3Tmk4MVh6a3dZVEprWkRJNFpUTmhNRFExTURWaFpUUXlaVGt4TmpGbFpqWTNZbUl4TG1wd1p3fDMyNjczMjMzNWExZTkzYzE5YmQ1YWNiNzMwZDhkNGY4MGEzZTQzNzk4OGIwZDZlMDIzOWMzZmY3NTJhYjA5ZDg" />
+  </programme>
+  <programme start="20260925130000 +0200" stop="20260925160000 +0200" channel="B1.ro@SD">
+    <title lang="sr">TV Prodaja</title>
+    <desc lang="sr">Uštedite svoje vreme tako što ćete se odlučiti za kupovinu bez stresa, gužve i žurbe, za kupovinu iz fotelje!</desc>
+    <category lang="sr">Info</category>
+    <icon src="https://mediasb2c.mts.rs/medias/5-9f3c1f828fa44d7a94db1c36771f18fa.jpg?context=bWFzdGVyfHJvb3R8Mjk3NjZ8aW1hZ2UvanBlZ3xhR0l5TDJobE9DODJPREk1T1RBMU5UQXpPRFE1TkM4MVh6bG1NMk14WmpneU9HWmhORFJrTjJFNU5HUmlNV016TmpjM01XWXhPR1poTG1wd1p3fDg2NzFhMjZmYjlhNGRlYzJlYTYyYTIyODNkYzYzOWY1MzdjODkwMTI1ZjBjNGM5YzcxMjBhYjFlY2VhMmZjYzY" />
+  </programme>
+  <programme start="20260925160000 +0200" stop="20260925170000 +0200" channel="B1.ro@SD">
+    <title lang="sr">Moda XXl</title>
+    <desc lang="sr">Teleshop moda XXXL, televizijska prodaja odeće u najvećim konfekcijskim brojevima, i izuzetnog izgleda. Kvalitetom, dizajnom i vrlo povoljnim cenama ne ostavljamo nijednog kupca nezadovoljnog.</desc>
+    <category lang="sr">Info</category>
+    <icon src="https://mediasb2c.mts.rs/medias/5-9c761a731ba743b597dbe87ebc78b88b.jpg?context=bWFzdGVyfHJvb3R8MzE2NTV8aW1hZ2UvanBlZ3xhREl5TDJobVppODJPREk1T1RBNE5EVXlPVFk1TkM4MVh6bGpOell4WVRjek1XSmhOelF6WWpVNU4yUmlaVGczWldKak56aGlPRGhpTG1wd1p3fGQ4NjZkNTU0NTVjYzczMWVkNWJiMmQzYWViNzA3YzZiMTBjZTdiZTE0ZGYwMmRiYTExMWJkZTcwMjNkY2Y2OGE" />
+  </programme>
+  <programme start="20260925170000 +0200" stop="20260925210000 +0200" channel="B1.ro@SD">
+    <title lang="sr">TV Prodaja</title>
+    <desc lang="sr">Uštedite svoje vreme tako što ćete se odlučiti za kupovinu bez stresa, gužve i žurbe, za kupovinu iz fotelje!</desc>
+    <category lang="sr">Info</category>
+    <icon src="https://mediasb2c.mts.rs/medias/5-9f3c1f828fa44d7a94db1c36771f18fa.jpg?context=bWFzdGVyfHJvb3R8Mjk3NjZ8aW1hZ2UvanBlZ3xhR0l5TDJobE9DODJPREk1T1RBMU5UQXpPRFE1TkM4MVh6bG1NMk14WmpneU9HWmhORFJrTjJFNU5HUmlNV016TmpjM01XWXhPR1poTG1wd1p3fDg2NzFhMjZmYjlhNGRlYzJlYTYyYTIyODNkYzYzOWY1MzdjODkwMTI1ZjBjNGM5YzcxMjBhYjFlY2VhMmZjYzY" />
+  </programme>
+  <programme start="20260925210000 +0200" stop="20260925220000 +0200" channel="B1.ro@SD">
+    <title lang="sr">Aksesoari</title>
+    <desc lang="sr">TV Shop, onlajn prodavnica i kataloška prodaja: po povoljnim cenama AKSESOARI, korisne sitnice i modni dodaci, koji će upotpuniti Vaš izgled.</desc>
+    <category lang="sr">Info</category>
+    <icon src="https://mediasb2c.mts.rs/medias/5-2f817715aea24d86aa26b7db86702875.jpg?context=bWFzdGVyfHJvb3R8MzM0MTl8aW1hZ2UvanBlZ3xhR1V6TDJobVppODJPREk1T1RBNE5EVTVOVEl6TUM4MVh6Sm1PREUzTnpFMVlXVmhNalJrT0RaaFlUSTJZamRrWWpnMk56QXlPRGMxTG1wd1p3fDgxYjZkNjI0ZGQ0OTYyNmRhMjhlZGJiMTM1MGY5YmQ5NzA4MGJiZDI1YTliMmZjYTM5YmYxNTNjNzE1YzY0MWE" />
+  </programme>
+  <programme start="20260925220000 +0200" stop="20260926000000 +0200" channel="B1.ro@SD">
+    <title lang="sr">TV Prodaja</title>
+    <desc lang="sr">Uštedite svoje vreme tako što ćete se odlučiti za kupovinu bez stresa, gužve i žurbe, za kupovinu iz fotelje!</desc>
+    <category lang="sr">Info</category>
+    <icon src="https://mediasb2c.mts.rs/medias/5-9f3c1f828fa44d7a94db1c36771f18fa.jpg?context=bWFzdGVyfHJvb3R8Mjk3NjZ8aW1hZ2UvanBlZ3xhR0l5TDJobE9DODJPREk1T1RBMU5UQXpPRFE1TkM4MVh6bG1NMk14WmpneU9HWmhORFJrTjJFNU5HUmlNV016TmpjM01XWXhPR1poTG1wd1p3fDg2NzFhMjZmYjlhNGRlYzJlYTYyYTIyODNkYzYzOWY1MzdjODkwMTI1ZjBjNGM5YzcxMjBhYjFlY2VhMmZjYzY" />
   </programme>
   <programme channel="Now70s.uk@SD" start="20260921000000 +0000" stop="20260921005000 +0000">
     <title lang="en">John, Paul, George &amp; Ringo!</title>
