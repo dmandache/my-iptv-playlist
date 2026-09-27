@@ -76,10 +76,8 @@ BBC UHD 1
 BBC UHD 2
 BBC UHD 3
 BBC UHD 4
-BET Pluto TV (Germany)
 Beyond Belief: Fact or Fiction
 Blaze
-Bondi Rescue (Germany)
 Brit Asia TV
 Cagney & Lacey
 Canaf54 TV
@@ -97,7 +95,6 @@ Dog the Bounty Hunter UK
 Dog Whisperer
 Duck Dynasty
 Dunya News UK
-Dynasty (Germany) GB
 Eman Channel
 English Club TV (576i)
 ENT Channel
@@ -109,7 +106,6 @@ Faith World TV
 FBI Files
 FIFA+
 FIFA+ Women
-Funny AF (Germany)
 Garshom TV
 GB News
 Gems TV
@@ -137,7 +133,6 @@ Iqra TV
 Iran International
 Islam Channel
 ITV2
-JAG (Germany) GB
 Judge Judy (Germany)
 Kalsan TV
 Kanal Jadid
@@ -146,14 +141,11 @@ KN Music TV
 KTO
 Latest TV
 LoveWorld UK
-MacGyver (Germany) GB
 Magnavision TV
 Married with Children
-Matlock (Germany)
 MBC
 McLeod's Daughters
 Miracle TV
-Mission Impossible (Germany) GB
 Moonbug Kids
 More TV Crime
 More TV Sci-fi
@@ -169,7 +161,6 @@ MTA5 Africa
 MTA6 Asia
 MTA7 Asia
 MTA8 America
-MTV Catfish TV Show GB
 MUTV
 Mystery TV
 Mythbusters
@@ -188,27 +179,19 @@ On The Case
 Panjab TV
 Paranormal State
 Planet Fun
-Pluto TV 80's Action
-Pluto TV Action (Germany) GB
 Pluto TV Alien Invasion (Germany)
 Pluto TV American True Crime
 Pluto TV Animals GB
 Pluto TV Animation
 Pluto TV Britain at War
 Pluto TV Classic TV
-Pluto TV Comedy Movies (Germany)
 Pluto TV Conspiracy
-Pluto TV Crime Drama (Germany)
 Pluto TV Crime GB
 Pluto TV Cult Films (Germany)
-Pluto TV Drama (Germany)
 Pluto TV Family Movie Club
 Pluto TV Fantasy & Horror
 Pluto TV Food GB
-Pluto TV History (Germany) GB
-Pluto TV Horror (Germany) GB
 Pluto TV Investigation
-Pluto TV Kids (Germany) GB
 Pluto TV Movies GB
 Pluto TV Paranormal (Germany) GB
 Pluto TV PetrolHeads

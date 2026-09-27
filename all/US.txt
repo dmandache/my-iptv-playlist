@@ -129,7 +129,7 @@ Amazing Facts TV
 AMC (United States)
 AMC (United States) East
 AMC en Espanol
-America's Next Top Model (United States)
+America's Next Top Model
 America's Test Kitchen
 America's Voice
 America's Voice News
@@ -203,14 +203,14 @@ Best of Dr Phil
 BET Cinema
 BET Classics Pluto TV
 BET Comedy Movies
-BET Pluto TV (United States)
+BET Pluto TV
 BET Throwbacks
 BET Visionaries
 Better Health TV
 Better Life Nature Channel
 Better Life TV
 Beverly Hillbillies
-Beverly Hills 90210 (United States)
+Beverly Hills 90210
 Beyond the Gates
 BHTV10
 BHTV35
@@ -229,7 +229,7 @@ Bloomberg Originals
 Bloomberg TV
 Bloomberg TV Live Event
 Bloomberg TV Politics Live Event
-Blue Bloods (United States)
+Blue Bloods
 BMC-HD TV
 bon appetit
 Bonanza
@@ -327,6 +327,7 @@ Cine Premiere
 Cine Romantico
 Cine Sony
 Cine Terror
+Cinemax Action East
 Cinemax Classics
 Cinemax Hits
 CinePride
@@ -414,14 +415,6 @@ CVC Government
 CVC Public
 CVTV Channel 192
 CVTV Channel 194
-CW KATU
-CW KCRA-TV
-CW KOMO-TV
-CW KTNV-TV
-CW KTVU
-CW WLUK-TV
-CW WMPT
-CW WXII-TV
 Cypress Channel 36
 Danger TV
 Dare To Dream Network
@@ -465,7 +458,7 @@ DraftKings Network
 Dry Bar Comedy+
 Duck Hunting TV
 Dungeon TV
-Dynasty (United States)
+Dynasty
 E! East
 E! Keeping Up
 Ebony TV by Lionsgate
@@ -551,7 +544,7 @@ FrightFlix
 FTF Sports
 Fubo Sports Network
 Fun Roads
-Funny AF (United States)
+Funny AF
 Fuse
 FX (United States)
 FX (United States) East
@@ -587,7 +580,6 @@ GoodLife 45
 Gordon Ramsay's Hell's Kitchen
 Gospel Truth TV
 GoTraveler
-GoUSA TV
 Government TV 16
 Gravitas Movies
 Great Entertainment Television
@@ -607,7 +599,7 @@ HarPal Geo
 Harvest USA
 Hasbro Legends
 HauntTV
-HBO Hits
+HBO Drama
 HBO Hits East
 HBO Movies
 HBTV
@@ -682,6 +674,7 @@ Kaloopy TV
 Kartoon Channel!
 KBEV
 KBRI-8
+KBS America
 KBSV 23.1
 KCAT
 Kentucky Educational Television WKMJ-TV
@@ -831,7 +824,7 @@ MTV Biggest Pop
 MTV en Espanol
 MTV Flow Latino
 MTV Live
-MTV Pluto TV (United States)
+MTV Pluto TV
 MTV Spankin' New
 MTV2
 Muslim Network TV
@@ -887,6 +880,8 @@ NCM Educational & Kids Channel
 NCM Government & Politics Channel
 NCM Main Channel
 NCTV79
+New Channel
+New Channel Pop!
 NEW K-POP
 NEW K.MOVIES
 News of the World Arabic
@@ -915,6 +910,7 @@ NFL Network
 NHL Network
 NHRA TV
 Nick Jr. (United States)
+Nick Jr. (United States) East
 Nick Jr. Pluto TV
 Nickelodeon (United States)
 Nickelodeon en espanol
@@ -993,7 +989,7 @@ PCTV 26
 PCTV 28
 People Are Awesome
 Peppa Pig
-Perry Mason (United States)
+Perry Mason
 PGA Tour
 PhillyCAM
 PHLgovTV
@@ -1002,24 +998,24 @@ PixL TV
 Placid
 Pluto TV Action (United States)
 Pluto TV Adventure
-Pluto TV Anime (United States)
+Pluto TV Anime
 Pluto TV Anime Movies
 Pluto TV Backcountry
 Pluto TV Cars
 Pluto TV Cine Comedia (United States)
 Pluto TV Comedy
 Pluto TV Competition
-Pluto TV Crime Drama (United States)
+Pluto TV Crime Drama
 Pluto TV Crime Movies
 Pluto TV Cult Films (United States)
 Pluto TV Dog el cazarrecompensas
-Pluto TV Drama (United States)
+Pluto TV Drama
 Pluto TV El Reino Infantil
 Pluto TV Estrellas de Accion
 Pluto TV Fantastic
 Pluto TV Franchise Favorites
 Pluto TV Game Shows
-Pluto TV History (United States)
+Pluto TV History
 Pluto TV Hometown Drama
 Pluto TV Horror (United States)
 Pluto TV Icons
@@ -1120,6 +1116,7 @@ S Corby TV
 S Free!
 S KPop!
 S Metro TV
+S Play Event
 S Premium!
 Salem News Channel
 Samsung Wildlife
@@ -1357,6 +1354,7 @@ UniMas KUVN-DT
 UniMas Mountain
 UniMas WFUT-DT
 UniMas WXTV-DT
+Universal Cinema
 Universal Comedy
 Universal Crime
 Univision

@@ -26,8 +26,6 @@ BFM Tech & Co
 BFM TV
 BFM Var
 BFM2
-Blue Bloods (Germany)
-Bob l'eponge (Germany)
 Brionnais TV
 C Star
 Caillou
@@ -35,7 +33,6 @@ Canal+ Cinemas
 Canal+ Sport 360
 Cannes Lerins TV
 Cap Terre
-Cheers (Germany) FR
 Cine 666 by Pluto TV
 Cine Action by Pluto TV
 Cine by Pluto TV
@@ -55,7 +52,6 @@ Cine+ Frisson
 Clubbing TV France
 CNews
 CNEWS PRIME
-Daria (Germany)
 DBM TV
 Detective Conan France
 Disney Jr. (France)
@@ -81,12 +77,10 @@ Gong
 Gulli
 HANDICAP TV
 Helene et les garcons
-iCarly (Germany) FR
 ILTV
 Inazuma Eleven
 Into Crime
 Investigation by Pluto TV
-JAG (Germany)
 Kozoom TV
 KTO
 LCI
@@ -99,16 +93,13 @@ Littoral FM TV
 Louis La Brocante
 M6
 M6 Music
-MacGyver (Germany)
 MDL
 Mezzo
 Mezzo Live
-Mission Impossible (Germany) FR
 Monte Carlo Digital Television
 Moselle TV
 Mr Bean Animated FR
 MTV (France)
-MTV Catfish TV Show FR
 MTV CLASSICS
 Museum TV French
 MyZen TV
@@ -130,7 +121,6 @@ Pluto TV Dating
 Pluto TV French Collection
 Pluto TV Histoire
 Pluto TV Inside
-Pluto TV Junior (Germany) FR
 Pluto TV Kids Classics FR
 Pluto TV Kids Club (Germany)
 Pluto TV Paranormal (Germany) FR

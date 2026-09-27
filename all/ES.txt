@@ -23,7 +23,6 @@ Activa TV
 Actualidad 360
 Alacanti TV
 Alcarria TV
-America's Next Top Model (Germany)
 Ana y los 7
 Andromeda
 Angel TV Spanish
@@ -33,6 +32,7 @@ Antena 3 Internacional
 Arabi TV
 Archivos Forenses
 AXN White
+BabyTV Spain
 Bailen TV
 Barca TV
 BBC Drama
@@ -64,6 +64,7 @@ Canal Parlamento
 Canal Reus TV
 Canal San Roque
 Canal Sierra de Cadiz
+Canal Sur
 Canal Sur 2
 Canal Sur Andalucia
 Canal Sur Noticias
@@ -133,7 +134,6 @@ Historia
 Historia Y Vida
 HOLA! Play
 Huelva TV
-iCarly (Germany) ES
 Imas TV
 Interalmeria TV
 Intercomarcal TV
@@ -149,7 +149,6 @@ La 8 Mediterraneo
 La Rosa de Guadalupe
 La Urban TV
 Lancelot TV
-Las Tortugas Ninja (Germany)
 Liga de Campeones por Movistar Plus+
 LiraTV
 Lleida Televisio
@@ -169,14 +168,10 @@ Mijas 3.40TV
 Mirame TV
 Molahits TV
 Mr Bean Animated ES
-MTV Catfish TV Show ES
-MTV Dating (Germany) ES
 MTV Embarazada a los 16
 MTV Geordies
 MTV Jerseys
 MTV Originals
-MTV Reality (Germany) ES
-MTV Teen Mom (Germany) ES
 MTV Verguenza ajena
 Music TV Granada
 MyTime Movie Network (Spain)
@@ -191,7 +186,6 @@ Onda Algeciras
 Onda Cadiz
 Onda Valencia TV
 One Piece Spain
-Paramount Network de Pluto TV
 Parlamento de Andalucia
 Parlamento de Navarra
 Penedes Televisio
@@ -200,14 +194,9 @@ Piera TV
 Pirineus TV
 Platzi TV
 Pluto TV Animales
-Pluto TV Anime (Germany) ES
 Pluto TV Catastrofes
-Pluto TV Cine Accion (Germany)
-Pluto TV Cine Clasico (Germany)
 Pluto TV Cine Comedia (Germany)
 Pluto TV Cine de autor
-Pluto TV Cine Drama (Germany)
-Pluto TV Cine Estelar (Germany)
 Pluto TV Cine Romantico
 Pluto TV Cocina
 Pluto TV Comedia made in Spain
@@ -216,12 +205,9 @@ Pluto TV Diseno
 Pluto TV Gasolina
 Pluto TV Gore & Slasher
 Pluto TV Historia (Germany)
-Pluto TV Horror (Germany) ES
 Pluto TV Impacto
 Pluto TV Invasion Alien
-Pluto TV Junior (Germany)
 Pluto TV K-Drama
-Pluto TV Kids (Germany)
 Pluto TV Kids Classics
 Pluto TV Melrose Place
 Pluto TV Motor (Germany)
@@ -278,6 +264,7 @@ South Park (Germany)
 South Park Version Original
 SpektraTV
 Star Trek: Voyager (Germany)
+Sundance TV
 SX3
 Tac12
 Taroteame
