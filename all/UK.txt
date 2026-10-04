@@ -82,7 +82,7 @@ Brit Asia TV
 Cagney & Lacey
 Canaf54 TV
 CBBC
-CBeebies
+CBeebies (United Kingdom)
 Channel S (United Kingdom)
 Clubbing TV UK
 CNBC UK
@@ -132,6 +132,7 @@ Iqra Bangla
 Iqra TV
 Iran International
 Islam Channel
+ITV1 London +1
 ITV2
 Judge Judy (Germany)
 Kalsan TV
@@ -232,11 +233,13 @@ Sheffield Live TV
 Sky Mix
 Sky Nature
 Sky News Weather
-Sky Sports Cricket (United Kingdom)
+Sky Sports Cricket
 So... Real UK
 South Park (Germany) GB
 Spark TV
+Star Bharat (United Kingdom)
 Star Vijay UK
+StarPlus (United Kingdom)
 Strongman UK
 Takbeer TV
 Talking Pictures TV

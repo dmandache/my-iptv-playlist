@@ -30,6 +30,7 @@ Brionnais TV
 C Star
 Caillou
 Canal+ Cinemas
+Canal+ Sport
 Canal+ Sport 360
 Cannes Lerins TV
 Cap Terre
@@ -73,6 +74,7 @@ France 5
 Francophonie24
 Frequence Novelas
 Generations TV
+Golf +
 Gong
 Gulli
 HANDICAP TV
@@ -93,6 +95,7 @@ Littoral FM TV
 Louis La Brocante
 M6
 M6 Music
+MCM Pop
 MDL
 Mezzo
 Mezzo Live
@@ -109,6 +112,7 @@ Nollywood TV
 NRJ Hits
 One Piece FR
 P2M TV
+Paris Premiere
 Pluto TV 90's Classics
 Pluto TV Animaux
 Pluto TV ANIME GO!

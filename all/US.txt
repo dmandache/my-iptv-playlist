@@ -31,16 +31,13 @@
 90s Kids TV 2
 90s Throwback
 A&E
-ABC
 ABC KAAL
-ABC KATC
 ABC KERO-TV
 ABC KGTV
 ABC KGUN-TV
 ABC KITV
 ABC KMGH-TV
 ABC KOAT-TV
-ABC KRCA
 ABC KRGV-TV
 ABC KSTP-TV
 ABC KXXV
@@ -109,7 +106,6 @@ Al Horreya TV
 Al-Fady TV
 Al-Mahdi TV
 Alabama Weather Network
-Albanian TV America
 Alhurra Iraq
 Aliento Vision
 Alkarma TV Australia
@@ -127,7 +123,6 @@ Almagd TV North America
 Always Funny Videos
 Amazing Facts TV
 AMC (United States)
-AMC (United States) East
 AMC en Espanol
 America's Next Top Model
 America's Test Kitchen
@@ -267,13 +262,9 @@ Catholic TV
 CBN Espanol
 CBN Family
 CBN News
-CBS
 CBS en espanol
 CBS KCCI
-CBS KDBC-TV
-CBS KEYE-TV
 CBS KIRO-TV
-CBS KMOV
 CBS KMTV-TV
 CBS KUTV
 CBS KWTV-DT
@@ -327,7 +318,6 @@ Cine Premiere
 Cine Romantico
 Cine Sony
 Cine Terror
-Cinemax Action East
 Cinemax Classics
 Cinemax Hits
 CinePride
@@ -369,7 +359,6 @@ CMTV
 CNBC
 Cold Case Files
 Collier TV
-Comedy Central (United States)
 Comedy Central Animation
 Comedy Central en Espanol
 Comedy Central Pluto TV
@@ -440,8 +429,8 @@ Detroit Channel 21
 Detroit Channel 22
 Detroit Channel 68
 Didgah TV
+Discovery Turbo
 Disney Channel (United States)
-Disney Channel (United States) HD East
 Disney Junior (United States)
 Disney XD (United States)
 District of Columbia Network
@@ -459,7 +448,7 @@ Dry Bar Comedy+
 Duck Hunting TV
 Dungeon TV
 Dynasty
-E! East
+E! (United States) East
 E! Keeping Up
 Ebony TV by Lionsgate
 EBS Cinema
@@ -472,8 +461,8 @@ Elevation Church Network
 Entertainment Tonight
 EntrepreneurTV
 Escambia County TV
+ESNE TV
 ESPN Deportes
-ESPNews
 ESPNU
 Estrella Games
 Estrella News
@@ -526,6 +515,7 @@ Fox (United States) WHBQ-TV
 Fox (United States) WITI
 Fox (United States) WJBK
 Fox (United States) WNYW
+Fox (United States) WSVN
 Fox (United States) WTTG
 Fox (United States) WTVT
 Fox (United States) WTXF-TV
@@ -539,15 +529,12 @@ Fox Sports 1
 Fox Weather
 Free Speech TV
 Freebie TV
-Freeform
 FrightFlix
 FTF Sports
 Fubo Sports Network
 Fun Roads
 Funny AF
 Fuse
-FX (United States)
-FX (United States) East
 G10TV
 Gagsnetwork
 Galavision East
@@ -600,7 +587,7 @@ Harvest USA
 Hasbro Legends
 HauntTV
 HBO Drama
-HBO Hits East
+HBO Hits West
 HBO Movies
 HBTV
 HCTV Educational Access Channel
@@ -706,7 +693,6 @@ La Voz de Jesus
 LA36
 Lacrosse TV
 Laff
-Laff WJLP
 Lake Havasu City 4
 LakeFront TV
 Lakewood Channel 8
@@ -722,7 +708,6 @@ Leominster TV Government
 Leominster TV Public
 Lex TV
 LGTV
-Lifetime
 Lifetime Movies
 LifevisionTV
 Lindell TV
@@ -781,7 +766,6 @@ Mega TV (United States) WSBS-TV
 Merit Street
 Metaleitor TV
 MeTV
-MeTV Toons KMBY-LD
 Midnight Pulp
 Midpen Media Center Channel 26
 Midpen Media Center Channel 28
@@ -814,7 +798,6 @@ MovieSphere Gold WFXT
 Mr Bean Animated
 MRVTV Channel 44
 MRVTV Channel 45
-MS NOW
 MSG
 MST3K
 MSTV
@@ -871,6 +854,7 @@ NBC WOAI-TV
 NBC WPTV-TV
 NBC WPXI
 NBC WRDE-LD
+NBC WTLV
 NBC WTMJ-TV
 NBC WTOV-TV
 NBC WTVJ
@@ -906,7 +890,6 @@ Newsmax Spanish
 Newsmax TV
 Newsy
 NFL Channel
-NFL Network
 NHL Network
 NHRA TV
 Nick Jr. (United States)
@@ -981,7 +964,6 @@ PBS Nature
 PBS Travel
 PBS WEDQ
 PBS WJXT
-PBS WNET
 PBS WNJT
 PCT Channel 26
 PCT Channel 27
@@ -1144,7 +1126,6 @@ Shalom America
 Shemaroo Bollywood
 Shop LC
 Shout! Factory TV
-Showtime
 Showtime Family Zone
 Sitcom Legends
 Sketchy AF
@@ -1176,7 +1157,6 @@ Star Trek: The Next Generation (United States)
 Star Trek: Voyager (United States)
 Starz Cinema
 Starz Comedy
-Starz Edge
 Starz Encore Spanish
 Starz Kids & Family
 Stingray Greatest Holiday Hits
@@ -1212,7 +1192,6 @@ TBN Ukraine
 TCT
 TED
 Teen Mom (United States)
-TeenNick (United States)
 Tele Boston
 Tele Pam
 TeleMIX
@@ -1225,6 +1204,7 @@ Telemundo Telenovelas Clasicas
 Telemundo WCAU
 Telemundo West
 Telemundo WTMO-CD
+TeleXitos
 Temecula TV
 Tempe 11
 Tennis Channel
@@ -1287,6 +1267,7 @@ TNT International
 TODAY All Day
 Tom And Jerry
 Toonami Aftermath
+Toonami Aftermath West
 ToonGoggles
 Top Stories by Newsy
 Tosh.0 (United States)
@@ -1352,6 +1333,7 @@ UniMas Central
 UniMas KFTR-DT
 UniMas KUVN-DT
 UniMas Mountain
+UniMas WAMI-DT
 UniMas WFUT-DT
 UniMas WXTV-DT
 Universal Cinema

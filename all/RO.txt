@@ -15,6 +15,7 @@ Antena International
 Antena Monden
 Antena Stars
 Arges TV
+Asia Express NonStop (576i)
 Atomic Academy TV
 Atomic TV
 AXN Black Romania
@@ -28,16 +29,21 @@ Bollywood Classic Romania
 Bollywood Film
 Boom TV
 Bucovina TV (576i)
+Chefi.ro
+CineMaraton (576i)
 Cinemaraton Plus (1080i)
 Columna TV
 Comedy Central (Romania)
 Comedy Play (576i)
 Credo TV
 Digi 24
+Digi Life (576i)
 Digi Sport 1
-Digi Sport 2
-Digi Sport 3
-Digi Sport 4
+Digi Sport 1 HD (576i)
+Digi Sport 2 HD (1080i)
+Digi Sport 3 (576i)
+Digi Sport 4 (576i)
+Digi World (576i)
 Disney Channel (Bulgaria)
 Disney Channel (Romania)
 Disney Junior (Romania)
@@ -45,16 +51,20 @@ Dotto TV
 EMI TV
 Etno TV
 Euronews Romania
+Favorit TV
 Film Cafe Romania
 Film Now
+Film Now HD (1080i)
 FILMBOX+ Comedy Romania
 FILMBOX+ Emotion Romania
 FILMBOX+ Hits Romania
 FILMBOX+ Love & Crime Romania
 FILMBOX+ One Romania
+H!t Music Channel (Romania)
 Happy Channel
 HD365 TV
 Hello Taste
+History (Romania)
 Hunedoara 1
 IasiTV Life
 Impact TV (Romania)
@@ -83,6 +93,7 @@ Mooz Dance
 Mooz Hits
 Mooz Ro!
 Muscel TV
+Music Channel
 Nasul TV
 National 24 Plus
 National Geographic (Romania)
@@ -92,24 +103,34 @@ Nickelodeon (Romania)
 Nicktoons (Romania)
 Nova TV Brasov
 Observator News
+Party Mix
 Prima News
+Prima Sport 5
 Prima TV (Romania)
 Pro Arena
+Pro Arena HD (1080i)
 Pro Cinema
 PRO TV
+PRO TV (576i)
+PRO TV International
 PROFI 24 TV
 PROTV News
 Qub TV
 Radio Fx Net
 Radio Romania 3Net
 Radio Romania Antena Satelor
+Radio Romania Oltenia-Craiova
+Radio Romania Targu Mures
+Rapsodia TV
 Realitatea Plus
 Realitatea Sportiva
 Realitatea Star (576i)
 Rock TV (Romania)
+Romania TV (576i)
 ROTV Valencia
 SperantaTV
 Super TV (Romania)
+Taraf TV
 Tele7ABC
 Tele7music (576i)
 TeleM Botosani
