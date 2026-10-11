@@ -106,7 +106,6 @@ Al Horreya TV
 Al-Fady TV
 Al-Mahdi TV
 Alabama Weather Network
-Alhurra Iraq
 Aliento Vision
 Alkarma TV Australia
 Alkarma TV Family
@@ -128,6 +127,7 @@ America's Next Top Model
 America's Test Kitchen
 America's Voice
 America's Voice News
+American Heroes Channel
 American Horrors
 Ameritrade
 AMG TV
@@ -136,6 +136,8 @@ AMP 1
 AMP 2
 Amu TV
 Anger Management Channel
+Animal Planet (United States)
+Animal Planet (United States) East
 Animation+
 Anime x HIDIVE
 Antiques Road Trip
@@ -320,6 +322,7 @@ Cine Sony
 Cine Terror
 Cinemax Classics
 Cinemax Hits
+Cinemax West
 CinePride
 Cinevault 80s
 Cinevault Westerns
@@ -357,6 +360,9 @@ CMT
 CMT Equal Play
 CMTV
 CNBC
+CNN
+CNN Chile
+CNN en Espanol
 Cold Case Files
 Collier TV
 Comedy Central Animation
@@ -370,6 +376,7 @@ CommunityTV Channel 189
 Concert Channel
 Concord TV
 Contra Costa TV
+Cooking Channel
 Cooking Panda
 Cops
 Cornerstone TV
@@ -424,11 +431,14 @@ Denver 8 TV
 DerryTV 17
 DerryTV 23
 Designated Survivor
+Destination America
 Detroit Channel 10
 Detroit Channel 21
 Detroit Channel 22
 Detroit Channel 68
 Didgah TV
+Discovery Channel (United States)
+Discovery Family
 Discovery Turbo
 Disney Channel (United States)
 Disney Junior (United States)
@@ -462,6 +472,8 @@ Entertainment Tonight
 EntrepreneurTV
 Escambia County TV
 ESNE TV
+ESPN (United States)
+ESPN 2 (United States)
 ESPN Deportes
 ESPNU
 Estrella Games
@@ -491,10 +503,9 @@ FilmRise Forensic Files
 FITE 24/7
 Flicks of Fury
 Flowers TV USA
-FMH Kids
-FMH Movies
 FNX
 FNX KVCR-DT
+Food Network (United States)
 Forensic Files
 Forever Kids
 Fox (United States)
@@ -586,8 +597,6 @@ HarPal Geo
 Harvest USA
 Hasbro Legends
 HauntTV
-HBO Drama
-HBO Hits West
 HBO Movies
 HBTV
 HCTV Educational Access Channel
@@ -602,6 +611,7 @@ His Glory TV
 History (United States)
 History Hit
 HKTV
+HLN
 HMI PROMZ NEWS
 Hmong Star TV
 Hmong TV Network
@@ -631,10 +641,10 @@ Impact Network
 Impossible Quiz Show
 In the Kitchen
 INFAST
-InfoWars
 Ink Master
 Instant Saga
 Investiga US
+Investigation Discovery (United States)
 INWILD
 ION Plus
 ION TV
@@ -661,7 +671,6 @@ Kaloopy TV
 Kartoon Channel!
 KBEV
 KBRI-8
-KBS America
 KBSV 23.1
 KCAT
 Kentucky Educational Television WKMJ-TV
@@ -745,12 +754,18 @@ Mad Dog and Merrill
 Made In Hollywood
 MagellanTV Now
 Magnificent Movies Network
+Magnolia Network
 Majestad TV
 Maria Vision USA
 Martin County TV
 Mas adrenalina
 Matlock (United States)
 Maverick Black Cinema
+Maxcine
+Maxcine 2
+Maxcine Comedy
+Maxcine Family
+Maxcine Kids
 MBC 1 USA
 MBC 3 USA
 MBC America
@@ -773,6 +788,7 @@ Midpen Media Center Channel 29
 Midpen Media Center Channel 30
 Midpen Media Center Channel 75
 Midsomer Murders
+Military History
 Ministerio La Voz De Un Remanente TV
 Mission Impossible (United States)
 Mission TV
@@ -930,7 +946,7 @@ Outlaw WGGS-TV
 Outside TV
 Overcomers TV
 Overtime
-Oxygen
+OWN
 Pac-12 Insider
 Pacific Island Network
 Palm Beaches TV
@@ -982,7 +998,6 @@ Pluto TV Action (United States)
 Pluto TV Adventure
 Pluto TV Anime
 Pluto TV Anime Movies
-Pluto TV Backcountry
 Pluto TV Cars
 Pluto TV Cine Comedia (United States)
 Pluto TV Comedy
@@ -1084,6 +1099,7 @@ Rocky Hill Channel 16
 RT en Espanol
 RTH-TV1
 RTN (United States)
+RTN Chicago
 RTR-Planeta US
 RTVi US
 Runtime
@@ -1095,11 +1111,8 @@ RVTV Prime
 RVTV Voices
 Ryan and Friends
 S Corby TV
-S Free!
-S KPop!
 S Metro TV
 S Play Event
-S Premium!
 Salem News Channel
 Samsung Wildlife
 Sanskar USA
@@ -1159,13 +1172,13 @@ Starz Cinema
 Starz Comedy
 Starz Encore Spanish
 Starz Kids & Family
+Starz West
 Stingray Greatest Holiday Hits
 Stockton Gov TV
 Stories by AMC
 Story Television KPVM-LD
 Story Television WCIU-TV
 Stryk TV
-STV (United States)
 SUMtv English
 SUMtv Latino
 Super Simple Songs
@@ -1189,9 +1202,14 @@ TBN Armenia
 TBN Inspire
 TBN Pacific
 TBN Ukraine
+TBS
+TBS West
+TCM
+TCM West
 TCT
 TED
 Teen Mom (United States)
+TeenNick (United States)
 Tele Boston
 Tele Pam
 TeleMIX
@@ -1249,6 +1267,7 @@ The Rifleman
 The Walk TV
 The Walking Dead en Espanol
 The Walking Dead Universe
+The Weather Channel
 The Wild Wild West (United States)
 The Word Network
 The Young Turks
@@ -1263,11 +1282,14 @@ TLN KQSL
 TLN Media Chicago
 TLN Media San Francisco
 TMZ
+TNT (United States)
+TNT (United States) West
 TNT International
 TODAY All Day
 Tom And Jerry
 Toonami Aftermath
 Toonami Aftermath West
+Tooncast
 ToonGoggles
 Top Stories by Newsy
 Tosh.0 (United States)
@@ -1279,6 +1301,8 @@ True Crime Network
 True Crime Network WCVB-TV
 True Crime Now
 True History
+truTV
+truTV West
 TSTV
 TUDN (United States)
 Turismo
@@ -1422,6 +1446,7 @@ WSOC Now
 Wu Tang Collection
 WVCU-LP
 WVVH-CD 18.1
+WWE Network
 WWON-TV Channel 48
 XFC TV
 XITE 90's Throwback

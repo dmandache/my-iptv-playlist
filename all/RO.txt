@@ -4,6 +4,7 @@
 A7TV
 Acasa
 Acasa Gold
+Acces Direct
 Agro TV (Romania)
 Aleph Business
 Aleph News
@@ -11,6 +12,7 @@ Alfa Omega TV
 AMC Europe Romania
 Angelus TV
 Antena 1 (Romania)
+Antena 3 CNN
 Antena International
 Antena Monden
 Antena Stars
@@ -20,7 +22,7 @@ Atomic Academy TV
 Atomic TV
 AXN Black Romania
 AXN CEE Romania
-AXN Spin
+AXN Spin (Hungary)
 AXN White
 B1
 BBC Earth Romania
@@ -30,20 +32,14 @@ Bollywood Film
 Boom TV
 Bucovina TV (576i)
 Chefi.ro
-CineMaraton (576i)
 Cinemaraton Plus (1080i)
 Columna TV
 Comedy Central (Romania)
 Comedy Play (576i)
 Credo TV
+DeParinti.ro
 Digi 24
-Digi Life (576i)
-Digi Sport 1
-Digi Sport 1 HD (576i)
 Digi Sport 2 HD (1080i)
-Digi Sport 3 (576i)
-Digi Sport 4 (576i)
-Digi World (576i)
 Disney Channel (Bulgaria)
 Disney Channel (Romania)
 Disney Junior (Romania)
@@ -52,6 +48,7 @@ EMI TV
 Etno TV
 Euronews Romania
 Favorit TV
+Favorit TV2
 Film Cafe Romania
 Film Now
 Film Now HD (1080i)
@@ -60,20 +57,24 @@ FILMBOX+ Emotion Romania
 FILMBOX+ Hits Romania
 FILMBOX+ Love & Crime Romania
 FILMBOX+ One Romania
+Formula 1 AntenaPlay
 H!t Music Channel (Romania)
 Happy Channel
 HD365 TV
 Hello Taste
-History (Romania)
 Hunedoara 1
 IasiTV Life
 Impact TV (Romania)
 Impact TV 2
 Impact TV Dance
 Impact TV Manele
+In Puii Mei
 Inedit TV
 Informatia TV
 Insula non stop (576i)
+Intermedia TV
+iRoast
+iUmor
 JOB TV
 Kanal D (Romania)
 Kanal D2 (1080i)
@@ -91,6 +92,8 @@ MISA TV
 Moldova TV
 Mooz Dance
 Mooz Hits
+Mooz Love
+Mooz Retro
 Mooz Ro!
 Muscel TV
 Music Channel
@@ -99,19 +102,18 @@ National 24 Plus
 National Geographic (Romania)
 National Geographic Wild (Romania)
 National TV
+National TV2
 Nickelodeon (Romania)
 Nicktoons (Romania)
+Nostalgia TV
 Nova TV Brasov
 Observator News
 Party Mix
 Prima News
-Prima Sport 5
 Prima TV (Romania)
 Pro Arena
-Pro Arena HD (1080i)
 Pro Cinema
 PRO TV
-PRO TV (576i)
 PRO TV International
 PROFI 24 TV
 PROTV News
@@ -120,14 +122,16 @@ Radio Fx Net
 Radio Romania 3Net
 Radio Romania Antena Satelor
 Radio Romania Oltenia-Craiova
+Radio Romania Resita
 Radio Romania Targu Mures
 Rapsodia TV
 Realitatea Plus
 Realitatea Sportiva
 Realitatea Star (576i)
 Rock TV (Romania)
-Romania TV (576i)
+Romania TV
 ROTV Valencia
+RTN Chicago
 SperantaTV
 Super TV (Romania)
 Taraf TV
@@ -139,6 +143,7 @@ Telestar1
 The Fishing & Hunting Channel
 Timeless Dizi Channel (Romania)
 Traditional TV
+TraLaLa DSN
 TraLaLa TV
 TV Buzau
 TV Paprika (Romania)
@@ -164,3 +169,5 @@ Viasat Explore (Romania)
 Viasat History (Romania)
 Viasat Kino Romania
 Viasat Nature (Romania)
+Voyo Sport 1
+VP TV

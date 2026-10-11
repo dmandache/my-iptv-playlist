@@ -29,6 +29,7 @@ BFM2
 Brionnais TV
 C Star
 Caillou
+Canal+
 Canal+ Cinemas
 Canal+ Sport
 Canal+ Sport 360
@@ -60,6 +61,7 @@ Dossiers FBI
 Emotion L
 Equidia
 Euronews French
+Europe 1 TV
 Evandis Gospel TV
 FashionTV Paris L'Original
 FashionTV Secrets
@@ -71,6 +73,7 @@ France 3 Cote d'Azur
 France 3 Lorraine
 France 4
 France 5
+Franceinfo
 Francophonie24
 Frequence Novelas
 Generations TV
@@ -86,6 +89,7 @@ Investigation by Pluto TV
 Kozoom TV
 KTO
 LCI
+LCP
 Le Figaro TV Ile-de-France
 Le miracle de l'amour
 Les Annees fac
@@ -107,7 +111,9 @@ MTV CLASSICS
 Museum TV French
 MyZen TV
 NatureTime France
+Nickelodeon (France)
 Nickelodeon Junior
+Nicktoons (France)
 Nollywood TV
 NRJ Hits
 One Piece FR
@@ -142,7 +148,6 @@ Qwest TV Jazz & Beyond
 RFM TV
 Ridiculousness (Germany)
 RMC Life
-RMC Sport 1
 RMC Story
 RT France
 RTL9

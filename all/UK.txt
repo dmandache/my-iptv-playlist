@@ -2,6 +2,7 @@
 # One channel name per line. Lines starting with # are ignored.
 # Remove channels you do not want to keep.
 5 Cops
+5USA
 Aaj Tak
 Aathavan TV
 Adventure Earth
@@ -83,6 +84,8 @@ Cagney & Lacey
 Canaf54 TV
 CBBC
 CBeebies (United Kingdom)
+Channel 4
+Channel 5 (United Kingdom)
 Channel S (United Kingdom)
 Clubbing TV UK
 CNBC UK
@@ -95,17 +98,18 @@ Dog the Bounty Hunter UK
 Dog Whisperer
 Duck Dynasty
 Dunya News UK
+E4
 Eman Channel
 English Club TV (576i)
 ENT Channel
 ENT Family
-Eurochannel
 FailArmy UK
 Faith UK
 Faith World TV
 FBI Files
 FIFA+
 FIFA+ Women
+Foodxp
 Garshom TV
 GB News
 Gems TV
@@ -132,8 +136,10 @@ Iqra Bangla
 Iqra TV
 Iran International
 Islam Channel
-ITV1 London +1
+ITV1
 ITV2
+ITV3
+ITV4
 Judge Judy (Germany)
 Kalsan TV
 Kanal Jadid
@@ -150,6 +156,7 @@ Miracle TV
 Moonbug Kids
 More TV Crime
 More TV Sci-fi
+More4
 Most Haunted
 MovieSphere UK
 Mr Bean Animated
@@ -230,14 +237,11 @@ Sanskar UK
 Scorpion (Germany)
 Sensing Murder
 Sheffield Live TV
-Sky Mix
-Sky Nature
 Sky News Weather
-Sky Sports Cricket
 So... Real UK
 South Park (Germany) GB
 Spark TV
-Star Bharat (United Kingdom)
+Star Bharat
 Star Vijay UK
 StarPlus (United Kingdom)
 Strongman UK
