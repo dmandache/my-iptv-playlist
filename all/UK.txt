@@ -19,11 +19,10 @@ Auction Hunters (Germany) GB
 Autentic History
 Autentic Travel
 Avatar (Germany)
+BabyTV
 BBC Alba
 BBC Four
 BBC Four/CBeebies
-BBC Lifestyle Asia
-BBC News
 BBC News Pashto
 BBC News UK
 BBC One
@@ -73,9 +72,6 @@ BBC Three/CBBC
 BBC Two
 BBC Two Northern Ireland
 BBC Two Wales
-BBC UHD 1
-BBC UHD 2
-BBC UHD 3
 BBC UHD 4
 Beyond Belief: Fact or Fiction
 Blaze
@@ -136,7 +132,6 @@ Iqra Bangla
 Iqra TV
 Iran International
 Islam Channel
-ITV1
 ITV2
 ITV3
 ITV4
@@ -238,6 +233,8 @@ Scorpion (Germany)
 Sensing Murder
 Sheffield Live TV
 Sky News Weather
+Sky Sports F1
+Sky Sports NFL
 So... Real UK
 South Park (Germany) GB
 Spark TV

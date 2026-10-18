@@ -32,9 +32,8 @@ Antena 3
 Antena 3 Internacional
 Arabi TV
 Archivos Forenses
-AXN (Spain)
 AXN Movies (Spain)
-AXN White
+AXN White (United States)
 Az Corazon
 Bailen TV
 Barca TV
@@ -265,7 +264,7 @@ South Park (Germany)
 South Park Version Original
 SpektraTV
 Star Trek: Voyager (Germany)
-Sundance TV
+Sundance TV (Spain)
 SX3
 Tac12
 Taroteame

@@ -88,6 +88,7 @@ Into Crime
 Investigation by Pluto TV
 Kozoom TV
 KTO
+L'Equipe
 LCI
 LCP
 Le Figaro TV Ile-de-France
@@ -113,12 +114,10 @@ MyZen TV
 NatureTime France
 Nickelodeon (France)
 Nickelodeon Junior
-Nicktoons (France)
 Nollywood TV
 NRJ Hits
 One Piece FR
 P2M TV
-Paris Premiere
 Pluto TV 90's Classics
 Pluto TV Animaux
 Pluto TV ANIME GO!
@@ -147,6 +146,7 @@ Puissance TV
 Qwest TV Jazz & Beyond
 RFM TV
 Ridiculousness (Germany)
+RMC Decouverte
 RMC Life
 RMC Story
 RT France

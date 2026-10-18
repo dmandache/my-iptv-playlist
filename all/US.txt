@@ -92,6 +92,7 @@ Ace TV
 Ace TV KCKS-LD
 ACTV (United States)
 Adrenalina Pura TV
+Adult Swim West
 AfroLandTV
 AFTV
 AFV
@@ -137,7 +138,6 @@ AMP 2
 Amu TV
 Anger Management Channel
 Animal Planet (United States)
-Animal Planet (United States) East
 Animation+
 Anime x HIDIVE
 Antiques Road Trip
@@ -230,6 +230,7 @@ Blue Bloods
 BMC-HD TV
 bon appetit
 Bonanza
+Boomerang
 Bounce
 Bounce XL
 BPTV
@@ -259,6 +260,7 @@ Canal de la Fe
 Canela TV
 Capital City Connection Montgomery
 Car Chase (United States)
+Cartoon Network (United States)
 Catholic Faith Network
 Catholic TV
 CBN Espanol
@@ -320,9 +322,9 @@ Cine Premiere
 Cine Romantico
 Cine Sony
 Cine Terror
+Cinemax (United States) West
 Cinemax Classics
 Cinemax Hits
-Cinemax West
 CinePride
 Cinevault 80s
 Cinevault Westerns
@@ -363,6 +365,7 @@ CNBC
 CNN
 CNN Chile
 CNN en Espanol
+CNN Originals
 Cold Case Files
 Collier TV
 Comedy Central Animation
@@ -438,9 +441,7 @@ Detroit Channel 22
 Detroit Channel 68
 Didgah TV
 Discovery Channel (United States)
-Discovery Family
-Discovery Turbo
-Disney Channel (United States)
+Discovery Turbo (United States)
 Disney Junior (United States)
 Disney XD (United States)
 District of Columbia Network
@@ -597,6 +598,8 @@ HarPal Geo
 Harvest USA
 Hasbro Legends
 HauntTV
+HBO (United States)
+HBO Hits
 HBO Movies
 HBTV
 HCTV Educational Access Channel
@@ -604,6 +607,7 @@ HCTV Government Channel
 HCTV Public Access Channel
 Heartland
 Heartland Web
+HGTV (United States)
 Hi-YAH!
 High Vision TV
 Hillsborough TV
@@ -749,6 +753,7 @@ Love Nature en Espanol
 Love Pets
 Love The Planet
 LoveWorld USA
+Lucas & Friends
 Lucky Dog
 Mad Dog and Merrill
 Made In Hollywood
@@ -814,6 +819,7 @@ MovieSphere Gold WFXT
 Mr Bean Animated
 MRVTV Channel 44
 MRVTV Channel 45
+MS NOW
 MSG
 MST3K
 MSTV
@@ -853,7 +859,6 @@ NBC KXAS-TV
 NBC LX Home
 NBC News NOW
 NBC Sports NOW
-NBC Universo West
 NBC WBAL-TV
 NBC WBTS-CD
 NBC West
@@ -906,6 +911,7 @@ Newsmax Spanish
 Newsmax TV
 Newsy
 NFL Channel
+NFL Network
 NHL Network
 NHRA TV
 Nick Jr. (United States)
@@ -951,7 +957,6 @@ Pac-12 Insider
 Pacific Island Network
 Palm Beaches TV
 Paramount Movie Channel
-Paramount Network
 Paramount+ Picks
 Pars TV
 Pasco TV
@@ -1390,7 +1395,6 @@ Vevo Pop
 Vevo R&B
 Vevo Retro Rock
 Vevo True School Hip-Hop
-VH1
 VH1 Queens of Reality
 VICE TV
 Vida Mejor TV
@@ -1426,6 +1430,7 @@ Whiplash II
 White Plains Community Media
 WHOH-TV
 Wild 'N Out
+Willamette Falls Media Center
 Willow
 Willow Sports
 Window TV

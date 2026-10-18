@@ -20,31 +20,37 @@ Arges TV
 Asia Express NonStop (576i)
 Atomic Academy TV
 Atomic TV
-AXN Black Romania
+AXN Black (United States) Romania
 AXN CEE Romania
 AXN Spin (Hungary)
-AXN White
+AXN White (United States)
 B1
+Banat TV
 BBC Earth Romania
 BBC First Romania
+Beauty ON
 Bollywood Classic Romania
 Bollywood Film
 Boom TV
 Bucovina TV (576i)
 Chefi.ro
 Cinemaraton Plus (1080i)
+CineWow
 Columna TV
 Comedy Central (Romania)
 Comedy Play (576i)
 Credo TV
 DeParinti.ro
 Digi 24
+Digi 24 HD (1080i)
 Digi Sport 2 HD (1080i)
+Disco Mix
 Disney Channel (Bulgaria)
 Disney Channel (Romania)
 Disney Junior (Romania)
 Dotto TV
 EMI TV
+EMI TV HD (1080i)
 Etno TV
 Euronews Romania
 Favorit TV
@@ -103,13 +109,19 @@ National Geographic (Romania)
 National Geographic Wild (Romania)
 National TV
 National TV2
+NHL AntenaPlay
 Nickelodeon (Romania)
 Nicktoons (Romania)
 Nostalgia TV
 Nova TV Brasov
 Observator News
+Orizont TV
 Party Mix
 Prima News
+Prima Sport 1
+Prima Sport 2
+Prima Sport 3
+Prima Sport 4
 Prima TV (Romania)
 Pro Arena
 Pro Cinema
@@ -132,6 +144,7 @@ Rock TV (Romania)
 Romania TV
 ROTV Valencia
 RTN Chicago
+Sangeorz TV
 SperantaTV
 Super TV (Romania)
 Taraf TV
@@ -145,6 +158,8 @@ Timeless Dizi Channel (Romania)
 Traditional TV
 TraLaLa DSN
 TraLaLa TV
+Travel Mix
+TV AS
 TV Buzau
 TV Paprika (Romania)
 TV SE
@@ -164,6 +179,7 @@ TVR Sport
 TVR Targu-Mures
 TVR Timisoara
 TVSat
+UTV (Romania)
 Viasat Epic Drama Romania
 Viasat Explore (Romania)
 Viasat History (Romania)
