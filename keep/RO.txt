@@ -12,13 +12,15 @@ TVR Sport
 Antena 1
 Antena 1 (Romania)
 Antena International
-Observator News
+Antena 3 CNN
 Comedy Play
+Comedy Play (576i)
 Comedy Central (Romania)
 Antena Monden
-Antena Stars
 AntenaSport
 Digi 24
+Digi 24 HD (1080i)
+Digi Sport 2 HD (1080i)
 Digi Sport 1
 Digi Sport 2
 Digi Sport 3
@@ -31,12 +33,19 @@ Pro TV News
 Profit News
 Prima TV
 Prima TV (Romania)
+Prima Sport 1
+Prima Sport 2
+Prima Sport 3
+Prima Sport 4
 Realitatea Sportiva
 Romania TV
 Info TV Romania
 Kanal D
 B1
 Kiss TV
+Music Channel
+H!t Music Channel (Romania)
+UTV (Romania)
 Atomic TV
 Atomic Academy TV
 Magic TV
@@ -49,15 +58,14 @@ Mooz Hits
 Mooz Ro!
 Impact TV Dance
 Impact TV Manele
+Taraf TV
 Happy Channel
 CineMaraton
 Diva
+Acasa
+Acasa Gold
 History
-Viasat Epic Drama Romania
-Viasat Explore (Romania)
-Viasat History (Romania)
-Viasat Kino Romania
-Viasat Nature (Romania)
-Disney Channel (Romania)
-Disney Junior (Romania)
-Minimax (Romania)
+National Geographic (Romania)
+National Geographic Wild (Romania)
+BBC Earth Romania
+BBC First Romania
