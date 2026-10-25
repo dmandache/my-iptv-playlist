@@ -2,8 +2,6 @@
 # One channel name per line. Lines starting with # are ignored.
 # Remove channels you do not want to keep.
 20 Minutes TV
-6ter
-AB1
 ADN TV+
 Africa 24
 Africa 24 English
@@ -29,12 +27,9 @@ BFM2
 Brionnais TV
 C Star
 Caillou
-Canal+
 Canal+ Cinemas
 Canal+ Sport
-Canal+ Sport 360
 Cannes Lerins TV
-Cap Terre
 Cine 666 by Pluto TV
 Cine Action by Pluto TV
 Cine by Pluto TV
@@ -49,7 +44,6 @@ Cine Thrillers by Pluto TV
 Cine Western (France)
 Cine Western by Pluto TV
 Cine+ Classic
-Cine+ Emotion
 Cine+ Frisson
 Clubbing TV France
 CNews
@@ -66,7 +60,7 @@ Evandis Gospel TV
 FashionTV Paris L'Original
 FashionTV Secrets
 FIFA+ French
-Foot+
+France 2
 France 24
 France 3
 France 3 Cote d'Azur
@@ -114,7 +108,7 @@ MyZen TV
 NatureTime France
 Nickelodeon (France)
 Nickelodeon Junior
-Nollywood TV
+NOVO19
 NRJ Hits
 One Piece FR
 P2M TV
@@ -131,29 +125,22 @@ Pluto TV French Collection
 Pluto TV Histoire
 Pluto TV Inside
 Pluto TV Kids Classics FR
-Pluto TV Kids Club (Germany)
-Pluto TV Paranormal (Germany) FR
 Pluto TV Polar
-Pluto TV Reality (Germany) FR
 Pluto TV Retro Toons
 Pluto TV Series Fantastiques
-Pluto TV Snooker 900 (Germany) FR
 Pluto TV Super Kids
 Pluto TV Teen FR
 Pluto TV Telerealite France
 Pluto TV Toons FR
 Puissance TV
 Qwest TV Jazz & Beyond
-RFM TV
 Ridiculousness (Germany)
 RMC Decouverte
 RMC Life
 RMC Story
 RT France
-RTL9
 SciFi
 ScreamIN
-Serie Club
 Series by Pluto TV
 Sony One Blacklist
 Sony One Favoris
@@ -163,8 +150,8 @@ Syfy
 T18
 Teen Mom (Germany) FR
 TeleGohelle
-Teva
 TF1
+TF1 Series Films
 TFX
 TiVi5 Monde
 TMC
@@ -189,7 +176,6 @@ Trace Vanilla Islands
 True Crime by Pluto TV
 Turbo
 TV Alsace
-TV Breizh
 TV Monaco
 TV Mulhouse
 TV3V

@@ -45,7 +45,7 @@ Digi 24
 Digi 24 HD (1080i)
 Digi Sport 2 HD (1080i)
 Disco Mix
-Disney Channel (Bulgaria)
+Disney Channel (Bulgaria) (576i)
 Disney Channel (Romania)
 Disney Junior (Romania)
 Dotto TV
@@ -65,6 +65,7 @@ FILMBOX+ Love & Crime Romania
 FILMBOX+ One Romania
 Formula 1 AntenaPlay
 H!t Music Channel (Romania)
+Halloween Non Stop
 Happy Channel
 HD365 TV
 Hello Taste
@@ -118,21 +119,18 @@ Observator News
 Orizont TV
 Party Mix
 Prima News
-Prima Sport 1
-Prima Sport 2
-Prima Sport 3
-Prima Sport 4
-Prima TV (Romania)
 Pro Arena
 Pro Cinema
 PRO TV
 PRO TV International
 PROFI 24 TV
 PROTV News
+Quantum TV
 Qub TV
 Radio Fx Net
 Radio Romania 3Net
 Radio Romania Antena Satelor
+Radio Romania Iasi (576i)
 Radio Romania Oltenia-Craiova
 Radio Romania Resita
 Radio Romania Targu Mures
@@ -145,7 +143,9 @@ Romania TV
 ROTV Valencia
 RTN Chicago
 Sangeorz TV
+Smart Radio
 SperantaTV
+Sport Extra
 Super TV (Romania)
 Taraf TV
 Tele7ABC
@@ -153,12 +153,14 @@ Tele7music (576i)
 TeleM Botosani
 TeleMoldova +
 Telestar1
+Tequila Music TV
 The Fishing & Hunting Channel
 Timeless Dizi Channel (Romania)
 Traditional TV
 TraLaLa DSN
 TraLaLa TV
 Travel Mix
+TV Arad (576i)
 TV AS
 TV Buzau
 TV Paprika (Romania)
@@ -179,11 +181,10 @@ TVR Sport
 TVR Targu-Mures
 TVR Timisoara
 TVSat
-UTV (Romania)
+UTV (Romania) HD (1080i)
 Viasat Epic Drama Romania
 Viasat Explore (Romania)
 Viasat History (Romania)
 Viasat Kino Romania
 Viasat Nature (Romania)
-Voyo Sport 1
 VP TV

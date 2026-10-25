@@ -6,7 +6,7 @@
 101tv Malaga
 101tv Sevilla
 12tv
-24 Horas (Spain)
+24 Horas
 24 Horas Canarias
 24 Horas Catalunya
 28 kanala
@@ -16,6 +16,12 @@
 3Cat Exclusiu 3
 3Cat Plats bruts
 3CatInfo
+7TV
+7TV Cordoba
+7TV Jaen
+7TV Jerez
+7TV Malaga
+7TV Sevilla
 8 La Marina TV
 9 la Loma TV
 A Punt
@@ -42,6 +48,7 @@ BCN Gospel TV
 BDN
 Biosfera TV
 Bob Esponja
+Boing (Spain)
 Bon Dia TV
 Cadena Elite
 Canal 1 Mar Menor Torre Pacheco
@@ -211,17 +218,10 @@ Pluto TV K-Drama
 Pluto TV Kids Classics
 Pluto TV Melrose Place
 Pluto TV Motor (Germany)
-Pluto TV Paranormal (Germany) ES
 Pluto TV Psycho
-Pluto TV Sci-Fi (Germany) ES
-Pluto TV Series (Germany)
 Pluto TV Series criminales
-Pluto TV Series Sci-Fi (Germany)
-Pluto TV Snooker 900 (Germany) ES
 Pluto TV Teen
 Pluto TV Telenovelas Clasicas
-Pluto TV Thrillers (Germany)
-Pluto TV True Crime (Germany) ES
 Pluto TV Western ES
 Pluto TV Zombies
 POP World TV
