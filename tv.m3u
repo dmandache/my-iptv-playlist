@@ -75,8 +75,8 @@ http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-progold/live_fullhd?offsetSecon
 https://onyx1.mofta1.cfd/ngeo/usergenrnd84oeigt.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicWild.ro@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" http-referrer="https://cool-tv.net/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18" group-title="RO",National Geographic Wild (Romania)
 https://flash1.bogulus1.cfd/wild/usergenr9qsi5gt.m3u8
-#EXTINF:-1 tvg-id="BBCEarth.uk@RomaniaHD" tvg-logo="https://i.imgur.com/nGSsUd4.png" group-title="RO",BBC Earth Romania
-http://hls127.freeott.top:8080/BG_The_World/video.m3u8
+#EXTINF:-1 tvg-id="BBCEarth.uk@Romania" tvg-logo="https://i.imgur.com/nGSsUd4.png" http-referrer="https://cool-tv.net/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18" group-title="RO",BBC Earth Romania
+https://iron1.jarvisx1.cfd/ert/usergenrx8ofzq1kr.m3u8
 #EXTINF:-1 tvg-id="BBCFirst.uk@Romania" tvg-logo="https://i.imgur.com/UBoBYUI.png" http-referrer="https://cool-tv.net/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18" group-title="RO",BBC First Romania
 https://onyx1.mofta1.cfd/bibi1/usergendxn09l2s6cek.m3u8
 #EXTINF:-1 tvg-id="TF1.fr@SD" tvg-logo="https://i.imgur.com/QxHt9NC.png" group-title="FR",TF1
