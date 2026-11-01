@@ -13,9 +13,11 @@ AMC Europe Romania
 Angelus TV
 Antena 1 (Romania)
 Antena 3 CNN
+Antena 3 Constanta
+Antena 3 Suceava (576i)
 Antena International
 Antena Monden
-Antena Stars
+AntenaPlay Events
 Arges TV
 Asia Express NonStop (576i)
 Atomic Academy TV
@@ -28,43 +30,36 @@ B1
 Banat TV
 BBC Earth Romania
 BBC First Romania
-Beauty ON
+Bihor TV
 Bollywood Classic Romania
 Bollywood Film
 Boom TV
 Bucovina TV (576i)
 Chefi.ro
 Cinemaraton Plus (1080i)
-CineWow
+CineWow (576i)
 Columna TV
 Comedy Central (Romania)
 Comedy Play (576i)
 Credo TV
 DeParinti.ro
 Digi 24
-Digi 24 HD (1080i)
-Digi Sport 2 HD (1080i)
-Disco Mix
+Disco Mix (576i)
 Disney Channel (Bulgaria) (576i)
 Disney Channel (Romania)
 Disney Junior (Romania)
 Dotto TV
-EMI TV
-EMI TV HD (1080i)
+EMI TV (576i)
 Etno TV
 Euronews Romania
 Favorit TV
-Favorit TV2
 Film Cafe Romania
 Film Now
-Film Now HD (1080i)
 FILMBOX+ Comedy Romania
 FILMBOX+ Emotion Romania
 FILMBOX+ Hits Romania
 FILMBOX+ Love & Crime Romania
 FILMBOX+ One Romania
-Formula 1 AntenaPlay
-H!t Music Channel (Romania)
 Halloween Non Stop
 Happy Channel
 HD365 TV
@@ -85,7 +80,7 @@ iUmor
 JOB TV
 Kanal D (Romania)
 Kanal D2 (1080i)
-Kapital TV
+Kapital TV (576i)
 Kiss TV
 Light Channel (Romania)
 LiraTV
@@ -98,25 +93,23 @@ Mireasa Extra
 MISA TV
 Moldova TV
 Mooz Dance
+Mooz Dance HD (1080i)
 Mooz Hits
-Mooz Love
-Mooz Retro
 Mooz Ro!
 Muscel TV
-Music Channel
 Nasul TV
 National 24 Plus
 National Geographic (Romania)
 National Geographic Wild (Romania)
 National TV
-National TV2
+NCN
 NHL AntenaPlay
 Nickelodeon (Romania)
 Nicktoons (Romania)
 Nostalgia TV
 Nova TV Brasov
 Observator News
-Orizont TV
+Orizont TV (576i)
 Party Mix
 Prima News
 Pro Arena
@@ -160,6 +153,7 @@ Traditional TV
 TraLaLa DSN
 TraLaLa TV
 Travel Mix
+Trinitas TV (576i)
 TV Arad (576i)
 TV AS
 TV Buzau
@@ -187,4 +181,4 @@ Viasat Explore (Romania)
 Viasat History (Romania)
 Viasat Kino Romania
 Viasat Nature (Romania)
-VP TV
+Voyo Sport 1 (1080i)

@@ -2,6 +2,7 @@
 # One channel name per line. Lines starting with # are ignored.
 # Remove channels you do not want to keep.
 20 Minutes TV
+6ter
 ADN TV+
 Africa 24
 Africa 24 English
@@ -27,7 +28,6 @@ BFM2
 Brionnais TV
 C Star
 Caillou
-Canal+ Cinemas
 Canal+ Sport
 Cannes Lerins TV
 Cine 666 by Pluto TV
@@ -139,7 +139,6 @@ RMC Decouverte
 RMC Life
 RMC Story
 RT France
-SciFi
 ScreamIN
 Series by Pluto TV
 Sony One Blacklist
@@ -148,6 +147,7 @@ Sony One Hits Action
 Sony One Hits Comedie
 Syfy
 T18
+Tebeo TV (576i)
 Teen Mom (Germany) FR
 TeleGohelle
 TF1

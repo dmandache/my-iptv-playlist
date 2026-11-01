@@ -13,6 +13,7 @@ Al Hiwar TV
 Alb UK TV
 Anand TV (United Kingdom)
 Andromeda UK
+Animal Planet (United Kingdom)
 Anthony Bourdain: Parts Unknown
 ATN Bangla UK
 Auction Hunters (Germany) GB
@@ -89,6 +90,10 @@ DAZN Combat
 Deadly Women
 Deen TV
 Der TV
+Discovery Channel (United Kingdom)
+Discovery History
+Discovery Science Europe UK
+Discovery Turbo (United Kingdom)
 Dog the Bounty Hunter UK
 Dog Whisperer
 Duck Dynasty
@@ -180,6 +185,7 @@ NTD TV English UK
 On The Case
 Panjab TV
 Paranormal State
+PBS America
 Planet Fun
 Pluto TV Alien Invasion (Germany)
 Pluto TV American True Crime
@@ -215,6 +221,7 @@ Rakuten TV Comedy Movies UK
 Rakuten TV Drama Movies UK
 Rakuten TV Family Movies UK
 Rakuten TV Top Movies UK
+Really
 Red Bull TV UK
 RugbyPass TV
 S4C
@@ -256,6 +263,10 @@ The Yellow Couch with Jeremy Lynch
 Tiny Pop
 Tiny Pop +1
 TJC
+TNT Sports 1
+TNT Sports 2
+TNT Sports 3
+TNT Sports 4
 Together TV
 Top Gear
 Totally Turtles (Germany) GB

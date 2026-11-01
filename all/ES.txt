@@ -73,7 +73,6 @@ Canal Parlamento
 Canal Reus TV
 Canal San Roque
 Canal Sierra de Cadiz
-Canal Sur
 Canal Sur 2
 Canal Sur Andalucia
 Canal Sur Noticias
@@ -128,6 +127,8 @@ ETB Events 1
 ETB1 On
 ETB2 On
 etv
+Eurosport 1 Spain
+Eurosport 2 Spain
 EWTN (United States) Spain & Latin America
 EWTN Espana
 Fibwi

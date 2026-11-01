@@ -264,6 +264,7 @@ Canal de la Fe
 Canela TV
 Capital City Connection Montgomery
 Car Chase (United States)
+Cars.TV
 Cartoon Network (United States)
 Catholic Faith Network
 Catholic TV
@@ -367,7 +368,6 @@ CMT Equal Play
 CMTV
 CNBC
 CNN
-CNN Chile
 CNN en Espanol
 CNN Originals
 Cold Case Files
@@ -376,6 +376,7 @@ Comedy Central Animation
 Comedy Central en Espanol
 Comedy Central Pluto TV
 Comedy Dynamics
+Comedy TV (United States)
 Comercio TV
 Comet
 Community 12TV
@@ -447,6 +448,7 @@ Didgah TV
 Discovery Channel (United States)
 Discovery Turbo (United States)
 Disney Junior (United States)
+Disney XD (United States)
 District of Columbia Network
 Diya TV
 DKN
@@ -593,8 +595,8 @@ Grjngo Western Movies
 Guangdong TV America
 GunAz TV
 Gunsmoke
-Hallmark Channel
 Hallmark Movies & More
+Hallmark Mystery
 Happy Days (United States)
 HappyKids
 Harmony Gospel Music TV
@@ -602,6 +604,7 @@ HarPal Geo
 Harvest USA
 Hasbro Legends
 HauntTV
+HBCU-GO Sports
 HBO (United States)
 HBO Hits
 HBTV
@@ -649,6 +652,7 @@ Impossible Quiz Show
 In the Kitchen
 INFAST
 Ink Master
+INSP
 Instant Saga
 Investiga US
 Investigation Discovery (United States)
@@ -672,6 +676,7 @@ Jus Hindi
 Jus One
 Jus Punjabi
 Just for Laughs Gags
+Justice Central TV
 K-Content by CJ ENM
 Kajou TV
 Kaloopy TV
@@ -789,7 +794,6 @@ Mega Extreno
 Mega TV (United States) WSBS-TV
 Merit Street
 Metaleitor TV
-MeTV
 Midnight Pulp
 Midpen Media Center Channel 26
 Midpen Media Center Channel 28
@@ -807,6 +811,7 @@ MLB Strike Zone
 MMA TV
 MNT WCIV
 MNT WFLD
+MNT WOIO
 Mohabat TV (United States)
 Monroe Community Media Education Channel
 Monroe Community Media Public Access Channel
@@ -836,6 +841,7 @@ MTV Pluto TV
 MTV Spankin' New
 MTV2
 Muslim Network TV
+MyDestination.TV
 Mystery Science Theater 3000
 MyTime Movie Network East
 Naruto
@@ -870,6 +876,7 @@ NBC WGBA-TV
 NBC WHEC-TV
 NBC WJAC-TV
 NBC WJAR
+NBC WKYC
 NBC WLIO
 NBC WMAQ-TV
 NBC WMGT-TV
@@ -959,6 +966,7 @@ Pac-12 Insider
 Pacific Island Network
 Palm Beaches TV
 Paramount Movie Channel
+Paramount Network
 Paramount+ Picks
 Pars TV
 Pasco TV
@@ -995,6 +1003,7 @@ PCTV 28
 People Are Awesome
 Peppa Pig
 Perry Mason
+Pets.TV
 PGA Tour
 PhillyCAM
 PHLgovTV
@@ -1079,6 +1088,7 @@ RCTV3
 Real America's Voice
 Real America's Voice KPVM-LD
 Real Wild
+Recipe TV
 Red Apple 21
 Red Bull TV US
 RedADvenir TV KSCE
@@ -1117,9 +1127,6 @@ RVTV Grants Pass
 RVTV Prime
 RVTV Voices
 Ryan and Friends
-S Corby TV
-S Metro TV
-S Play Event
 Salem News Channel
 Samsung Wildlife
 Sanskar USA
@@ -1162,6 +1169,7 @@ SNL Vault
 Sonic TV
 Sony Canal Novelas
 Sony KAL Hindi
+Sony Movies (United States)
 Sound View Community Media
 Spike Outdoors
 Spike Pluto TV
@@ -1279,6 +1287,7 @@ The Wild Wild West (United States)
 The Word Network
 The Young Turks
 theDove TV
+TheGrio TV
 This Old House
 Thornton 8
 Three's Company
@@ -1292,6 +1301,7 @@ TMZ
 TNT (United States)
 TNT (United States) West
 TNT International
+TNT Sports 4
 TODAY All Day
 Tom And Jerry
 Toonami Aftermath
