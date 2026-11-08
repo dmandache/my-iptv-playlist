@@ -4,6 +4,8 @@
 5 Cops
 5USA
 Aaj Tak
+Aastha International
+Aastha UK
 Aathavan TV
 Adventure Earth
 Afrobeat TV Entertainment
@@ -68,7 +70,6 @@ BBC Red Button 8
 BBC Red Button 9
 BBC Scotland
 BBC Three
-BBC Three/CBBC
 BBC Two
 BBC Two Northern Ireland
 BBC Two Wales
@@ -76,6 +77,7 @@ BBC UHD 4
 Beyond Belief: Fact or Fiction
 Blaze
 Brit Asia TV
+BTL TV (Netherlands)
 Cagney & Lacey
 Canaf54 TV
 CBBC
@@ -103,6 +105,7 @@ Eman Channel
 English Club TV (576i)
 ENT Channel
 ENT Family
+Eurochannel
 FailArmy UK
 Faith UK
 Faith World TV
@@ -174,7 +177,6 @@ Mythbusters
 MyTime Movie Network (United Kingdom)
 NatureTime UK
 NBC News NOW
-Nickelodeon (United Kingdom)
 Nolly Africa
 Noor TV (United Kingdom)
 Nosey UK
@@ -234,11 +236,12 @@ Sensing Murder
 Sheffield Live TV
 Sky News Weather
 Sky Sports F1
+Sky Sports News
 Sky Sports NFL
 So... Real UK
 South Park (Germany) GB
 Spark TV
-Star Bharat
+Star Bharat (United Kingdom)
 Star Vijay UK
 StarPlus (United Kingdom)
 Strongman UK
@@ -286,7 +289,6 @@ Undercover Boss Global
 Unsolved Mysteries UK
 Utsav Bharat
 Utsav Plus
-V2BEAT TV
 Vantage Music UK
 WaterBear
 Wild at Heart

@@ -39,7 +39,6 @@ Antena 3 Internacional
 Arabi TV
 Archivos Forenses
 AXN Movies (Spain)
-AXN White (United States)
 Az Corazon
 Bailen TV
 Barca TV
@@ -50,6 +49,7 @@ Biosfera TV
 Bob Esponja
 Boing (Spain)
 Bon Dia TV
+BTL TV (Netherlands)
 Cadena Elite
 Canal 1 Mar Menor Torre Pacheco
 Canal 10 Emporda
@@ -104,6 +104,7 @@ Detective Conan
 Diez TV Las Villas
 Diez TV Ubeda
 Distrito TV
+DMAX (Spain)
 Durangaldeko Telebista
 El 33
 El 33 Originals

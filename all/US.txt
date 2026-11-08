@@ -31,6 +31,7 @@
 90s Kids TV 2
 90s Throwback
 A&E
+Aastha International
 ABC KAAL
 ABC KERO-TV
 ABC KGTV
@@ -191,6 +192,7 @@ Beach TV Florida & Alabama
 Beach TV Key West & Florida Keys
 Beach TV Myrtle Beach & The Grand Strand
 Beach TV Panama City
+beIN Sports USA
 beIN SPORTS XTRA
 beIN SPORTS XTRA en Espanol
 BEK News
@@ -243,6 +245,7 @@ Brat TV
 Bravo
 Brevard Government Access TV
 BritBox Mysteries
+BTL TV (Netherlands)
 Business Rockstars
 BUTV10
 Buzzr
@@ -376,7 +379,7 @@ Comedy Central Animation
 Comedy Central en Espanol
 Comedy Central Pluto TV
 Comedy Dynamics
-Comedy TV (United States)
+Comedy.TV
 Comercio TV
 Comet
 Community 12TV
@@ -447,6 +450,7 @@ Detroit Channel 68
 Didgah TV
 Discovery Channel (United States)
 Discovery Turbo (United States)
+Disney Channel (United States)
 Disney Junior (United States)
 Disney XD (United States)
 District of Columbia Network
@@ -457,6 +461,7 @@ Documentary+
 Docurama
 Dog the Bounty Hunter
 Don't Tell The Bride
+Doraemon
 Dove Channel
 Dr. Gene Scott
 DraftKings Network
@@ -476,6 +481,7 @@ Electric Now
 Elevation Church Network
 Entertainment Tonight
 EntrepreneurTV
+ES.TV
 Escambia County TV
 ESNE TV
 ESPN (United States)
@@ -509,6 +515,7 @@ FilmRise Forensic Files
 FITE 24/7
 Flicks of Fury
 Flowers TV USA
+FMH Kids
 FNX
 FNX KVCR-DT
 Food Network (United States)
@@ -539,10 +546,11 @@ Fox (United States) WXXV-TV
 Fox Business Network
 Fox Deportes
 Fox News Channel
+Fox News International
 Fox News Radio
 Fox Soul
 Fox Sports 1
-Fox Sports 2 (United States)
+Fox Sports 2
 Fox Weather
 Free Speech TV
 Freebie TV
@@ -581,6 +589,7 @@ GlobalWorldTV
 GMTV
 God's Learning Channel KPCB-DT
 Golazo Network
+Golf Channel (United States)
 GoodLife 45
 Gordon Ramsay's Hell's Kitchen
 Gospel Truth TV
@@ -654,6 +663,7 @@ INFAST
 Ink Master
 INSP
 Instant Saga
+InTouch+
 Investiga US
 Investigation Discovery (United States)
 INWILD
@@ -676,7 +686,7 @@ Jus Hindi
 Jus One
 Jus Punjabi
 Just for Laughs Gags
-Justice Central TV
+Justice Central.TV
 K-Content by CJ ENM
 Kajou TV
 Kaloopy TV
@@ -729,6 +739,7 @@ Leominster TV Government
 Leominster TV Public
 Lex TV
 LGTV
+Lifetime
 Lifetime Movies
 LifevisionTV
 Lindell TV
@@ -770,6 +781,7 @@ Magnificent Movies Network
 Magnolia Network
 Majestad TV
 Maria Vision USA
+Marquee Sports Network
 Martin County TV
 Mas adrenalina
 Matlock (United States)
@@ -794,6 +806,7 @@ Mega Extreno
 Mega TV (United States) WSBS-TV
 Merit Street
 Metaleitor TV
+MeTV Toons
 Midnight Pulp
 Midpen Media Center Channel 26
 Midpen Media Center Channel 28
@@ -926,7 +939,6 @@ NHL Network
 NHRA TV
 Nick Jr. (United States)
 Nick Jr. Pluto TV
-Nickelodeon (United States)
 Nickelodeon en espanol
 Nickelodeon Pluto TV
 Nicktoons (United States)
@@ -1088,7 +1100,7 @@ RCTV3
 Real America's Voice
 Real America's Voice KPVM-LD
 Real Wild
-Recipe TV
+Recipe.TV
 Red Apple 21
 Red Bull TV US
 RedADvenir TV KSCE
@@ -1151,6 +1163,7 @@ SGTV
 Shabakeh 7
 Shalom America
 Shemaroo Bollywood
+Shin-chan
 Shop LC
 Shout! Factory TV
 Showtime Family Zone
@@ -1261,7 +1274,6 @@ The Conners
 The Country Network
 The Design Network
 The Doctors
-The Film Detective
 The First TV
 The Graham Norton Show
 The Hill TV
@@ -1306,7 +1318,6 @@ TODAY All Day
 Tom And Jerry
 Toonami Aftermath
 Toonami Aftermath West
-Tooncast
 ToonGoggles
 Top Stories by Newsy
 Tosh.0 (United States)
@@ -1463,7 +1474,6 @@ WSOC Now
 Wu Tang Collection
 WVCU-LP
 WVVH-CD 18.1
-WWE Network
 WWON-TV Channel 48
 XFC TV
 XITE 90's Throwback

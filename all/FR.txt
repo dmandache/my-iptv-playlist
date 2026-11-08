@@ -1,6 +1,7 @@
 # Keep list for FR
 # One channel name per line. Lines starting with # are ignored.
 # Remove channels you do not want to keep.
+13eme Rue
 20 Minutes TV
 6ter
 ADN TV+
@@ -26,6 +27,7 @@ BFM TV
 BFM Var
 BFM2
 Brionnais TV
+BTL TV (Netherlands)
 C Star
 Caillou
 Canal+ Sport
@@ -50,6 +52,7 @@ CNews
 CNEWS PRIME
 DBM TV
 Detective Conan France
+Discovery Channel (France)
 Disney Jr. (France)
 Dossiers FBI
 Emotion L
@@ -80,6 +83,7 @@ ILTV
 Inazuma Eleven
 Into Crime
 Investigation by Pluto TV
+Investigation Discovery (France)
 Kozoom TV
 KTO
 L'Equipe
@@ -95,6 +99,7 @@ Louis La Brocante
 M6
 M6 Music
 MCM Pop
+MCM Top (France)
 MDL
 Mezzo
 Mezzo Live
@@ -106,8 +111,6 @@ MTV CLASSICS
 Museum TV French
 MyZen TV
 NatureTime France
-Nickelodeon (France)
-Nickelodeon Junior
 NOVO19
 NRJ Hits
 One Piece FR
@@ -139,6 +142,7 @@ RMC Decouverte
 RMC Life
 RMC Story
 RT France
+SciFi
 ScreamIN
 Series by Pluto TV
 Sony One Blacklist
