@@ -60,3 +60,11 @@ Their project maintains one of the largest open collections of **legal IPTV stre
 This repository **does not host any video streams**.
 
 It only contains links to publicly available IPTV streams already accessible on the internet.
+
+## Support This Project
+
+If you find this repo useful or it inspired you to create your own custom playlist, consider giving this repository a ⭐ star!
+
+Your support helps others discover the project and motivates future improvements.
+
+Thanks for your support! ❤️
