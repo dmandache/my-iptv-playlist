@@ -4,6 +4,8 @@
 ![Format](https://img.shields.io/badge/format-M3U-blue)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
 ![Maintained](https://img.shields.io/badge/maintained-yes-green)
+[![Views](https://hits.sh/github.com/dmandache/my-iptv-playlist.svg?label=Views&color=blue)](https://hits.sh/github.com/dmandache/my-iptv-playlist/)
+[![Stars](https://img.shields.io/github/stars/dmandache/my-iptv-playlist?style=flat&logo=github&color=yellow)](https://github.com/dmandache/my-iptv-playlist/stargazers)
 
 A curated IPTV playlist of publicly available TV channels focused on **news, entertainment, and major international networks**.
 
