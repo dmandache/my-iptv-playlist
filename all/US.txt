@@ -30,7 +30,6 @@
 90's Kids
 90s Kids TV 2
 90s Throwback
-A&E
 Aastha International
 ABC KAAL
 ABC KERO-TV
@@ -78,7 +77,6 @@ ABN Urdu
 Absolute Reality by WE TV
 Acapulco Shore US
 ACC Digital Network
-ACC Network
 Access 19
 Access 4 PAC
 Access Humboldt
@@ -183,7 +181,6 @@ BATV Government Channel
 BATV Government TV
 BATV Public Channel
 Baywatch
-BBC America
 BBC Earth US
 BBC Food
 BBC Home & Garden
@@ -269,6 +266,7 @@ Capital City Connection Montgomery
 Car Chase (United States)
 Cars.TV
 Cartoon Network (United States)
+Cartoon Network (United States) West
 Catholic Faith Network
 Catholic TV
 CBN Espanol
@@ -475,7 +473,6 @@ Ebony TV by Lionsgate
 EBS Cinema
 EBS Musika
 El Rey
-El Sembrador Nueva Evangelizacion ESNE
 Elbeshara GTV
 Electric Now
 Elevation Church Network
@@ -538,7 +535,6 @@ Fox (United States) WHBQ-TV
 Fox (United States) WITI
 Fox (United States) WJBK
 Fox (United States) WNYW
-Fox (United States) WSVN
 Fox (United States) WTTG
 Fox (United States) WTVT
 Fox (United States) WTXF-TV
@@ -778,7 +774,6 @@ Mad Dog and Merrill
 Made In Hollywood
 MagellanTV Now
 Magnificent Movies Network
-Magnolia Network
 Majestad TV
 Maria Vision USA
 Marquee Sports Network
@@ -898,7 +893,6 @@ NBC WOAI-TV
 NBC WPTV-TV
 NBC WPXI
 NBC WRDE-LD
-NBC WTLV
 NBC WTMJ-TV
 NBC WTOV-TV
 NBC WTVJ
@@ -908,8 +902,6 @@ NCM Educational & Kids Channel
 NCM Government & Politics Channel
 NCM Main Channel
 NCTV79
-New Channel
-New Channel Pop!
 NEW K-POP
 NEW K.MOVIES
 News of the World Arabic
@@ -1144,6 +1136,7 @@ Samsung Wildlife
 Sanskar USA
 SBN TV
 SC Currents
+Scares by Shudder
 Schwab Network
 Scientology Network
 Scientology Network KSCN-TV
@@ -1241,7 +1234,6 @@ TeenNick (United States)
 Tele Boston
 Tele Pam
 TeleMIX
-Telemundo
 Telemundo Al Dia
 Telemundo Corpus Christi
 Telemundo East
@@ -1250,7 +1242,6 @@ Telemundo Telenovelas Clasicas
 Telemundo WCAU
 Telemundo West
 Telemundo WTMO-CD
-TeleXitos
 Temecula TV
 Tempe 11
 Tennis Channel
@@ -1316,6 +1307,7 @@ TNT International
 TNT Sports 4
 TODAY All Day
 Tom And Jerry
+Tom Sings TV
 Toonami Aftermath
 Toonami Aftermath West
 ToonGoggles
@@ -1381,18 +1373,15 @@ TyC Sports USA
 UCTV
 Unbeaten
 Unidentified
-UniMas Central
 UniMas KFTR-DT
 UniMas KUVN-DT
 UniMas Mountain
-UniMas WAMI-DT
 UniMas WFUT-DT
 UniMas WXTV-DT
 Universal Cinema
 Universal Comedy
 Universal Crime
 Univision
-Univision East
 Univision KMEX-DT
 Univision Tlnovelas
 Univision West
@@ -1418,6 +1407,7 @@ Vevo Pop
 Vevo R&B
 Vevo Retro Rock
 Vevo True School Hip-Hop
+VH1
 VH1 Queens of Reality
 VICE TV
 Vida Mejor TV
@@ -1468,6 +1458,7 @@ World Channel
 World Channel WGTV
 World Harvest TV
 World Poker Tour
+WOX TV
 WPLG 10.1
 WPS-TV
 WSOC Now
@@ -1498,4 +1489,3 @@ Yuma Channel 73
 Yuma77
 Zarin TV
 Zoom News
-ZTV

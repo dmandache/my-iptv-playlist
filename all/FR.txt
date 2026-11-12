@@ -30,7 +30,7 @@ Brionnais TV
 BTL TV (Netherlands)
 C Star
 Caillou
-Canal+ Sport
+Canal+ Sport (France)
 Cannes Lerins TV
 Cine 666 by Pluto TV
 Cine Action by Pluto TV
@@ -154,7 +154,6 @@ T18
 Tebeo TV (576i)
 Teen Mom (Germany) FR
 TeleGohelle
-TF1
 TF1 Series Films
 TFX
 TiVi5 Monde

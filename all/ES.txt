@@ -35,7 +35,6 @@ Angel TV Spanish
 Anime Vision
 Anime Vision Classics
 Antena 3
-Antena 3 Internacional
 Arabi TV
 Archivos Forenses
 AXN Movies (Spain)
@@ -100,6 +99,7 @@ Costa Noroeste TV
 Crimen & Historia
 Cugat TV
 Curro Jimenez
+DAZN F1
 Detective Conan
 Diez TV Las Villas
 Diez TV Ubeda

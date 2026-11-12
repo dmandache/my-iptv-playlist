@@ -175,8 +175,10 @@ MUTV
 Mystery TV
 Mythbusters
 MyTime Movie Network (United Kingdom)
+National Geographic (United Kingdom)
 NatureTime UK
 NBC News NOW
+Nickelodeon (United Kingdom)
 Nolly Africa
 Noor TV (United Kingdom)
 Nosey UK
@@ -213,6 +215,7 @@ Pluto TV Tough Jobs
 Pluto TV Westerns (Germany)
 Pop
 Pop Up
+Quest
 QVC (United Kingdom)
 QVC Beauty
 QVC Extra

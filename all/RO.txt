@@ -47,6 +47,7 @@ DeParinti.ro
 Digi 24
 Digi 4K
 Disco Mix (576i)
+Discovery Channel (Romania)
 Disney Channel (Bulgaria) (576i)
 Disney Channel (Romania)
 Disney Junior (Romania)
@@ -74,6 +75,7 @@ Impact TV Dance
 Impact TV Manele
 In Puii Mei
 Inedit TV
+Info HD (576i)
 Informatia TV
 Insula non stop (576i)
 Intermedia TV
@@ -86,11 +88,14 @@ Kapital TV (576i)
 Kiss TV
 Light Channel (Romania)
 LiraTV
+Love Nature 4K
+M9TV Romania (576i)
 Magic TV (Romania)
 MediCOOL TV
 Metropola TV
 Mireasa
 Mireasa Extra
+Mireasa+
 MISA TV
 MISA TV Czech (576i)
 MISA TV English (576i)
@@ -110,6 +115,7 @@ Nova TV Brasov
 Observator News
 Orizont TV (576i)
 Party Mix
+Prima 4K
 Prima News
 Prima TV (Romania)
 Pro Arena
@@ -140,8 +146,10 @@ ROTV Valencia
 RTN Chicago
 Sangeorz TV
 Sens TV (576i)
+Shop On TV (576i)
 Smart Radio
 SperantaTV
+Sport Extra
 Sport Total FM (576i)
 Super TV (Romania)
 Taraf TV
@@ -164,6 +172,7 @@ TV Buzau
 TV Paprika (Romania)
 TV SE
 TV SUD
+TV1 (Romania) (576i)
 TVPlus Suceava
 TVR 1
 TVR 2
