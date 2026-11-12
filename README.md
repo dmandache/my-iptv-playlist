@@ -1,4 +1,4 @@
-# My IPTV Playlist
+# My IPTV Playlist: Free IPTV M3U Playlist Updated Daily
 
 ![Playlist Status](https://img.shields.io/badge/status-active-brightgreen)
 ![Format](https://img.shields.io/badge/format-M3U-blue)
@@ -8,6 +8,8 @@
 [![Stars](https://img.shields.io/github/stars/dmandache/my-iptv-playlist?style=flat&logo=github&color=yellow)](https://github.com/dmandache/my-iptv-playlist/stargazers)
 
 A curated IPTV playlist of publicly available TV channels focused on **news, entertainment, and major international networks**.
+
+Playlist and available channels refresh automatically every day with new M3U links so you always have fresh live TV.
 
 Designed to work with IPTV players such as: **TiviMate**, **VLC**, **Kodi**, **Jellyfin** or **OTT Navigator**.
 
