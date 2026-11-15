@@ -26,6 +26,7 @@ BFM Tech & Co
 BFM TV
 BFM Var
 BFM2
+Boomerang (France)
 Brionnais TV
 BTL TV (Netherlands)
 C Star
@@ -50,6 +51,7 @@ Cine+ Frisson
 Clubbing TV France
 CNews
 CNEWS PRIME
+Comedy Central (France)
 DBM TV
 Detective Conan France
 Discovery Channel (France)
@@ -59,6 +61,8 @@ Emotion L
 Equidia
 Euronews French
 Europe 1 TV
+Eurosport 1
+Eurosport 2
 Evandis Gospel TV
 FashionTV Paris L'Original
 FashionTV Secrets
@@ -111,6 +115,9 @@ MTV CLASSICS
 Museum TV French
 MyZen TV
 NatureTime France
+Nickelodeon (France)
+Nickelodeon Junior
+Nicktoons (France)
 NOVO19
 NRJ Hits
 One Piece FR

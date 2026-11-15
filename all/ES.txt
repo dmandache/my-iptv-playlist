@@ -37,6 +37,8 @@ Anime Vision Classics
 Antena 3
 Arabi TV
 Archivos Forenses
+Atreseries
+AXN (Spain)
 AXN Movies (Spain)
 Az Corazon
 Bailen TV
@@ -147,6 +149,7 @@ Huelva TV
 Imas TV
 Interalmeria TV
 Intercomarcal TV
+Kidz
 KinoKazka
 KTO
 La 1
@@ -157,6 +160,7 @@ La 2 Canarias
 La 2 Catalunya
 La 8 Mediterraneo
 La Rosa de Guadalupe
+La Sexta
 La Urban TV
 Lancelot TV
 LiraTV
@@ -172,6 +176,7 @@ M95 Television Marbella
 Maestrat TV
 Mataro Televisio
 Medium (Germany)
+Mega (Spain)
 Mi Extrana Obsesion
 Mijas 3.40TV
 Mirame TV
@@ -187,7 +192,9 @@ MyTime Movie Network (Spain)
 NatureTime
 NatureTime ES
 Negocios TV
+Neox
 Nortevision
+Nova (Spain)
 Olot TV
 Olympic Channel
 Onda 15 TV

@@ -221,7 +221,6 @@ Binge
 Biz TV
 Black Family Sitcoms
 Black Ink Crew
-Black News Channel
 Blaze Live
 Bloomberg Originals
 Bloomberg TV
@@ -231,7 +230,7 @@ Blue Bloods
 BMC-HD TV
 bon appetit
 Bonanza
-Boomerang
+Boomerang (United States)
 Botflix Radioo
 Botflix TV
 Bounce
@@ -373,6 +372,7 @@ CNN en Espanol
 CNN Originals
 Cold Case Files
 Collier TV
+Comedy Central (United States)
 Comedy Central Animation
 Comedy Central en Espanol
 Comedy Central Pluto TV
@@ -467,7 +467,7 @@ Dry Bar Comedy+
 Duck Hunting TV
 Dungeon TV
 Dynasty
-E! East
+E! (United States) East
 E! Keeping Up
 Ebony TV by Lionsgate
 EBS Cinema
@@ -931,6 +931,7 @@ NHL Network
 NHRA TV
 Nick Jr. (United States)
 Nick Jr. Pluto TV
+Nickelodeon (United States)
 Nickelodeon en espanol
 Nickelodeon Pluto TV
 Nicktoons (United States)
@@ -970,7 +971,7 @@ Pac-12 Insider
 Pacific Island Network
 Palm Beaches TV
 Paramount Movie Channel
-Paramount Network
+Paramount Network (United States)
 Paramount+ Picks
 Pars TV
 Pasco TV
@@ -1184,6 +1185,7 @@ SportsGrid
 SPTV
 St Lucie Public Schools
 Stadium
+Star Action
 Star Channel International
 Star Trek US
 Star Trek: Deep Space Nine
@@ -1291,6 +1293,7 @@ The Word Network
 The Young Turks
 theDove TV
 TheGrio TV
+TheGrio TV FAST
 This Old House
 Thornton 8
 Three's Company

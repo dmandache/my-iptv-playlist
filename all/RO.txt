@@ -26,7 +26,7 @@ Asia Express NonStop
 Atomic Academy TV
 Atomic TV
 AXN CEE Romania
-AXN Spin (Hungary)
+AXN Spin
 B1
 Banat TV
 Bihor TV
@@ -46,12 +46,17 @@ Credo TV
 DeParinti.ro
 Digi 24
 Digi 4K
+Digi Sport 1
+Digi Sport 2
+Digi Sport 3
+Digi Sport 4
 Disco Mix (576i)
 Discovery Channel (Romania)
 Disney Channel (Bulgaria) (576i)
 Disney Channel (Romania)
 Disney Junior (Romania)
 Dotto TV
+E! (Romania)
 EMI TV (576i)
 Etno TV
 Euronews Romania
@@ -65,6 +70,7 @@ FILMBOX+ Emotion Romania
 FILMBOX+ Hits Romania
 FILMBOX+ Love & Crime Romania
 FILMBOX+ One Romania
+Formula 1 AntenaPlay (576i)
 Happy Channel HD (1080i)
 HD365 TV
 Hunedoara 1
@@ -108,6 +114,7 @@ National 24 Plus
 National Geographic Wild (Romania)
 National TV
 NCN
+NHL AntenaPlay (576i)
 Nickelodeon (Romania)
 Nicktoons (Romania)
 Nostalgia TV
@@ -115,7 +122,6 @@ Nova TV Brasov
 Observator News
 Orizont TV (576i)
 Party Mix
-Prima 4K
 Prima News
 Prima TV (Romania)
 Pro Arena
@@ -160,7 +166,7 @@ TeleMoldova +
 Telestar1
 Tequila Music TV
 The Fishing & Hunting Channel
-Timeless Dizi Channel
+Timeless Dizi Channel (576i)
 Traditional TV
 TraLaLa DSN
 TraLaLa TV
@@ -192,3 +198,4 @@ UTV (Romania) HD (1080i)
 Viasat Kino Romania
 Voyo Events (576i)
 Voyo Sport 1 (1080i)
+Zece TV
