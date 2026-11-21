@@ -1,46 +1,44 @@
-# Keep list for UK
-# One channel name per line. Lines starting with # are ignored.
-# Remove channels you do not want to keep.
-Adventure Earth
-Afrobeats
-Autentic History
-Autentic Travel
-BBC Alba
-BBC Four
-BBC Four UK
-BBC Four/CBeebies
-BBC Lifestyle Asia
-BBC One London
-BBC Parliament
-BBC Scotland
-BBC Three
-BBC Three/CBBC
+# Keep list for UK — lean mainstream highlight reel.
+# One channel name per line (must match a name in all/UK.txt). Lines starting with # are ignored.
+
+# Terrestrial / big entertainment
+BBC One
 BBC Two
-BBC Two Northern Ireland
-BBC Two Wales
-BBC UHD 1
-CNBC UK
-DiscoverFilm
-NBC News NOW
-Nicktoons
-Now 70s
-Now 80s
-Now Rock
-Pop
-Qwest TV Jazz & Beyond
-Rakuten Top Movies UK
+BBC Three
+BBC Four
+ITV2
+ITV3
+ITV4
+Channel 4
+E4
+More4
+Channel 5 (United Kingdom)
+5USA
+U&Alibi
+U&W
+Really
+Quest
+
+# Docs / factual
+Discovery Channel (United Kingdom)
+National Geographic (United Kingdom)
+Discovery History
+
+# Movies
+GREAT! movies
+Talking Pictures TV
+Rakuten TV Top Movies UK
 Rakuten TV Action Movies UK
 Rakuten TV Comedy Movies UK
-Rakuten TV Drama Movies UK
-Rakuten TV Family Movies UK
-That's 70s
-That's TV
-The Graham Norton Show
-Top Gear
-Totalmusic
-Totalmusic 2000s
-Totalmusic 80s
-Totalmusic Concerts
-Totalmusic Dance
-TRACE Latina
-Vantage Music UK
+
+# Sport
+Sky Sports News
+Sky Sports F1
+TNT Sports 1
+TNT Sports 2
+Eurosport 1 UK
+
+# News (kept to one)
+BBC News UK
+
+# Show channels (approved)

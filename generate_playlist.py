@@ -6,8 +6,6 @@ import unicodedata
 from urllib.request import Request, urlopen
 
 SOURCES = {
-    "RO": "https://iptv-org.github.io/iptv/countries/ro.m3u",
-    "FR": "https://iptv-org.github.io/iptv/countries/fr.m3u",
     "UK": "https://iptv-org.github.io/iptv/countries/uk.m3u",
     "US": "https://iptv-org.github.io/iptv/countries/us.m3u",
 }
@@ -421,10 +419,8 @@ def main():
 
     total = sum(counts.values())
     print(f"Wrote {OUTFILE}")
-    print(f"RO: {counts.get('RO', 0)}")
-    print(f"FR: {counts.get('FR', 0)}")
-    print(f"UK: {counts.get('UK', 0)}")
-    print(f"US: {counts.get('US', 0)}")
+    for country_code in SOURCES:
+        print(f"{country_code}: {counts.get(country_code, 0)}")
     print(f"Total: {total}")
 
     if keep_stats:
