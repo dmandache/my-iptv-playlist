@@ -2,10 +2,14 @@ name: Regenerate playlist
 
 on:
   workflow_dispatch:
+  push:
+    paths:
+      - channels.txt
+      - generate_playlist.py
   schedule:
     # Every day at 3:17 AM, using the repository's local timezone.
     - cron: "17 3 * * *"
-      timezone: "Europe/Paris"
+      timezone: "Europe/London"
 
 permissions:
   contents: write

@@ -1,4 +1,4 @@
-﻿"""Build tv.m3u from the curated list in channels.txt.
+"""Build tv.m3u from the curated list in channels.txt.
 
 For every channel in channels.txt we collect all matching streams from the
 sources below, keep only those served from official broadcaster / FAST-service
@@ -153,7 +153,7 @@ def quality_of(raw: str) -> int:
         return 1080
     if re.search(r"\bHD\b", raw):
         return 720
-    return 480  # unknown: assume SD-ish
+    return 0  # unknown (Pluto etc. don't say; usually 720p)
 
 
 def is_trusted(url: str) -> bool:
@@ -248,7 +248,8 @@ def probe(url: str) -> Tuple[bool, str, int]:
         for _ in range(3):  # master -> variant -> (rarely) another level
             if "#EXT-X-STREAM-INF" not in body:
                 break
-            nxt = first_uri(body.split("#EXT-X-STREAM-INF", 1)[1])
+            after_tag = body.split("#EXT-X-STREAM-INF", 1)[1].split("\n", 1)
+            nxt = first_uri(after_tag[1]) if len(after_tag) > 1 else None
             if not nxt:
                 return False, "empty master playlist", status
             status, final, data = fetch(urljoin(final, nxt))
@@ -332,7 +333,8 @@ def write_status(channels: List[Channel], checked: bool):
             if c.chosen:
                 s = c.chosen
                 fmt = "DASH" if s.is_dash else "HLS"
-                f.write(f"| {c.section} | {c.display} | {c.note} | {s.quality}p {fmt} | {s.source} |\n")
+                q = f"{s.quality}p" if s.quality else "auto"
+                f.write(f"| {c.section} | {c.display} | {c.note} | {q} {fmt} | {s.source} |\n")
             else:
                 f.write(f"| {c.section} | {c.display} | **dropped: {c.note}** | | |\n")
         if bad:
@@ -373,7 +375,7 @@ def main():
     print(f"Wrote {OUTFILE}: {kept}/{len(channels)} channels")
     for c in channels:
         mark = "OK " if c.chosen else "-- "
-        extra = f" [{c.chosen.source}, {c.chosen.quality}p]" if c.chosen else ""
+        extra = f" [{c.chosen.source}, {c.chosen.quality or 'auto'}p]" if c.chosen else ""
         print(f"  {mark}{c.section:14} {c.display:28} {c.note}{extra}")
 
 

@@ -43,10 +43,11 @@ Tosh.0
 
 [Movies]
 GREAT! movies = GREAT! movies | Great! Movies
-Rakuten Top Movies = Rakuten Top Movies UK | Rakuten TV Top Movies UK
-Rakuten Action Movies = Rakuten TV Action Movies UK
-Rakuten Comedy Movies = Rakuten TV Comedy Movies UK
+MovieSphere = MovieSphere UK | Moviesphere
+Pluto TV Movies
+Pluto TV Action
 Rakuten Thrillers = Rakuten TV Thrillers UK
+Rakuten Sci-Fi = Rakuten TV Sci-Fi UK
 
 [News]
 BBC News

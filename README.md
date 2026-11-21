@@ -1,70 +1,45 @@
-# My IPTV Playlist: Free IPTV M3U Playlist Updated Daily
+# IPTV playlist: lean UK highlight reel
 
-![Playlist Status](https://img.shields.io/badge/status-active-brightgreen)
-![Format](https://img.shields.io/badge/format-M3U-blue)
-![License](https://img.shields.io/badge/license-MIT-lightgrey)
-![Maintained](https://img.shields.io/badge/maintained-yes-green)
-[![Views](https://hits.sh/github.com/dmandache/my-iptv-playlist.svg?label=Views&color=blue)](https://hits.sh/github.com/dmandache/my-iptv-playlist/)
-[![Stars](https://img.shields.io/github/stars/dmandache/my-iptv-playlist?style=flat&logo=github&color=yellow)](https://github.com/dmandache/my-iptv-playlist/stargazers)
-
-A curated IPTV playlist of publicly available TV channels focused on **news, entertainment, and major international networks**.
-
-Playlist and available channels refresh automatically every day with new M3U links so you always have fresh live TV.
-
-Designed to work with IPTV players such as: **TiviMate**, **VLC**, **Kodi**, **Jellyfin** or **OTT Navigator**.
+A short, curated playlist of English-language channels, built for watching from the UK:
+BBC, UKTV's free U& channels, UK entertainment favourites, show-specific channels, movies
+and a few news channels.
 
 ## Playlist URL
 
-Use the **raw GitHub link** in your IPTV player:
-
 ```
-https://raw.githubusercontent.com/dmandache/my-iptv-playlist/master/tv.m3u
+https://raw.githubusercontent.com/maxmacgregor/iptv/master/tv.m3u
 ```
 
-Most IPTV apps will **automatically update the playlist** when changes are pushed to the repository.
-
-## Add to TiviMate
-
-1. Open **TiviMate**
-2. Go to **Settings → Playlists**
-3. Select **Add playlist**
-4. Choose **Enter URL**
-5. Paste:
+TV guide (optional, already referenced inside the playlist):
 
 ```
-https://raw.githubusercontent.com/dmandache/my-iptv-playlist/master/tv.m3u
+https://raw.githubusercontent.com/maxmacgregor/iptv/master/epg.xml
 ```
 
-6. Refresh playlist
+Works with TiviMate, OTT Navigator, VLC, Kodi, Jellyfin, etc.
 
-## Optional: Add EPG (TV Guide)
+## How it works
 
-You can add an Electronic Program Guide for program schedules.
+- `channels.txt` is the channel list. Add or remove lines to change the playlist.
+  `all/available.txt` lists every name you can use.
+- `generate_playlist.py` collects streams for each channel from
+  [iptv-org](https://github.com/iptv-org/iptv) (BBC, Samsung TV Plus, Rakuten, Pluto, Xumo, Vizio, Tubi feeds)
+  and [Free-TV](https://github.com/Free-TV/IPTV). It only uses official broadcaster and
+  free-streaming-service CDNs and ignores restream servers.
+- Each candidate stream is played (playlist → variant → segment). The first one that works goes in
+  the playlist, preferring UK feeds, then HLS, then higher resolution.
+- `STATUS.md` shows what was picked for each channel and what was dropped.
+- GitHub Actions rebuilds everything daily and whenever `channels.txt` changes.
 
-Example public EPG source:
+Run it locally:
 
 ```
-https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz
+python generate_playlist.py            # with stream checks
+python generate_playlist.py --no-check # fast, no checks
+python list_available_channels.py      # refresh all/available.txt
 ```
 
-Add this URL in your IPTV player under **EPG settings**.
+## Legal notice
 
-## Acknowledgements
-
-This playlist builds upon publicly available IPTV resources.
-Special thanks to the iptv-org project.
-
-Their project maintains one of the largest open collections of **legal IPTV streams, channel metadata, and EPG sources**, which makes curated playlists like this possible.
-
-* [https://iptv-org.github.io/](https://iptv-org.github.io/)
-* [https://github.com/iptv-org/iptv](https://github.com/iptv-org/iptv)
-
-## Legal Notice
-
-This repository **does not host any video streams**.
-
-It only contains links to publicly available IPTV streams already accessible on the internet.
-
-## Support This Project
-
-If you find this repo useful or it inspired you to create your own custom playlist, consider giving it a ⭐ star!
+This repository does not host any video. It only links to streams published by broadcasters and
+free ad-supported TV services.

@@ -3,9 +3,9 @@ name: Refresh available channels
 on:
   workflow_dispatch:
   schedule:
-    # Every Sunday at 04:17, Europe/Paris.
+    # Every Sunday at 04:17, Europe/London.
     - cron: "17 4 * * 0"
-      timezone: "Europe/Paris"
+      timezone: "Europe/London"
 
 permissions:
   contents: write
