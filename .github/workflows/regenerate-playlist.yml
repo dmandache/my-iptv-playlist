@@ -30,7 +30,7 @@ jobs:
           python-version: "3.12"
 
       - name: Regenerate playlist
-        run: python generate_playlist.py --keep-dir
+        run: python generate_playlist.py
 
       - name: Regenerate EPG
         run: python generate_epg.py
@@ -40,7 +40,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add tv.m3u epg.xml
+          git add tv.m3u epg.xml STATUS.md
 
           if git diff --cached --quiet; then
             echo "No changes to commit."

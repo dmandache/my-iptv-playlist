@@ -1,0 +1,54 @@
+# Curated channel list -> tv.m3u
+#
+# [Section]                 becomes the group in your IPTV player
+# Display Name              matched against source channel names (case-insensitive)
+# Display Name = A | B      matched against any of the aliases A, B, ...
+#
+# Names are matched after stripping quality tags like "(1080p)" and "[Geo-blocked]".
+# Run `python list_available_channels.py` to see every name the sources offer.
+# Only streams on official broadcaster / FAST-service CDNs are used (see TRUSTED_HOSTS
+# in generate_playlist.py); random restream servers are ignored.
+
+[UK]
+BBC One = BBC One London | BBC One
+BBC Two = BBC Two HD | BBC Two
+BBC Three = BBC Three HD | BBC Three
+BBC Four = BBC Four HD | BBC Four
+
+[U& (UKTV)]
+U&Laughs
+U&Real Heroes
+U&Transport
+U&The Past
+
+[UK Favourites]
+8 Out Of 10 Cats
+Whose Line Is It Anyway?
+Masterchef UK
+Come Dine With Me
+Pointless UK
+
+[Shows]
+Top Gear = Top Gear | BBC Top Gear
+Hell's Kitchen = Hell's Kitchen | Gordon Ramsay's Hell's Kitchen
+Mythbusters = Mythbusters | MythBusters
+South Park
+Bar Rescue
+Ink Master
+American Ninja Warrior
+Wipeout Xtra
+The Bob Ross Channel
+SNL Vault
+Tosh.0
+
+[Movies]
+GREAT! movies = GREAT! movies | Great! Movies
+Rakuten Top Movies = Rakuten Top Movies UK | Rakuten TV Top Movies UK
+Rakuten Action Movies = Rakuten TV Action Movies UK
+Rakuten Comedy Movies = Rakuten TV Comedy Movies UK
+Rakuten Thrillers = Rakuten TV Thrillers UK
+
+[News]
+BBC News
+Sky News
+CNN International = CNNi | CNN Headlines International
