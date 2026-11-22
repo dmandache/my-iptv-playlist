@@ -141,14 +141,10 @@ Iqra Bangla
 Iqra TV
 Iran International
 Islam Channel
-ITV2
-ITV3
-ITV4
 Judge Judy (Germany)
 Kalsan TV
 Kanal Jadid
 Kanshi TV
-KN Music TV
 KTO
 Latest TV
 LoveWorld UK
@@ -214,7 +210,6 @@ Pluto TV Sherlock
 Pluto TV Sitcoms GB
 Pluto TV Space (Germany) GB
 Pluto TV Tough Jobs
-Pluto TV Westerns (Germany)
 Pop
 Pop Up
 Quest
@@ -244,7 +239,6 @@ Sky Sports F1
 Sky Sports News
 Sky Sports NFL
 So... Real UK
-South Park (Germany) GB
 Spark TV
 Star Bharat (United Kingdom)
 Star Vijay UK
@@ -256,7 +250,6 @@ talkSPORT
 TalkTV
 Tastemade UK
 TBN UK
-Teen Mom (Germany) GB
 Teletubbies
 Terra Mater WILD English
 That's 70s
@@ -265,7 +258,6 @@ That's TV
 The Chat Show Channel
 The Graham Norton Show
 The Nanny
-The New Detectives (Germany)
 The Pet Collective UK
 The Yellow Couch with Jeremy Lynch
 Tiny Pop
@@ -277,7 +269,6 @@ TNT Sports 3
 TNT Sports 4
 Together TV
 Top Gear
-Totally Turtles (Germany) GB
 Totalmusic
 Totalmusic 2000s
 Totalmusic 80s

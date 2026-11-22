@@ -4,14 +4,18 @@
 13eme Rue
 20 Minutes TV
 6ter
+AB1
+Action
 ADN TV+
 Africa 24
 Africa 24 English
 Africa 24 Sport
 Alerte a Malibu
 Alpe d'Huez TV
+Animaux
 Antenne Reunion
 arte (France)
+Automoto la chaine
 BFM Alsace
 BFM Business
 BFM Cote d'Azur
@@ -31,8 +35,10 @@ Brionnais TV
 BTL TV (Netherlands)
 C Star
 Caillou
-Canal+ Sport (France)
+Canal J
+Canal+ Sport
 Cannes Lerins TV
+Chasse & Peche
 Cine 666 by Pluto TV
 Cine Action by Pluto TV
 Cine by Pluto TV
@@ -52,9 +58,11 @@ Clubbing TV France
 CNews
 CNEWS PRIME
 Comedy Central (France)
+Crime District
 DBM TV
 Detective Conan France
 Discovery Channel (France)
+Disney Channel (France)
 Disney Jr. (France)
 Dossiers FBI
 Emotion L
@@ -83,6 +91,7 @@ Gong
 Gulli
 HANDICAP TV
 Helene et les garcons
+Histoire TV
 ILTV
 Inazuma Eleven
 Into Crime
@@ -102,13 +111,16 @@ Littoral FM TV
 Louis La Brocante
 M6
 M6 Music
+Mangas
 MCM Pop
 MCM Top (France)
 MDL
+Melody
 Mezzo
 Mezzo Live
 Monte Carlo Digital Television
 Moselle TV
+Motorvision+
 Mr Bean Animated FR
 MTV (France)
 MTV CLASSICS
@@ -122,6 +134,7 @@ NOVO19
 NRJ Hits
 One Piece FR
 P2M TV
+Paris Premiere
 Pluto TV 90's Classics
 Pluto TV Animaux
 Pluto TV ANIME GO!
@@ -144,13 +157,15 @@ Pluto TV Telerealite France
 Pluto TV Toons FR
 Puissance TV
 Qwest TV Jazz & Beyond
-Ridiculousness (Germany)
 RMC Decouverte
 RMC Life
 RMC Story
 RT France
+RTL9
+Science & Vie TV
 SciFi
 ScreamIN
+Serie Club
 Series by Pluto TV
 Sony One Blacklist
 Sony One Favoris
@@ -159,14 +174,15 @@ Sony One Hits Comedie
 Syfy
 T18
 Tebeo TV (576i)
-Teen Mom (Germany) FR
 TeleGohelle
+Teva
+TF1
 TF1 Series Films
 TFX
 TiVi5 Monde
 TMC
-Tortues Ninja TV (Germany)
 Tout le monde deteste Chris
+Toute l'Histoire
 Trace Africa
 Trace Afrikora
 Trace Ayiti
@@ -186,6 +202,7 @@ Trace Vanilla Islands
 True Crime by Pluto TV
 Turbo
 TV Alsace
+TV Breizh
 TV Monaco
 TV Mulhouse
 TV3V
@@ -196,6 +213,7 @@ TV7 Colmar
 TV78
 TVR (France)
 TZiK
+Ushuaia TV
 ViaMatele
 ViaOccitanie
 viaTelePaese

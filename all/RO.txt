@@ -18,7 +18,7 @@ Antena 3 Suceava (576i)
 Antena International
 Antena Monden
 Antena Stars HD (1080i)
-AntenaPlay Events (576i)
+AntenaPlay Events
 AntenaSport
 Arges TV
 AS TV (Romania)
@@ -46,17 +46,12 @@ Credo TV
 DeParinti.ro
 Digi 24
 Digi 4K
-Digi Sport 1
-Digi Sport 2
-Digi Sport 3
-Digi Sport 4
 Disco Mix (576i)
 Discovery Channel (Romania)
 Disney Channel (Bulgaria) (576i)
 Disney Channel (Romania)
 Disney Junior (Romania)
 Dotto TV
-E! (Romania)
 EMI TV (576i)
 Etno TV
 Euronews Romania
@@ -71,6 +66,8 @@ FILMBOX+ Hits Romania
 FILMBOX+ Love & Crime Romania
 FILMBOX+ One Romania
 Formula 1 AntenaPlay (576i)
+Formula 2 AntenaPlay (576i)
+Formula Academy AntenaPlay
 Happy Channel HD (1080i)
 HD365 TV
 Hunedoara 1
@@ -87,6 +84,7 @@ Insula non stop (576i)
 Intermedia TV
 iRoast
 iUmor
+JimJam (Romania)
 JOB TV
 Kanal D (Romania)
 Kanal D2 (1080i)
@@ -108,11 +106,13 @@ MISA TV English (576i)
 MISA TV Hungarian (576i)
 Moldova TV
 Mooz Dance HD (1080i)
+Motorvision+
 Muscel TV
 Nasul TV
 National 24 Plus
 National Geographic Wild (Romania)
 National TV
+NBA AntenaPlay
 NCN
 NHL AntenaPlay (576i)
 Nickelodeon (Romania)
@@ -123,6 +123,13 @@ Observator News
 Orizont TV (576i)
 Party Mix
 Prima News
+Prima Sport 1
+Prima Sport 2
+Prima Sport 3
+Prima Sport 4
+Prima Sport 5
+Prima Sport PPV 1
+Prima Sport PPV 2
 Prima TV (Romania)
 Pro Arena
 Pro Cinema
@@ -153,6 +160,8 @@ RTN Chicago
 Sangeorz TV
 Sens TV (576i)
 Shop On TV (576i)
+SkyShowtime 1
+SkyShowtime 2
 Smart Radio
 SperantaTV
 Sport Extra
@@ -173,7 +182,7 @@ TraLaLa TV
 Travel Mix
 Trinitas TV (576i)
 TV Arad (576i)
-TV AS
+TV AS (Romania)
 TV Buzau
 TV Paprika (Romania)
 TV SE

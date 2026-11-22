@@ -23,6 +23,7 @@
 3ABN Latino
 3ABN Praise Him Music Network
 3ABN Proclaim! Network
+3TV
 48 Hours
 50 Cent Action
 70s Cinema
@@ -30,12 +31,16 @@
 90's Kids
 90s Kids TV 2
 90s Throwback
+A&E
 Aastha International
+ABC
 ABC KAAL
+ABC KATC
 ABC KERO-TV
 ABC KGTV
 ABC KGUN-TV
 ABC KITV
+ABC KIVI-TV
 ABC KMGH-TV
 ABC KOAT-TV
 ABC KRGV-TV
@@ -51,9 +56,12 @@ ABC News Live 6
 ABC News Live 7
 ABC News Live 8
 ABC News Live 9
+ABC WBAY-TV
 ABC WBBJ-TV
 ABC WBRZ-TV
+ABC WCPO-TV
 ABC WDIO-DT
+ABC WEWS-TV
 ABC WFTV
 ABC WISN-TV
 ABC WJLA-TV
@@ -61,12 +69,14 @@ ABC WLOS
 ABC WMAR-TV
 ABC WMUR-TV
 ABC WPDE-TV
+ABC WSB-TV
 ABC WSOC-TV
 ABC WSYX
 ABC WTNH
 ABC WTVQ-DT
 ABC WTXL-TV
 ABC WWAY
+ABC WWSB
 ABHP TV
 ABN Afghanistan
 ABN Africa
@@ -123,6 +133,7 @@ Always Funny Videos
 Amazing Facts TV
 AMC (United States)
 AMC en Espanol
+AMC Thrillers
 America's Next Top Model
 America's Test Kitchen
 America's Voice
@@ -181,6 +192,7 @@ BATV Government Channel
 BATV Government TV
 BATV Public Channel
 Baywatch
+BBC Drama US
 BBC Earth US
 BBC Food
 BBC Home & Garden
@@ -262,7 +274,7 @@ CAN TV36
 Canal de la Fe
 Canela TV
 Capital City Connection Montgomery
-Car Chase (United States)
+Car Chase
 Cars.TV
 Cartoon Network (United States)
 Cartoon Network (United States) West
@@ -272,9 +284,15 @@ CBN Espanol
 CBN Family
 CBN News
 CBS en espanol
+CBS KBZK
 CBS KCCI
 CBS KIRO-TV
+CBS KMOV
 CBS KMTV-TV
+CBS KOLD-TV
+CBS KPAX-TV
+CBS KRTV
+CBS KTVQ
 CBS KUTV
 CBS KWTV-DT
 CBS KZTV
@@ -294,13 +312,19 @@ CBS News Pittsburgh
 CBS News Sacramento
 CBS Sports Golazo Network
 CBS Sports HQ
+CBS WANF
 CBS WCBI-TV
+CBS WDBJ
 CBS WDEF-TV
+CBS WFSB
 CBS WHIO-TV
 CBS WJAX-TV
 CBS WKRC-TV
+CBS WKYT-TV
 CBS WPEC
+CBS WTKR
 CBS WTVR-TV
+CBS WVLT-TV
 CBS WWMT
 CC-TV
 CCX1
@@ -369,10 +393,10 @@ CMTV
 CNBC
 CNN
 CNN en Espanol
+CNN Headlines
 CNN Originals
 Cold Case Files
 Collier TV
-Comedy Central (United States)
 Comedy Central Animation
 Comedy Central en Espanol
 Comedy Central Pluto TV
@@ -403,7 +427,7 @@ Crimenes Imperfectos
 Crunchyroll
 Cruz TV
 CSat TV
-CSI (United States)
+CSI
 CSI en espanol
 CSI: Miami
 CSI: Miami en espanol
@@ -495,7 +519,7 @@ F1 Channel
 FailArmy
 Fairground AI Creator TV
 Faith TV
-Family Ties (United States)
+Family Ties
 Farscape
 Fashion Finds
 Fast TV
@@ -522,22 +546,32 @@ Fox (United States) KBSI
 Fox (United States) KCPQ
 Fox (United States) KDFW
 Fox (United States) KMPH-TV
+Fox (United States) KMSP-TV
 Fox (United States) KOKH-TV
 Fox (United States) KRIV
 Fox (United States) KSAZ-TV
+Fox (United States) KSTU
 Fox (United States) KTBC
 Fox (United States) KTTV
+Fox (United States) KVVU-TV
+Fox (United States) WAGA-TV
+Fox (United States) WALA-TV
 Fox (United States) WBFF
+Fox (United States) WBRC
 Fox (United States) West
 Fox (United States) WFTX-TV
 Fox (United States) WFXT
 Fox (United States) WHBQ-TV
+Fox (United States) WHNS
 Fox (United States) WITI
 Fox (United States) WJBK
 Fox (United States) WNYW
 Fox (United States) WTTG
 Fox (United States) WTVT
 Fox (United States) WTXF-TV
+Fox (United States) WVUE-DT
+Fox (United States) WXIX-TV
+Fox (United States) WXMI
 Fox (United States) WXXV-TV
 Fox Business Network
 Fox Deportes
@@ -548,6 +582,9 @@ Fox Soul
 Fox Sports 1
 Fox Sports 2
 Fox Weather
+Fox Weather KTVU
+Fox Weather WFLD
+Fox Weather WOFL
 Free Speech TV
 Freebie TV
 FrightFlix
@@ -598,11 +635,10 @@ Greensboro TV
 Grit Xtra
 Grjngo Western Movies
 Guangdong TV America
-GunAz TV
 Gunsmoke
 Hallmark Movies & More
 Hallmark Mystery
-Happy Days (United States)
+Happy Days
 HappyKids
 Harmony Gospel Music TV
 HarPal Geo
@@ -618,6 +654,7 @@ HCTV Government Channel
 HCTV Public Access Channel
 Heartland
 Heartland Web
+HerSphere
 HGTV (United States)
 Hi-YAH!
 High Vision TV
@@ -648,7 +685,7 @@ HTV 2 Houston Television
 Humor Mill
 Hungry
 I Love Lucy
-iCarly (United States)
+iCarly
 IFC
 iHolyfield TV WHPS-CD
 Iman TV
@@ -663,6 +700,7 @@ InTouch+
 Investiga US
 Investigation Discovery (United States)
 INWILD
+ION Mystery
 ION Plus
 ION TV
 IraneFarda TV
@@ -670,13 +708,14 @@ Iron Chef
 It Is Written TV
 It's Supernatural! Network
 JBS
-Jersey Shore (United States)
+Jersey Shore
 Jewelry TV
 Jewelry TV 2
 Jewish Life Television
 Joel Osteen Network
 Johnny Carson TV
 Journy
+Judge Faith
 Judge Nosey
 Jus Hindi
 Jus One
@@ -720,6 +759,7 @@ La Voz de Jesus
 LA36
 Lacrosse TV
 Laff
+Laff More
 Lake Havasu City 4
 LakeFront TV
 Lakewood Channel 8
@@ -754,19 +794,19 @@ LLBN TV Korean
 LLBN TV Latino
 LLBN TV Romanian
 LLBN TV South Asia
+Local Now
 Localish
 Logo Pluto TV
 Logos TV (Spain)
 Logos TV (United States)
 Logos TV English
-Logos TV Estudio
 Logos TV Kids
-Logos TV Salud
 Lone Star
 Love & Hip Hop
 Love Nature en Espanol
 Love Pets
 Love The Planet
+Love Thy Neighbor
 LoveWorld USA
 Lucas & Friends
 Lucky Dog
@@ -779,7 +819,7 @@ Maria Vision USA
 Marquee Sports Network
 Martin County TV
 Mas adrenalina
-Matlock (United States)
+Matlock
 Maverick Black Cinema
 Maxcine
 Maxcine 2
@@ -811,12 +851,14 @@ Midpen Media Center Channel 75
 Midsomer Murders
 Military History
 Ministerio La Voz De Un Remanente TV
-Mission Impossible (United States)
+Mission Impossible
 Mission TV
 Misterios sin resolver
 MLB
 MLB Strike Zone
 MMA TV
+MNT KCTV
+MNT KPTV
 MNT WCIV
 MNT WFLD
 MNT WOIO
@@ -866,12 +908,15 @@ National Geographic Wild (United States) HD East
 NBA TV
 NBC
 NBC Comedy Vault
+NBC KJRH-TV
 NBC KNTV
+NBC KOAA-TV
 NBC KRIS-TV
 NBC KSBW
 NBC KSBY
 NBC KSHB-TV
 NBC KSNV
+NBC KTVH-DT
 NBC KXAS-TV
 NBC LX Home
 NBC News NOW
@@ -887,12 +932,14 @@ NBC WJAR
 NBC WKYC
 NBC WLIO
 NBC WMAQ-TV
+NBC WMC-TV
 NBC WMGT-TV
 NBC WNYT
 NBC WOAI-TV
 NBC WPTV-TV
 NBC WPXI
 NBC WRDE-LD
+NBC WSMV-TV
 NBC WTMJ-TV
 NBC WTOV-TV
 NBC WTVJ
@@ -954,6 +1001,7 @@ Olelo 53
 Olelo 54
 Olelo 55
 Omid e Iran TV
+On Patrol: Live
 One America News Network
 One Piece
 Ontario Public Access Channel
@@ -997,6 +1045,7 @@ PBS KQED
 PBS KUON-TV
 PBS KVIE
 PBS Nature
+PBS Retro
 PBS Travel
 PBS WEDQ
 PBS WJXT
@@ -1013,9 +1062,10 @@ PGA Tour
 PhillyCAM
 PHLgovTV
 PHXTV
+Pickleball TV
 PixL TV
 Placid
-Pluto TV Action (United States)
+Pluto TV Action
 Pluto TV Adventure
 Pluto TV Anime
 Pluto TV Anime Movies
@@ -1035,7 +1085,7 @@ Pluto TV Franchise Favorites
 Pluto TV Game Shows
 Pluto TV History
 Pluto TV Hometown Drama
-Pluto TV Horror (United States)
+Pluto TV Horror
 Pluto TV Icons
 Pluto TV Lives
 Pluto TV Los nuevos detectives
@@ -1043,12 +1093,12 @@ Pluto TV Military
 Pluto TV Minuto Para Ganar
 Pluto TV Misterios Medicos
 Pluto TV Novelas
-Pluto TV Paranormal (United States)
+Pluto TV Paranormal
 Pluto TV Reaction
 Pluto TV Reality
 Pluto TV Romance
 Pluto TV Sanctuary
-Pluto TV Sci-Fi (United States)
+Pluto TV Sci-Fi
 Pluto TV Science
 Pluto TV Spotlight
 Pluto TV Staff Picks
@@ -1057,14 +1107,15 @@ Pluto TV Terror
 Pluto TV The Twilight Zone
 Pluto TV Thrillers
 Pluto TV Trending Now
-Pluto TV True Crime (United States)
-Pluto TV Westerns (United States)
+Pluto TV True Crime
+Pluto TV Westerns
 Pluto TV Wipeout
 pocket.watch
 Pocono Television Network
 PokerGo
 Pomona Internet Streaming Channel
 Popstar! TV
+Popular Science
 Portlandia
 Positiv TV
 Potta-Divine TV USA
@@ -1072,6 +1123,7 @@ PowerNation TV
 PSD TV
 PSL TV
 PTL TV Network
+Pure Flix TV
 Pursuit Channel
 PursuitUP
 QVC (United States)
@@ -1087,7 +1139,7 @@ RadioMensaje TV
 Rai World Premium
 Rainbow Ruby
 Rally TV
-Rawhide (United States)
+Rawhide
 RCTV (United States)
 RCTV3
 Real America's Voice
@@ -1098,6 +1150,7 @@ Red Apple 21
 Red Bull TV US
 RedADvenir TV KSCE
 Reelz
+Reelz Famous & Infamous
 Retro TV
 RetroCrush
 Reuters TV
@@ -1109,7 +1162,7 @@ Revry LatinX
 Revry News
 Revry Queer
 RFD-TV
-Ridiculousness (United States)
+Ridiculousness
 RiffTrax
 Right Now TV
 Roar
@@ -1117,6 +1170,7 @@ Roar KCWX
 Roar KOKI-TV
 Roar WKEF
 Roar WSBT-TV
+Roar WTVF
 Rocky Hill Channel 16
 RT en Espanol
 RTH-TV1
@@ -1170,7 +1224,7 @@ Smart LifeStyle TV
 SMCTV Channel 23
 SMCTV Channel 24
 SMCTV Channel 25
-Smithsonian Channel Selects (United States)
+Smithsonian Channel Selects
 Smurf TV
 SNL Vault
 Sonic TV
@@ -1178,6 +1232,9 @@ Sony Canal Novelas
 Sony KAL Hindi
 Sony Movies (United States)
 Sound View Community Media
+Space Science Now
+Spark TV Light & Love
+SPEEDVISION
 Spike Outdoors
 Spike Pluto TV
 Spirit TV
@@ -1189,8 +1246,8 @@ Star Action
 Star Channel International
 Star Trek US
 Star Trek: Deep Space Nine
-Star Trek: The Next Generation (United States)
-Star Trek: Voyager (United States)
+Star Trek: The Next Generation
+Star Trek: Voyager
 Starz Cinema
 Starz Comedy
 Starz Encore Spanish
@@ -1231,7 +1288,7 @@ TCM
 TCM West
 TCT
 TED
-Teen Mom (United States)
+Teen Mom
 TeenNick (United States)
 Tele Boston
 Tele Pam
@@ -1265,6 +1322,10 @@ The Chat Show Channel
 The City of Marina
 The Conners
 The Country Network
+The CW KTNV-TV
+The CW KWCH-DT
+The CW WAVE
+The CW WWBT
 The Design Network
 The Doctors
 The First TV
@@ -1276,7 +1337,7 @@ The Loop
 The Love Boat
 The Monterey Channel
 The Nest
-The New Detectives (United States)
+The New Detectives
 The Now Network
 The Peninsula Channel
 The Pet Collective
@@ -1288,7 +1349,7 @@ The Walk TV
 The Walking Dead en Espanol
 The Walking Dead Universe
 The Weather Channel
-The Wild Wild West (United States)
+The Wild Wild West
 The Word Network
 The Young Turks
 theDove TV
@@ -1310,13 +1371,12 @@ TNT International
 TNT Sports 4
 TODAY All Day
 Tom And Jerry
-Tom Sings TV
 Toonami Aftermath
 Toonami Aftermath West
 ToonGoggles
 Top Stories by Newsy
-Tosh.0 (United States)
-Totally Turtles (United States)
+Tosh.0
+Totally Turtles
 Tough Jobs
 Transformers TV
 Tribeca Channel
@@ -1330,7 +1390,6 @@ TSTV
 TUDN (United States)
 Turismo
 TUTV
-TV Daja
 TV Hispanic
 TV Land Drama
 TV Land Sitcoms
@@ -1439,6 +1498,7 @@ Weeds & Nurse Jackie
 WeHoTV
 Western TV
 Westerns 4U
+WFTS-TV 32.1
 WGGS-TV 16.1
 Whiplash
 Whiplash Cinema
